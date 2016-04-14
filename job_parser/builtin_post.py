@@ -1,6 +1,6 @@
 import os
 from bs4 import BeautifulSoup
-from helpers import gets, puts, find_span, write, titleize, is_url, clean_company, clean_position
+from helpers.utils import gets, puts, find_span, write, titleize, is_url, clean_company, clean_position
 from job_post import JobPost
 
 class BuiltinPost(JobPost):

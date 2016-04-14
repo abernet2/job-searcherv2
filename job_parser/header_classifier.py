@@ -1,6 +1,6 @@
 from job_post import JobPost
-from helpers import clean
-import contains
+from helpers.utils import clean
+import helpers.contains as contains
 
 def load_all_headers():
     posts = JobPost.all()

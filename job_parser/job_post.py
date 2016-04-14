@@ -1,6 +1,6 @@
 import re
 import os
-from helpers import write, gets, titleize
+from helpers.utils import write, gets, titleize
 from header_puller import header_puller as pull
 
 DIR = 'cached_job_posts/'

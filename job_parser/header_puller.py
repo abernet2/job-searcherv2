@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import re
-from helpers import headerify, gets
+from helpers.utils import headerify, gets
 
 def header_puller(html):
     html = collapse_html(html)

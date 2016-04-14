@@ -1,6 +1,6 @@
 import os
 from builtin_post import BuiltinPost
-from helpers import gets, titleize
+from helpers.utils import gets, titleize
 
 OLD_DIR = 'cached_pages/'
 NEW_DIR = 'cached_job_posts/'
