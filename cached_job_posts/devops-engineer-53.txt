@@ -1,0 +1,147 @@
+
+
+#position
+DevOps Engineer
+
+#company
+Wellspring
+
+#post
+<span class="nj-job-body">
+<p>
+<strong>
+     Position Summary:
+    </strong>
+</p>
+<p>
+<span>
+     Wellspring is hiring a Systems Engineer to help build our DevOps culture and assist with the delivery of a modern SaaS platform. In this role, you will work closely with our top notch infrastructure, release, and development teams to maintain and improve our performance, security, and uptime standards. Reporting directly to our Infrastructure Architect, this is an exciting career opportunity for a self-starting and resourceful professional.
+    </span>
+</p>
+<p>
+<span>
+     Our clients fight diseases, improve natural resource efficiency, create next generation electronics, and develop higher yield crops. Wellspring is the leading provider of software to manage R&amp;D and innovation. Our clients include Fortune 500 companies, premier research universities, and leading medical institutions. Wellspring also operates Flintbox®, the largest online marketplace for inventions emerging from research labs around the world.
+    </span>
+</p>
+<p>
+<span>
+     Wellspring offers a dynamic work environment located in the River North neighborhood of Chicago. Our team is highly collaborative, technical, and creative. This role will give you hands-on experience with the design and operation of a modern microservice-based SaaS application.
+    </span>
+</p>
+<p>
+<b>
+     Responsibilities:
+    </b>
+</p>
+<ul>
+<li>
+<span>
+      Deployment, administration, and troubleshooting of our distributed hosting infrastructure
+     </span>
+</li>
+<li>
+<span>
+      Setup and maintenance of automated configuration management and deployment systems
+     </span>
+</li>
+<li>
+<span>
+      Active collaboration with dev teams, providing everyday ChatOps, release, and system support
+     </span>
+</li>
+<li>
+<span>
+      Create and maintain technical procedures and documentation
+     </span>
+</li>
+<li>
+<span>
+      Response and resolution of service issues
+     </span>
+</li>
+</ul>
+<p>
+<b>
+     Requirements:
+    </b>
+</p>
+<ul>
+<li>
+<span>
+      Excellent verbal and written communication skills
+     </span>
+</li>
+<li>
+<span>
+      Effective communication and collaboration with internal teams and external clients
+     </span>
+</li>
+<li>
+<span>
+      Linux hosting experience (web serving, db admin, and JVM or interpreted language support)
+     </span>
+</li>
+<li>
+<span>
+      Experience with configuration management, systems scripting, and continuous deployment
+     </span>
+</li>
+<li>
+<span>
+      A documented history of hard work and engineering excellence
+     </span>
+</li>
+</ul>
+<p>
+<b>
+     Preferred:
+    </b>
+</p>
+<ul>
+<li>
+<span>
+      Experience instilling values and practices consistent with a strong DevOps and ChatOps culture
+     </span>
+</li>
+<li>
+<span>
+      Exposure to Cassandra, RabbitMQ, ElasticSearch, Mesos or other distributed systems
+     </span>
+</li>
+<li>
+<span>
+      Understanding of HTTP, SSL/TLS, and TCP/IP
+     </span>
+</li>
+<li>
+<span>
+      Experience with information security: standards certification, auditing, and pen testing
+     </span>
+</li>
+<li>
+<span>
+      Proven success in high-growth startup environments
+     </span>
+</li>
+<li>
+<span>
+      Bachelor’s degree or higher in Computer Science
+     </span>
+</li>
+</ul>
+<p>
+<span>
+     Are you the perfect fit?  We invite interested and qualified applicants to send a resume, brief introduction, and salary requirements to Ryan Krabath via
+     <a href="mailto:tech.careers@wellspring.com">
+      tech.careers@wellspring.com
+     </a>
+     .
+    </span>
+</p>
+<p>
+    Wellspring is an Equal Opportunity Employer.
+   </p>
+</span>
+
+#title
+devops-engineer-53

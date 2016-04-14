@@ -1,0 +1,81 @@
+
+
+#position
+Senior .Net Developer
+
+#company
+WyzAnt
+
+#post
+<span class="nj-job-body">
+<div>
+<p>
+<strong>
+      About WyzAnt
+     </strong>
+</p>
+<p>
+     We believe private tutoring is the most powerful way to unlock “I get it” moments—when eyes light up, possibilities unfold, and confidence is born. With an extensive selection of tutors listed, WyzAnt helps more students, in more places, than anyone else. Our team works hard to make personalized learning accessible and affordable, in person and online. That's why we're looking for great minds to join us.
+    </p>
+<p>
+<strong>
+      About the position
+     </strong>
+</p>
+<p>
+     We are a modern development shop that uses the latest Microsoft technologies for our main product along with a variety of other technologies/languages like Redis, Python, Redshift, Elasticsearch, Backbone, Objective-C, Java and Git.  One of our core values is “Always be learning” and nowhere does that apply more than in this position. Technology is rapidly evolving so we need people who are passionate and have an insatiable appetite for learning.  We expect every new employee to bring great ideas along and to push the company forward.
+    </p>
+<p>
+     As a developer at WyzAnt, you will be tasked with gathering requirements from end-users and their advocates, developing a plan to implement those requirements and then performing the actual implementation which may include any of the following: creating/modifying the necessary tables in a database, writing SQL and/or Linq queries to access the database, designing a practical object model/API and designing and implementing a good-looking, easy to use UI.
+    </p>
+<p>
+<b>
+      Candidates should have expertise with the following:
+     </b>
+</p>
+<ul>
+<li>
+      C# 4.0+
+     </li>
+<li>
+      ASP.NET MVC 5
+     </li>
+<li>
+      ORM - LinqToSql and Entity Frameworks
+     </li>
+<li>
+      T-SQL/Sql Server 2012
+     </li>
+<li>
+      Visual Studio 2013
+     </li>
+<li>
+      HTML/CSS/Responsive Grid
+     </li>
+<li>
+      Javascript/JQuery/RequireJS
+     </li>
+</ul>
+<p>
+<b>
+      And familiarity with:
+     </b>
+</p>
+<ul>
+<li>
+      Git/GitHub
+     </li>
+<li>
+      Scrum/Agile development processes
+     </li>
+</ul>
+<p>
+     As a small team, we're able to adopt new technologies and strategies very quickly. Quality code is highly valued and the ideal candidate will share in our desire to efficiently produce great software.  If this sounds like fun to you, let's talk!
+    </p>
+<p>
+</p>
+</div>
+</span>
+
+#title
+senior-net-developer-12

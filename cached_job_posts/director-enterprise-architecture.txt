@@ -1,0 +1,218 @@
+
+
+#position
+Director of Enterprise Architecture
+
+#company
+Jellyvision
+
+#post
+<span class="nj-job-body">
+<b>
+    THE JELLYVISION LAB NEEDS A DIRECTOR OF ENTERPRISE ARCHITECTURE
+   </b>
+<p>
+<b>
+</b>
+</p>
+<p>
+    Founded by the creator of the YOU DON'T KNOW JACK® game series,
+    <b>
+     The Jellyvision Lab, Inc.
+    </b>
+    creates virtual teachers, advisors, and salespeople who make online learning and decision making delightful.  In all that we do, our goal is to make complex topics simple and boring material interesting, using a combination of great design, unexpectedly funny content, and serious technology.
+   </p>
+<p>
+    Of all the virtual people Jellyvision has created, the tallest and least afraid of bears is ALEX® (
+    <a href="http://www.meetalex.com">
+     www.meetalex.com
+    </a>
+<u>
+     )
+    </u>
+    . ALEX helps companies talk their employees through the tricky choices they’ll have to make, like picking a health insurance plan, deciding how much to put in the 401(k), or whether they might want extra life insurance. Our customers love ALEX because he helps their employees figure out what’s best for their personal situations, which, in turn, saves our customers a boat-load of time and money - everybody wins! As we sell more and more of ALEX, we need more and more non-virtual (i.e., real life) people to keep the virtual ones amazing. That’s where you come in.
+   </p>
+<p>
+<b>
+     THAT’S LOVELY, BUT WHAT’S THE JOB?
+    </b>
+</p>
+<p>
+    The Director of Enterprise Architecture is a strategic role at Jellyvision. We need someone who will own the vision, direction, and leadership of our infrastructure approach. In this role, you will oversee the Technical Operations, IT, and Security and Compliance teams, and work directly with our Director of Product Engineering to ensure the success of our efforts and product deliverables. In other words, we’ll be counting on you to rally and manage lots of talented tech folks, keep the content flowing, and defend the security of the galaxy (as necessary).
+   </p>
+<p>
+    We’re looking for someone who can take a holistic approach to strategy across internal systems which support workflows and processes, as well as external-facing application platforms. You will oversee the delivery, integration, and operation of highly available cloud-based systems, third-party services, and IT software. You will also be responsible for maintaining SLAs, directing incident response, and working directly with teams to develop, manage, and enforce IT policies and standards. And when things go wrong (as they sometimes do), you’ll be the tech/business liaison we’ll look to for explanation, client calming, and planning so that it doesn’t happen again.
+   </p>
+<p>
+    As an enterprise architect, you‘ll work with VPs and executives to formulate a technology plan that supports business objectives, as well as budgetary considerations. You‘ll be responsible for budget planning, financial and other reporting, and promotion of shared infrastructure to reduce costs and improve the flow of information.  We need someone who can confidently help us distinguish when we can get by with duct tape and spare droid parts, and when we need to spend the money to spin up extra servers, just in case.
+   </p>
+<p>
+<b>
+     SO WHAT ARE WE LOOKING FOR?
+    </b>
+</p>
+<p>
+    We're looking for a strategist and a leader—someone who can guide a team through effective on-boarding, honest and open communication, training and development opportunities, and performance management processes. To be successful, you must be able to work effectively across many levels of the organization. Your direct reports will be senior managers responsible for executing on specific aspects of the overall enterprise architecture and internal IT strategy (read: tech folk), but you will also frequently be dealing with VPs, C-level executives, Jellyvision partners, and external vendors (read: non-tech folk). A key skill we’re looking for is the ability to explain complicated technical situations in a way that non-technical people will understand, so you should be an expert communicator and manager of relationships, with excellent written, verbal, and presentation skills.
+   </p>
+<p>
+    We're looking for someone who's a life-long learner; one who stays up-to-date and often ahead of industry standards and key technologies. This is important as you will be a decision-maker for architecture, process, and technology choices.
+   </p>
+<p>
+    We don't expect you to be a data privacy expert, but experience with compliance programs (e.g. HIPAA, PCI-DSS, etc.) and information security/privacy is important. As we integrate with partners and customers, and handle more sensitive data, we expect you to direct strategies to accommodate the information privacy and security needs of the company.
+   </p>
+<p>
+<b>
+     AND IN TERMS OF EXPERIENCE?
+    </b>
+</p>
+<ul>
+<li>
+     5+ years of managing an information systems team (Ops,      IT, or similar)
+    </li>
+<li>
+     This shouldn't be your first rodeo when it comes to      developing and evolving enterprise-level information, application, or      technology architecture strategies and roadmaps
+    </li>
+<li>
+     Proven track record building and optimizing large-scale      web architecture, serving millions of users, using open-source tech stacks
+    </li>
+<li>
+     Experience implementing continuous      integration/continuous deployment strategies
+    </li>
+<li>
+     Broad view of enterprise-grade business solutions and      an appreciation for strategy, process and capabilities, enabling      technologies, and governance
+    </li>
+<li>
+     Experience collaborating with business and IT      stakeholders towards defining current and future state business      capabilities, architecture impacts and multi-year capability roadmaps
+    </li>
+</ul>
+<p>
+<b>
+     NICE TO HAVES…
+    </b>
+</p>
+<p>
+<ul>
+<li>
+      We love Amazon, and not just for shopping. We rely heavily on Amazon Web Services (AWS) for a lot of our cloud infrastructure needs. Strong familiarity with AWS is a big plus.
+      <br/>
+</li>
+<li>
+      A sense of humor.  It will just make you more fun to work with.
+      <br/>
+</li>
+</ul>
+</p>
+<p>
+<b>
+     ANYTHING ELSE?
+    </b>
+</p>
+<p>
+    Yes.  We only hire nice, bright, funny people who are willing to work hard.  Jellyvision is a group effort and you must be capable of working collaboratively with internal and external people alike.  Everyone at Jellyvision shares a commitment to excellence and a desire to work in a comfortable, friendly atmosphere.
+    <br/>
+<br/>
+<b>
+     ARE THERE ANY PERKS?
+    </b>
+    Yes, we love perks.
+   </p>
+<ul>
+<li>
+<b>
+      Competitive pay, stock      options and benefits.
+     </b>
+     401(k) with matching.       And we pay 100% of the cost of premiums for medical, dental, vision,      disability and life insurance for our employees (as long as you qualify      for our tobacco-free discount; if you’re a tobacco user, your medical      premiums will be higher than $0).  We also cover a really nice chunk      of the cost of premiums for spouse/partner/dependent medical, dental and      vision insurance.
+    </li>
+<li>
+<b>
+      Casual dress and a      flexible schedule.
+     </b>
+     Come in a sweatshirt, jeans, whatever, like everyone      else here.
+    </li>
+<li>
+<b>
+      Creative work      environment.
+     </b>
+     We      are lucky to work in a place that is full of intelligent, talented and      innovative folks. Although most hours the place is deathly quiet (we're a      focused bunch), this is punctuated with hilarious outbursts and general      merriment, which makes a nice way to spend the day.
+    </li>
+<li>
+<b>
+      Free food.
+     </b>
+     Every week, we stock our      kitchen with free healthy snack foods, and we have a “hot lunch” catered      once a week to give people a reason to hang out and eat together.
+    </li>
+<li>
+<b>
+      Easy      transportation.
+     </b>
+     We’re      really close to the 'L' and the Halsted (#8) bus (right by the Apple Store      and Mega Whole Foods too), and we have a transit FSA that allows you to      dedicate pre-tax dollars to public transportation expenses. And a      number of our employees like to bike to work, so we also have showers and      lockers in the office.
+    </li>
+<li>
+<b>
+      Did we mention our yoga      class?
+     </b>
+     We      bring a pro instructor right to the office.  Fully subsidized by      Jellyvision and fully optional, btw.
+    </li>
+<li>
+<b>
+      Oh! And we have a      massage chair.
+     </b>
+     Not      just any massage chair, my friend.  It’s the HumanTouch HT 5320      WholeBody™ Massage Chair. Feeling a little stiff? Sit down. Relax. Feel      better? Good. Okay, back to work.
+    </li>
+</ul>
+<p>
+<b>
+     INTERESTED?
+    </b>
+    Great, we look forward to reading your application - make sure it includes:
+   </p>
+<ul>
+<li>
+     A
+     <b>
+      cover letter
+     </b>
+     that highlights
+     <b>
+      three reasons
+     </b>
+     you think you’d be great for the gig, focusing on how your past work      experience has prepared you for this kind of position – or why you think      you can rock the job even though you don’t have past work experience      that’s perfectly aligned.
+     <i>
+      Writing is      key to all that we do, and we weigh cover letters heavily.
+     </i>
+</li>
+<li>
+     Your
+     <b>
+      resume
+     </b>
+     .
+    </li>
+</ul>
+<p>
+<b>
+     You will receive an auto-reply confirming that we've received your application.
+    </b>
+</p>
+<p>
+</p>
+<p>
+    If you decide to apply, please know that
+    <b>
+     every complete application will be carefully reviewed.
+    </b>
+    Seriously!  We know it is a time commitment to prepare an application. And we respect that effort by thoughtfully reviewing every complete application and responding one way or the other. But that kind of thoughtful review means that it sometimes takes us awhile to get back to applicants, so please
+    <b>
+     NO PHONE CALLS.
+    </b>
+    The time we spend responding to phone calls and emails inquiring about where we are in the process is time that we could be spending actually moving the process along – so please be patient with us!
+    <br/>
+<br/>
+<b>
+     Thanks for your interest in Jellyvision!
+    </b>
+</p>
+</span>
+
+#title
+director-enterprise-architecture

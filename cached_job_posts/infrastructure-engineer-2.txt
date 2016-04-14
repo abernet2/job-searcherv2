@@ -1,0 +1,179 @@
+
+
+#position
+Infrastructure Engineer
+
+#company
+Vivid Seats
+
+#post
+<span class="nj-job-body">
+<b>
+<span>
+     Who we are:
+    </span>
+</b>
+   Vivid Seats is the fastest-growing online marketplace for sports and concert tickets. We were recently listed as one of the city’s fastest growing
+   <br/>
+   internet companies and coolest offices by Crain’s Chicago Business and named
+   <br/>
+   one of the city’s top digital employers by BuiltInChicago.org! We offer the
+   <br/>
+   perks, culture, and opportunity of an entrepreneurial start-up, supported by
+   <br/>
+   the scale, stability, and resources of over a decade of profitable
+   <br/>
+   growth.  Our mission is to help fans attend all their favorite live events
+   <br/>
+   with the highest satisfaction and savings in the industry.
+   <br/>
+<br/>
+<p>
+<span>
+     Our passionate team is made up of dynamic and innovative team players who work hard and truly love what they do. Conceive, design, and build the next generation of e-commerce applications in a fast-paced, tech-focused environment backed by a strong entrepreneurial culture.
+    </span>
+</p>
+<p>
+<b>
+     Primary
+     <br/>
+     responsibilities
+    </b>
+<span>
+     :
+    </span>
+</p>
+<p>
+</p>
+<ul>
+<li>
+     Plan, implement, monitor and
+     <br/>
+     maintain AWS production and development environments
+     <br/>
+</li>
+<li>
+     Implement and evaluate
+     <br/>
+     proof-of-concept projects to select new technologies used within our stack
+     <br/>
+</li>
+<li>
+     Deliver infrastructure and
+     <br/>
+     architectural projects aimed at improving uptime, availability, and performance
+     <br/>
+</li>
+<li>
+     Maintain and evolve our delivery
+     <br/>
+     pipeline to speed up and improve quality of Vivid Seats engineering process
+     <br/>
+</li>
+<li>
+     Work together with Support,
+     <br/>
+     Development and QA engineers to troubleshoot and resolve production issues
+     <br/>
+</li>
+<li>
+     Available for on-call support
+    </li>
+</ul>
+<p>
+<b>
+     Role
+     <br/>
+     Requirements:
+    </b>
+</p>
+<p>
+</p>
+<ul>
+<li>
+     3+ Years’ experience with Linux
+     <br/>
+</li>
+<li>
+     3+ Years’ experience in system
+     <br/>
+     programming. (Bash, Python, Ruby, system level C polyglots are highly
+     <br/>
+     preferred)
+     <br/>
+</li>
+<li>
+     Experience with Amazon Web Services EC2, RDS, S3, and related services
+     <br/>
+</li>
+<li>
+     Prior experience designing and
+     <br/>
+     implementing automated management tools (e.g. Chef, Puppet, Ansible, SaltStack,
+     <br/>
+     Docker, etc)
+     <br/>
+</li>
+<li>
+     Ability to design and maintain
+     <br/>
+     fast and efficient deployment processes
+     <br/>
+</li>
+<li>
+     Experience administering
+     <br/>
+     JVM-based applications, relational databases (preferably Java and MySQL)
+     <br/>
+</li>
+<li>
+     Linux Infrastructure DNS, LDAP, SMTP,
+     <br/>
+     SNMP, NFS, DHCP, SSH
+     <br/>
+</li>
+<li>
+     Experience in an Agile
+     <br/>
+     environment
+     <br/>
+</li>
+<li>
+     Bachelor’s degree in science,
+     <br/>
+     technology, engineering, or related field is preferred
+    </li>
+</ul>
+<p>
+<b>
+<span>
+      What We Offer:
+     </span>
+</b>
+<b>
+<span>
+</span>
+</b>
+    Vivid Seats offers competitive compensation levels, substantial individual and team-based bonus opportunities, aggressive promotion timelines, and a variety of workplace perks.  Specifically, staff has access to discounted event
+    <br/>
+    tickets, frequent in-office catered meals, monthly happy hours, team outings,
+    <br/>
+    discounted gym memberships, subsidized healthy meal and snack programs, and
+    <br/>
+    summer sports leagues.  Standard benefits are also offered such as
+    <br/>
+    medical/dental/vision/life insurance, 401(k), paid time off, and transit plan
+    <br/>
+    discounts.​
+   </p>
+<p>
+<span>
+     Vivid Seats is an equal opportunity employer.  Vivid Seats prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, sex, national origin, age, disability or
+     <br/>
+     genetic information.
+    </span>
+</p>
+</span>
+
+#title
+infrastructure-engineer-2

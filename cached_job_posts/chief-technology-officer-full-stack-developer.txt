@@ -1,0 +1,119 @@
+
+
+#position
+Chief Technology Officer (Full Stack Developer)
+
+#company
+Accuradio
+
+#post
+<span class="nj-job-body">
+<p>
+    AccuRadio, the nation's fastest-growing webcaster* and one of Chicago's fastest-growing tech firms -- featuring over 975 personalizable channels of rock, pop, jazz, classical, and more -- seeks a full-stack developer to take the helm its as
+    <b>
+     Chief Technology Officer
+    </b>
+    .
+   </p>
+<p>
+    Candidates should have experience and interest in managing the front-end and back-end of a popular online media service, maintaining both a website and API for various mobile apps, and managing a relatively large existing codebase.
+   </p>
+<p>
+    The role involves
+    <b>
+     HTML/JavaScript
+    </b>
+    development,
+    <b>
+     Python
+    </b>
+    development,
+    <b>
+     Linux
+    </b>
+    server admin, and
+    <b>
+     NoSQL
+    </b>
+    database management. Candidates should be adaptable and ready to take on new and/or unexpected situations. An interest in music would be helpful as well.
+   </p>
+<p>
+    This role requires experience in most of the following:
+   </p>
+<ul>
+<li>
+     Python
+    </li>
+<li>
+     NoSQL databases (MongoDB a plus)
+    </li>
+<li>
+     Linux server management (RedHat/CentOS a plus)
+    </li>
+<li>
+     Python web frameworks (Django a plus)
+    </li>
+<li>
+     CDN management (CloudFront a plus)
+    </li>
+<li>
+     Nginx/uwsgi or similar
+    </li>
+<li>
+     HTML5 (audio/media a plus)
+    </li>
+<li>
+     CSS
+    </li>
+<li>
+     Git
+    </li>
+</ul>
+<p>
+    Ideal candidates would also have some experience in the following areas:
+   </p>
+<ul>
+<li>
+     iOS development (Objective-C or Swift)
+    </li>
+<li>
+     Android development (Java)
+    </li>
+<li>
+     Google BigQuery
+    </li>
+<li>
+     XML/VAST
+    </li>
+<li>
+     Design skills (web graphics, sprites, etc.)
+    </li>
+<li>
+     Flash ActionScript
+    </li>
+<li>
+     GitHub
+    </li>
+<li>
+     Google Analytics
+    </li>
+<li>
+     General data analytics/analysis
+    </li>
+<li>
+     Managing a staff of developers
+    </li>
+</ul>
+<p>
+    Learn more about AccuRadio by visiting AccuRadio.com, by downloading one of our highly-rated iOS and Android apps, or by listening via your Roku or Sonos system.
+   </p>
+<p>
+    ———————
+   </p>
+<p>
+    * Source: Triton Digital “Webcast Metrics Top 20,” Mon.-Sun. 6am-12m, Average Active Sessions, U.S., year-over-year percentage growth rate
+   </p>
+</span>
+
+#title
+chief-technology-officer-full-stack-developer

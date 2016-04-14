@@ -1,0 +1,98 @@
+
+
+#position
+Security Analyst
+
+#company
+Uptake
+
+#post
+<span class="nj-job-body">
+<div>
+<strong>
+     What We Do:
+    </strong>
+</div>
+<div>
+<p>
+     Uptake's business is global, disruptive, differentiated and approaches the market in a new way. We help customers identify hidden value and create growth through business and technology innovation, while also enabling cost efficiencies that generate industry-leading business performance. Our team drives this success by connecting customers and partners to the value of the Internet of Things, business-centric architectures, and key technology transitions.
+    </p>
+<div>
+</div>
+</div>
+<div>
+<strong>
+     What You'll Do:
+    </strong>
+</div>
+<div>
+<p>
+     Provide security administration of solutions in support of company objectives and requirements.
+    </p>
+<p>
+<strong>
+      Major Responsibilities:
+     </strong>
+</p>
+<ul>
+<li>
+      Execute daily implemented tasks and report to Threat and Vulnerability Management lead
+     </li>
+<li>
+      Ability to operate a variety of tools for monitoring, detecting, and alerting
+     </li>
+<li>
+      Security Event monitoring, correlation, and documentation of threats
+     </li>
+<li>
+      Security advisory following for latest threats and vulnerabilities
+     </li>
+<li>
+      Security device administration
+     </li>
+<li>
+      Participation in the design and implementation of our security program
+     </li>
+<li>
+      Ability to operate effectively fast paced start up environment
+     </li>
+</ul>
+</div>
+<div>
+<p>
+<strong>
+      Experience
+     </strong>
+     :
+    </p>
+<ul>
+<li>
+      University/College Degree preferred
+     </li>
+<li>
+      Skills or interests related to information security
+     </li>
+<li>
+      Knowledge / working experience of information security tools
+     </li>
+<li>
+      Excellent written communications skills
+     </li>
+<li>
+      Attention to details
+     </li>
+<li>
+      Ability to work on multiple projects and meet deadlines
+     </li>
+<li>
+      Start up and agile experience
+     </li>
+<li>
+      Strong interpersonal skills and expert team player with demonstrated ability to build collaborative relationships
+     </li>
+</ul>
+</div>
+</span>
+
+#title
+security-analyst-1

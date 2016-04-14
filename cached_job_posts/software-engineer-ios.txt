@@ -1,0 +1,106 @@
+
+
+#position
+Software Engineer   iOS
+
+#company
+SpotHero
+
+#post
+<span class="nj-job-body">
+<p>
+    We’re looking for product-aware engineers who are thoughtful, responsible and passionate builders who appreciate user experience. We’re looking for someone who is not only well versed in iOS development, but also has a strong understanding of good UX and isn’t afraid to get their hands dirty in backend code. We believe that great product people use lots of products, so if you’re an active user of SpotHero, we are listening.
+   </p>
+<p>
+</p>
+<p>
+<strong>
+     Who we are:
+    </strong>
+    SpotHero is a rapidly growing tech company that’s making life easier for the daily driver. Drivers across the nation use the SpotHero mobile app or website to reserve discounted parking on-the-go or in advance. Awarded 2015 Startup of the Year by Built in Chicago!
+   </p>
+<p>
+</p>
+<p>
+<strong>
+     Here are the skills we're looking for:
+    </strong>
+</p>
+<ul>
+<li>
+     Experience developing, releasing, and maintaining native iOS applications (point us to your work in the App Store)
+    </li>
+<li>
+     Deep knowledge of Objective-C
+    </li>
+<li>
+     You also need experience collaborating on software projects. Cowboy coding is fun, but you have to prove that you can work efficiently as part of a team.
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<strong>
+     Bonus points if you have:
+    </strong>
+</p>
+<ul>
+<li>
+     Insightful opinions about developing for mobile
+    </li>
+<li>
+     A github account with some cool projects in it
+    </li>
+<li>
+     Scary amazing debugging skills
+    </li>
+<li>
+     Experience developing location aware mobile applications
+    </li>
+<li>
+     Experience developing testing suites for mobile applications
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<strong>
+     What we are offering:
+    </strong>
+</p>
+<ul>
+<li>
+     Laptop of your choice, and a big monitor
+    </li>
+<li>
+     Stock options in a growth-stage company
+    </li>
+<li>
+     Competitive salary
+    </li>
+<li>
+     Flexible hours so you can be at your most productive
+    </li>
+<li>
+     High-energy environment with dedicated “work zones”
+    </li>
+<li>
+     Paid time off &amp; parking benefits
+    </li>
+<li>
+     Medical, dental, and vision insurance
+    </li>
+<li>
+     Life insurance and disability benefits
+    </li>
+<li>
+     401(k)
+    </li>
+<li>
+     Pre-tax commuter benefits
+    </li>
+</ul>
+</span>
+
+#title
+software-engineer-ios

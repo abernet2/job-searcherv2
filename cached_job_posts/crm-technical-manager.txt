@@ -1,0 +1,93 @@
+
+
+#position
+CRM Technical Manager
+
+#company
+closerlook
+
+#post
+<span class="nj-job-body">
+<div class="clearfix">
+<div>
+<p>
+      Job Description
+     </p>
+<p>
+</p>
+<p>
+      closerlook's CRM Technical Manager will consult with internal and external stakeholders to clearly identify and deliver on business objectives and measurable goals, expected schedule, procedures for accomplishing the project and staffing requirements. Reporting to the Director of Data Systems, the CRM Technical Manager is responsible for the technical management, communication and execution of multiple, concurrent projects. This person is also responsible for the management of members of the CRM technical team. This person will consult with project team members to work towards defining deliverables and then manages technical resources and project tasks to deliver on those projects. Successful candidates will have worked with Microsoft SQL Server, understand database development, reporting, and BI projects, and have managed a team of technical resources in prior positions.
+     </p>
+<p>
+      RESPONSIBILITIES
+      <br/>
+      •Act as a technical liaison in all necessary internal project meetings between Project Management, Development and QA teams.
+      <br/>
+      •Possesses general understanding in the areas of database design, data retrieval, business intelligence concepts, and CRM.
+      <br/>
+      •Maintains awareness of new and emerging technologies and the potential application on client engagements.
+      <br/>
+      •Ensure outcomes of high quality and adherence to technical support business objectives.
+      <br/>
+      •Plan and coordinate transfer of information from CRM technology team to the Project Management team.
+      <br/>
+      •Work with external vendors in data related processes, and as applicable, in alignment with the Statement of Work in order to implement the project according to plan
+      <br/>
+      •Work with internal stakeholders to ensure bug fixes are prioritized for QA patches and build schedules are defined and prioritized.
+      <br/>
+      •Support analytics department with data, assist in production automation of advanced analytical models and algorithms.
+      <br/>
+      •Define and ensure the authoring, maintenance, dissemination and adoption of technical-support processes.
+      <br/>
+      •Assist Project Managers in developing project plans including task breakdown, owners and deliverables. Proactively manage and report on deliverables' progress and escalate risks accordingly.
+      <br/>
+      •Assist the QA lead in the development of test plans and quality-assurance testing activities of projects.
+      <br/>
+      •Assist in strategic planning and execution of platform and process enhancements
+      <br/>
+      •Manages client expectations by fully defining requirements, obtaining necessary approvals and continuous communication.
+      <br/>
+      •Helps inform team member career development opportunities
+      <br/>
+      •Conducts effective performance evaluations and mentors those with less experience through formal channels
+      <br/>
+      •Challenges fellow team members to progress toward their professional development goals
+      <br/>
+      •Establishes and maintains constructive working relationships with internal business leaders/stakeholders and internal and external resources on assigned projects, working toward common business objectives, timeliness and quality delivery.
+      <br/>
+      •Coordinates and facilitates ongoing project communication to all stakeholders and participants.
+     </p>
+<p>
+</p>
+<p>
+      Job Requirements
+     </p>
+<p>
+</p>
+<p>
+      •Five or more years of relevant experience required.
+      <br/>
+      •Experience with .Net, SQL Server including SSIS and SSAS, web development, data-centric technologies.
+      <br/>
+      •Experience with the coordination of data management and reporting.
+      <br/>
+      •Strong English language skills (written and spoken).
+      <br/>
+      •Must be able to balance multiple priorities and deadlines.
+      <br/>
+      •Coordinate the deployment of new or modified business systems and processes required for the successful implementation of the technology solution.
+      <br/>
+      •Must be able to maintain constructive working relationships with others to work toward common objectives, timelines and quality delivery.
+      <br/>
+      •Clear communication to assist in defining requirements and obtaining approvals with clients.
+     </p>
+<p>
+</p>
+     Apply Now
+    </div>
+</div>
+   No current opening that fits you?Submit your resume to closerlook, inc.
+  </span>
+
+#title
+crm-technical-manager

@@ -1,0 +1,164 @@
+
+
+#position
+Production Support Engineer
+
+#company
+Textura Corporation
+
+#post
+<span class="nj-job-body">
+<p>
+    Textura is the
+    <br/>
+    leading provider of collaboration and productivity tools for the
+    <br/>
+    construction industry. Our solutions serve owners, architects, general
+    <br/>
+    contractors and subcontractors across the project lifecycle – from
+    <br/>
+    design and pre-qualification to bid management, submittals and payment –
+    <br/>
+    on a single, integrated platform. Textura’s collaboration platform and
+    <br/>
+    online product suite represent the first time the industry has all the
+    <br/>
+    tools needed to manage their business in an integrated fashion to save
+    <br/>
+    time and money and reduce exposure to risks. CNN Headline News said our
+    <br/>
+    CPM application may be “the most sophisticated business-to-business
+    <br/>
+    Internet-based application in the world.” With award winning SaaS
+    <br/>
+    technology, world-class customer support and 100% growth
+    <br/>
+    year-after-year, Textura is leading the construction industry’s
+    <br/>
+    technology transformation.
+   </p>
+<p>
+    This opportunity is ideal for:
+   </p>
+<p>
+    Developer with at least 1 year programming in object oriented languages (ie Java or Python) and experience with UNIX and SQL
+   </p>
+<p>
+    Intermediate
+    <br/>
+    Developer that enjoys supporting and troubleshooting web based
+    <br/>
+    applications in conjunction utilizing their skills with object oriented
+    <br/>
+    languages (ie Java or Python) and experience with UNIX and SQL.
+   </p>
+<p>
+    As
+    <br/>
+    a Production Support Engineer, you will assist in developing the
+    <br/>
+    next-generation of the company’s proprietary software and have the
+    <br/>
+    unique opportunity to directly impact Textura's business results by:
+   </p>
+<ul>
+<li>
+     Supporting Enterprise Data Technology production applications.
+    </li>
+<li>
+     Responding to Tier 2 escalations from Client Services.
+    </li>
+<li>
+     Partnering
+     <br/>
+     with Business, Development, Quality Assurance, Product and other
+     <br/>
+     support teams to co-ordinate and facilitate the scheduling, incident
+     <br/>
+     triage and timely resolution of production issues.
+    </li>
+</ul>
+<p>
+    Responsibilities:
+   </p>
+<ul>
+<li>
+     Takes ownership of (tier II level) escalations and perform
+     <br/>
+     trouble shooting, analysis, research and resolution using advanced query
+     <br/>
+     and programming skills.
+    </li>
+<li>
+     Identify possible production failure
+     <br/>
+     scenarios, create defect tickets, enhancement and/or problem tickets in
+     <br/>
+     ticket tracking system, and communicate effectively with development and
+     <br/>
+     internal business operations teams.
+    </li>
+<li>
+     Review, approve and execute
+     <br/>
+     data corrections and other ad-hoc production requests from development
+     <br/>
+     and internal business operations teams.
+    </li>
+<li>
+     Document all resolution
+     <br/>
+     details including defect mapping and provide follow up communication
+     <br/>
+     with internal business operations teams.
+    </li>
+<li>
+     Create and enhance
+     <br/>
+     administrative, operational and technical policies and procedures,
+     <br/>
+     adopting best practice guidelines, standards and procedures.
+    </li>
+<li>
+     Identify
+     <br/>
+     vulnerabilities and opportunities for improvement, as well as maintain
+     <br/>
+     stats and record issues to help develop a trend analysis that will drive
+     <br/>
+     improvement in all areas of Production Support Services.
+    </li>
+</ul>
+<p>
+    Qualifications:
+   </p>
+<ul>
+<li>
+     2-3 years of experience in Production Support, QA, or Development.
+    </li>
+<li>
+     At least 1 year of programming experience with Java OR Python.
+    </li>
+<li>
+     Knowledge of Unix shell scripting.
+    </li>
+<li>
+     Experience working with Databases and SQL.
+    </li>
+<li>
+     Strong written and oral communication skills.
+    </li>
+<li>
+     Strong analytical and problem solving skills.
+    </li>
+<li>
+     Work independently and multi-task to meet critical deadlines in a rapidly changing environment
+    </li>
+<li>
+     B.S. in Computer Science, Engineering or related field, or an equivalent combination of education and/or experience.
+    </li>
+</ul>
+</span>
+
+#title
+production-support-engineer-6

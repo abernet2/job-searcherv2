@@ -1,0 +1,112 @@
+
+
+#position
+Operations Engineer
+
+#company
+Braintree
+
+#post
+<span class="nj-job-body">
+<b>
+    About Us:
+   </b>
+<p>
+    Braintree builds products that make payments easier—so easy that they fade into the background, making entirely new kinds of interactions possible. Interactions like seamlessly paying for your ride share -- or the condo you rented this weekend -- without presenting a card or pressing a button, or buying a lamp on Pinterest...right from Pinterest. The Braintree full-stack payment platform lets companies build their own experiences and then scale their businesses around the globe. We're known for our technology but we're also known for our support, with internal risk and underwriting, account management and technical support teams who ensure a frictionless payments experience.
+   </p>
+<p>
+    Acquired by PayPal in 2013, Braintree is now in an even greater position to change the way people pay. Headquartered in Chicago, Braintree has offices in San Francisco, New York, Sydney, London with employees stationed around the world.
+   </p>
+<p>
+    Check us out - Braintree on The Muse:
+    <a href="http://muse.cm/1wWa28H">
+     http://muse.cm/1wWa28H
+    </a>
+</p>
+<p>
+<b>
+     About the Role:
+    </b>
+</p>
+<p>
+    Site Reliability Engineering keeps our lights on, keeps our technology humming and is essential to our ongoing evolution and growth. These engineers use their knowledge of technology and operational best practices to deliver an experience that drives available, scalable and reliable customer experiences.
+   </p>
+<p>
+    These folks help create, develop and manage the deployment architecture for the application, develop the monitoring architecture and implement monitoring agents, dashboards, escalations and alerts. These technical investigators create playbooks and stakeholder communication mechanisms, oversee change management and configuration management to bring improvements and efficiencies across Braintree.
+   </p>
+<p>
+    As a member of the team, you’ll face interesting and challenging problems as we take our software to the next level of scale and sustainability. You’ll be the tactical “feet on the streets” as we watch and monitor what’s happening in the business, day-to-day.
+    <br/>
+</p>
+<p>
+<b>
+     Responsibilities:
+    </b>
+</p>
+<p>
+    -Evaluate and track application performance, metrics, and availability
+   </p>
+<p>
+    -Monitor data center hardware, networking, and software platforms
+   </p>
+<p>
+    -Build and maintain alerting tools and metrics
+   </p>
+<p>
+    -React to system inefficiencies and resolve issues quickly to ensure system availability and performance
+   </p>
+<p>
+    -Coordinate engineering, customer support, and external communications
+   </p>
+<p>
+<br/>
+<b>
+     Requirements:
+    </b>
+</p>
+<p>
+    -BS in Computer Science or related field
+   </p>
+<p>
+    -Knowledge of Linux internals and command-line tools
+   </p>
+<p>
+    -Familiarity with basic networking concepts - TCP, UDP, ping, traceroute, and the Linux network stack
+   </p>
+<p>
+    -Troubleshooting experience tracking down performance, load, networking, I/O utilization, and memory problems
+   </p>
+<p>
+    -Experience with monitoring and metrics tools - Nagios, Graphite, New Relic, etc.
+    <br/>
+<br/>
+<br/>
+<b>
+     We value our people...
+    </b>
+</p>
+<p>
+    -Two paid conference trips annually
+   </p>
+<p>
+    -Open Dev Day twice a month
+   </p>
+<p>
+    -Catered lunches daily
+   </p>
+<p>
+    -Commuter reimbursement program
+   </p>
+<p>
+    Take a look at some of our blog posts and code on GitHub:
+   </p>
+<p>
+    Braintrust
+    <br/>
+<br/>
+    Braintree GitHub
+   </p>
+</span>
+
+#title
+operations-engineer-3

@@ -1,0 +1,110 @@
+
+
+#position
+Lead Platform Engineer
+
+#company
+Avatria
+
+#post
+<span class="nj-job-body">
+   As an Avatria Lead Platform Engineer, you will be responsible for the technical direction and overall architectural approach for a best in class eCommerce software product. You will be a critical member of our product team and will work with the Product Owner, UX Designers and the rest of the engineering team to design and build innovative solutions for our customers. We are early on in our journey and you will have the opportunity to design critical technical aspects of the product and to contribute to the overall product strategy.
+   <p>
+    We want someone that can…
+    <br/>
+</p>
+<ul>
+<li>
+     Build critical business systems that are extremely reliable and scalable
+     <br/>
+</li>
+<li>
+     Effectively lead a SCRUM or Agile development team alongside the Product Owner
+     <br/>
+</li>
+<li>
+     Guide the architecture and design of new systems but also get their hands dirty with coding from time to time
+     <br/>
+</li>
+<li>
+     Wear many hats and adapt their operating mode to best serve the team
+     <br/>
+</li>
+<li>
+     Take initiative, works well with little guidance and loves solving tough problems
+     <br/>
+</li>
+</ul>
+<p>
+</p>
+<p>
+    Must have…
+    <br/>
+</p>
+<ul>
+<li>
+     5+ years of professional experience in leading the design and implementation of complex, custom web systems from scratch
+     <br/>
+</li>
+<li>
+     Fluid in multiple programming languages (e.g. Scala, Java, Python, C/C++)
+     <br/>
+</li>
+<li>
+     Experience with application platforms and frameworks (JEE, Spring, Force.com, etc)
+     <br/>
+</li>
+<li>
+     Strong in web languages and concepts (JavaScript, HTML, CSS, HTTP, REST)
+     <br/>
+</li>
+<li>
+     Experience with Relational, NoSQL and search engine data solutions
+     <br/>
+</li>
+<li>
+     Undergraduate or comparable knowledge and experience in Computer Science
+     <br/>
+</li>
+</ul>
+<p>
+</p>
+<p>
+    Nice to have…
+    <br/>
+</p>
+<ul>
+<li>
+     Experience with designing and implementing multi-tenant system architectures
+     <br/>
+</li>
+<li>
+     Experience with IaaS, PaaS,and SaaS concepts
+     <br/>
+</li>
+<li>
+     Experience with microservice based architectures
+     <br/>
+</li>
+<li>
+     Experience with data mining, analytics, and machine learning systems
+     <br/>
+</li>
+<li>
+     Professional work experience in the eCommerce domain
+     <br/>
+</li>
+</ul>
+<p>
+</p>
+<p>
+    Location: Chicago, IL
+    <br/>
+    Job Type: Full Time
+    <br/>
+    Compensation: Competitive Salary + Benefits + Equity
+   </p>
+</span>
+
+#title
+lead-platform-engineer

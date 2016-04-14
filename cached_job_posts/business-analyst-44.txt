@@ -1,0 +1,130 @@
+
+
+#position
+Business Analyst
+
+#company
+Textura Corporation
+
+#post
+<span class="nj-job-body">
+   The role of the
+   <br/>
+   Business Analyst is to facilitate the design and development of the
+   <br/>
+   next-generation of Textura’s proprietary software. This opportunity will
+   <br/>
+   allow the Business Analyst to assist in the creation of web based
+   <br/>
+   products that will contribute to the growth and financial success of the
+   <br/>
+   organization and our customers.
+   <p>
+    This
+    <br/>
+    position is ideal for a collaborative and creative individual who
+    <br/>
+    facilitates the design of SaaS application(s). The Business Analyst is
+    <br/>
+    an integral part of the Product or Business Analyst team and acts as a
+    <br/>
+    bridge between the External End Users/Customers and the Software
+    <br/>
+    Development team.
+   </p>
+<p>
+    Responsibilities:
+   </p>
+<ul>
+<li>
+     Design features of high value SaaS solutions that will deliver
+     <br/>
+     immediate and positive impact to our customer’s business processes
+    </li>
+<li>
+     Partner
+     <br/>
+     with Software Development, Quality Assurance, Sales, and Client
+     <br/>
+     Services to ensure solutions match requirements and mitigate risks
+    </li>
+<li>
+     Facilitate agreements around a balanced solution between customers and internal stakeholders
+    </li>
+<li>
+     Define business requirements and process flows
+    </li>
+<li>
+     Construct test sequences using testing principles and methodologies
+    </li>
+<li>
+     Successful
+     <br/>
+     completion of functional requirements documentation, use cases, user
+     <br/>
+     interface specifications, UAT cases, across area of product
+     <br/>
+     responsibility
+    </li>
+<li>
+     Document requirements for defects and small features with supervision
+    </li>
+<li>
+     Basic wire framing of screen designs
+    </li>
+<li>
+     Demonstrate effective written and verbal communications
+    </li>
+<li>
+     Escalates issues appropriately
+    </li>
+</ul>
+<p>
+    Qualifications:
+   </p>
+<ul>
+<li>
+     Ability to conceptualize a solution from inception to implementation
+    </li>
+<li>
+     Minimum
+     <br/>
+     of 2 years of experience facilitating functional requirements and
+     <br/>
+     Business Process Re-Design (BPR) or equivalent within new product
+     <br/>
+     development for a technology firm
+    </li>
+<li>
+     Experience in product development, product lifecycle management, functional and process analysis
+    </li>
+<li>
+     Experience with Test Driven Development
+    </li>
+<li>
+     Experience with the creation and maintenance of detailed requirement and specification documentation.
+    </li>
+<li>
+     Experience with a blend of software development methods (i.e. Waterfall, Agile, XP, RUP, etc.)
+    </li>
+<li>
+     Experience understanding emergent technology trends related to financial, vendor management, and workflow software solutions
+    </li>
+<li>
+     Facilitate customer meetings, resolving requirements issues, and gaining buy-in for solutions
+    </li>
+<li>
+     Ability
+     <br/>
+     to identify critical issues within product specifications, design, and
+     <br/>
+     development and establish resolutions quickly and efficiently
+    </li>
+<li>
+     Domestic travel as needed
+    </li>
+</ul>
+</span>
+
+#title
+business-analyst-44

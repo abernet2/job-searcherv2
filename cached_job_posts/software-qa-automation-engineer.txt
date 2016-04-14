@@ -1,0 +1,73 @@
+
+
+#position
+Software QA Automation Engineer
+
+#company
+The Mx Group
+
+#post
+<span class="nj-job-body">
+<b>
+<strong>
+     About the role
+    </strong>
+</b>
+<p>
+    The Mx Group is looking for an experienced developer with a background in test automation to join our digital development team as a quality assurance automation engineer.
+   </p>
+<p>
+    In this role, you’ll be instrumental in driving our company’s continued adoption of automated testing. Working in Selenium, you’ll design and script automated tests based on user stories and acceptance criteria. You’ll identify best practices to streamline and codify our test framework, processes, and standards. And you’ll work with the rest of our QA team to ensure all projects are completely bug-free, finding and resolving problems long before end users do.
+   </p>
+<p>
+    This is a perfect opportunity for a curious, meticulous digital professional to flex their automation skills and help shape the future of our team.
+    <br/>
+<br/>
+</p>
+<b>
+    What we’re looking for
+   </b>
+<ul>
+<li>
+     3–5 years of experience in automated testing (Selenium highly preferred)
+    </li>
+<li>
+     3–5 years of programming experience, preferably in JavaScript
+    </li>
+<li>
+     Strong working knowledge of automation best practices, including performance, reusability, maintainability, resiliency, coverage, and reliability.
+    </li>
+<li>
+     Experience conducting manual testing, including recommending what should and should not be automated. Experience working in an Agile environment
+    </li>
+<li>
+     Excellent written and verbal communication
+    </li>
+<li>
+     Outstanding attention to detail
+    </li>
+<li>
+     Skilled in troubleshooting and problem-solving
+    </li>
+<li>
+     Bachelor’s degree
+    </li>
+</ul>
+<b>
+<br/>
+    About us
+   </b>
+<p>
+    For two years in a row, The Mx Group has been selected as one of the Best Places to Work in Illinois, as well as one of Built In Chicago’s Top 100 Digital Companies in Chicago. We are a digital and demand creation agency just 20 minutes from downtown Chicago. A collection of creative problem solvers, our team includes marketing strategists, business analysts, designers, writers, programmers, data specialists and sales management experts. All bring unique skills and perspectives while contributing to our common mission of helping companies excite markets, engage customers, effect sales and embed value to create a Total Market Experience™.
+   </p>
+<b>
+<br/>
+    Why you’ll love working here
+   </b>
+<p>
+    Our workplace culture is one of camaraderie, collaboration and transparency. In addition to a full benefits package, we also offer health club reimbursement, 401(k) matching, Friday summer hours and a well-stocked craft beer fridge.
+   </p>
+</span>
+
+#title
+software-qa-automation-engineer

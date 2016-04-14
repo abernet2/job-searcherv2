@@ -1,0 +1,112 @@
+
+
+#position
+Integration Specialist
+
+#company
+FourKites
+
+#post
+<span class="nj-job-body">
+   About the role
+   <p dir="ltr">
+    The FourKites platform offers a unique approach to tracking freight and managing exceptions - it connects to ELD/GPS devices already installed in trucks to provide reliable location updates in real-time. To provide this service to our customers, we integrate with a variety of different partners. These integrations are a core aspect of our business and provide significant competitive advantage. We need an experienced Integration Specialist who can help maintain existing integrations and build new ones. If you love technology and data, and are comfortable with a variety of different systems, this is the role for you.
+   </p>
+<br/>
+<p dir="ltr">
+    Responsibilities
+   </p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">
+      Work with carriers while they are being set up on our system for the first time. Assist with SQL queries, scripts, and system setup for the integration.
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Provide technical support and expertise to other members of the Carrier Onboarding team.
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Troubleshoot issues arising from carrier integrations.
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Maintain documentation a technical details of carrier integrations.
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Complete strategic projects as assigned.
+     </p>
+</li>
+</ul>
+<br/>
+<p dir="ltr">
+    About you
+   </p>
+<p dir="ltr">
+    You love variety and can manage multiple tasks at the same time. You know your way around databases, and are a master at extracting just the right data quickly and easily. You are obsessively organized, detail-oriented, and driven.
+   </p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">
+      You thrive in fast-paced environments and are comfortable with ambiguity and lack of structure.
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Entrepreneurial spirit - you make things happen and proactively step up when you recognize an opportunity
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Intelligent with strong verbal and written communication skills
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Superior organization skills and attention to detail
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Comfortable talking to a wide variety of people, including those in IT
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Insatiable curiosity - you love learning new things
+     </p>
+</li>
+</ul>
+<br/>
+<p dir="ltr">
+    Requirements
+   </p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">
+      Bachelors degree from an accredited university
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Mastery of relational databases and SQL queries, with the ability to quickly understand database schema and write JOIN queries to pull data from multiple tables
+     </p>
+</li>
+<li dir="ltr">
+<p dir="ltr">
+      Knowledge of scripting using Java, Ruby, or Perl
+     </p>
+</li>
+<li dir="ltr">
+     Experience in the logistics industry or with Transportation Management Systems a plus
+    </li>
+</ul>
+</span>
+
+#title
+integration-specialist-2

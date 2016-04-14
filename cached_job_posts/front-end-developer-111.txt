@@ -1,0 +1,135 @@
+
+
+#position
+Front End Developer
+
+#company
+Leapfrog Online
+
+#post
+<span class="nj-job-body">
+<div>
+<div>
+<div>
+<div>
+<p>
+        Joining the Leapfrog team means being part one of the largest digital marketing companies in the world, one that helps brands uncover new customers and revenue through leading and innovative digital direct-­marketing technology. If you are interested in data driven marketing and emerging digital technology (mobile, tablet, attribution), then read on!
+       </p>
+<p>
+        Leapfrog Online is seeking a skilled Front End Developer to join our User Experience (UX) competency; this role will implement and maintain high-volume consumer-facing websites and e-commerce applications.  Candidates should have 2+ years of experience, preferably working with targeted, data-driven transactional experiences and e-commerce.
+       </p>
+<p>
+<br/>
+<strong>
+         Responsibilities:
+        </strong>
+</p>
+<ul>
+<li>
+         Build, maintain, test, and optimize targeted, data-driven transactional experiences and e-commerce flows.
+        </li>
+<li>
+         Participate within the UX Team—comprised of Creative, Front End Development, Content Strategy, and Content Production—as a meaningful, collaborative contributor to ideas, process, and innovation.
+        </li>
+<li>
+         Work with cross-functional teams across the organization to provide Front End perspective to potential solutions and communicate enhancements.
+        </li>
+<li>
+         Participate in code reviews, research, and internal initiatives to drive Front End goals as a forward-thinking unit within the organization.
+        </li>
+</ul>
+<p>
+<br/>
+<strong>
+         Qualifications:
+        </strong>
+</p>
+<ul>
+<li>
+         A dependable problem-solver with an analytical mind and demonstrable understanding of modern development standards and practices.
+        </li>
+<li>
+         Strong experience in standards-based, semantic and well-formed HTML 5 markup, with an emphasis on cross-browser (down to IE9), device-independent product where responsive design techniques and modularity are paramount.
+        </li>
+<li>
+         Fluent in writing elegant, truly cascading CSS using to bring rich interfaces to life, and associated experience with CSS methodologies (OOCSS, SMACSS, BEM), preprocessing (SASS) and frameworks.
+        </li>
+<li>
+         Experience with JavaScript and its associated ecosystem, prototyping and developing data-driven, complex interface solutions with an eye on performance and reusability.
+        </li>
+<li>
+         Familiar with the development and maintenance of web-based applications leveraging fit-for-purpose design patterns and related frameworks.
+        </li>
+<li>
+         Experience with modular templating (e.g., Handlebars/Mustache, Nunjucks) in the context of content management.
+        </li>
+<li>
+         Experience with Node-based tooling and build systems (Gulp, Grunt) and writing Unit Tests (Mocha/Chai).
+        </li>
+<li>
+         Comfortable with Git version control and using command line interfaces (CLI).
+        </li>
+<li>
+         Comfortable with using image editing software (e.g. Adobe Creative Suite) and asset optimization.
+        </li>
+<li>
+         Detail-oriented, communicative to stakeholders, and able to effectively manage time and priorities.
+        </li>
+</ul>
+<p>
+<strong>
+         Set Yourself Apart:
+        </strong>
+</p>
+<ul>
+<li>
+         Prior digital agency or consultancy experience.
+        </li>
+<li>
+         Experience with Accessibility Concepts and Implementation (Section 508, WCAG 2.0, ARIA).
+        </li>
+<li>
+         Exposure to or experience with Ruby and/or Python.
+        </li>
+</ul>
+<p>
+</p>
+<p>
+<strong>
+         The Perks:
+        </strong>
+</p>
+<ul>
+<li>
+<strong>
+          Total comp package.
+         </strong>
+         We know your take-home pay isn’t all you’re looking for, which is why we match your 401(k), pay for a huge chunk of your medical, dental, and vision insurance, and pay for your short-term disability and life insurance. Plus, every employee has a bonus potential.
+        </li>
+<li>
+<strong>
+          Casual dress.
+         </strong>
+         We welcome all dress styles but jeans work well here!
+        </li>
+<li>
+<strong>
+          Innovative work environment.
+         </strong>
+         We are a tight-knit team who likes what they do and has fun doing it. While we do not always leave at 5, we pride ourselves on the work/life balance we have here. We also get to do our work in a former Tinkertoy factory.
+        </li>
+<li>
+<strong>
+          Activities throughout the year.
+         </strong>
+         From in-house Lightning Talks to Yoga, and Family Day to, well, plenty of activities beyond, Leapfrog is invested in keeping the minds and hearts of its employees fresh and invigorated.
+        </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+front-end-developer-111

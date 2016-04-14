@@ -1,0 +1,112 @@
+
+
+#position
+Software Developer
+
+#company
+Microsystems
+
+#post
+<span class="nj-job-body">
+<strong>
+</strong>
+<p>
+    Are you a professional software developer who loves 
+writing attractive, friendly, useful applications that benefit thousands of 
+customers worldwide? Do you think you thrive in Agile, self-driven environments 
+where your ideas, creativity, and decisions matter? If so, Microsystems may be 
+the place for you.
+   </p>
+<p>
+    We are looking for highly-motivated, skilled Software 
+Developer to carry out the creation of our newest products.  As a Software 
+Developer, you will work closely with your Development Team and Product 
+Management to create and deliver product solutions. You will also be expected 
+to write modular, maintainable, and responsive code.
+   </p>
+<p>
+    We at 
+Microsystems are strong believers in a healthy work-life balance with added benefits you don’t find everywhere. Work hours are flexible, and there are many opportunities to relax and get to know each other, such as sports leagues, 
+Thirsty Thursdays, and chair massages.  
+From Cinco de Mayo to Halloween to Festivus, there is always a reason to 
+share a meal and celebrate! Microsystems cares about all employees; we offer an 
+annual onsite Wellness Event, our work environment and attire are very casual, 
+and free drinks and fruit are provided daily. Meetings are minimal and you are 
+always appreciated by management. We are dedicated to giving back to the
+community. The team participates in an Annual 5K Walk/Run event for charity as
+well as community Service Projects and Team Building Events.
+   </p>
+<p>
+    We are looking for a range of experienced engineers, from 
+junior to senior.
+   </p>
+<p>
+<b>
+     REQUIREMENTS
+    </b>
+</p>
+<ul>
+<li>
+     C#,
+     .NET, Visual Studio, TFS
+    </li>
+<li>
+     Attention
+     to detail, quality, and polish
+    </li>
+<li>
+     Excellent
+     communication skills and strong enthusiasm
+    </li>
+</ul>
+<p>
+<b>
+     BONUS POINTS
+    </b>
+</p>
+<ul>
+<li>
+     CSS,
+     HTML, ASP.NET, or JavaScript
+    </li>
+<li>
+     WinForms
+     or WPF
+    </li>
+<li>
+     iOS
+     or Android
+    </li>
+<li>
+     Word
+     or Office API
+    </li>
+<li>
+     REST,
+     MVC, or ASP.NET Web API 2
+    </li>
+<li>
+     Good
+     design taste, sense of color, or use of white space
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<b>
+     WHO WE ARE
+    </b>
+</p>
+<p>
+    Microsystems designs and develops cutting edge software
+solutions for organizations whose craft is creating highly complex business
+documents. With a client base spanning the top 100 law firms as well as various
+corporate legal and life sciences corporations, Microsystems is committed to
+delivering quality products and services that increase profitability and
+efficiency.
+   </p>
+<br/>
+</span>
+
+#title
+software-developer-44

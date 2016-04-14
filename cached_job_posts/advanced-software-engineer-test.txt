@@ -1,0 +1,140 @@
+
+
+#position
+Advanced Software Engineer in Test
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<p>
+<b>
+<u>
+      Overview:
+     </u>
+</b>
+</p>
+<p>
+    kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+   </p>
+<p>
+    The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves, give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+   </p>
+<p>
+    Drive customer confidence by assuring the quality of kCura’s enterprise applications.  Contribute to a motivating environment that empowers teams and individuals to engineer QA efficiencies in practice, through process, and with effective tools/techniques.
+   </p>
+<b>
+<u>
+     Responsibilities:
+    </u>
+</b>
+<div>
+<p>
+     The Advanced Software Engineer in Test is responsible for delivering results for kCura by:
+    </p>
+<ul>
+<li>
+      Identifying and removing risks to quality for kCura’s enterprise applications.
+     </li>
+<li>
+      Contributing to an Agile team that solves complex challenges and builds working software. The Sr. Software Engineer in Test performs the following functions, in addition to others, in the administration of his or her position:
+     </li>
+<li>
+      Drive the quality of kCura’s enterprise applications in the following ways:
+     </li>
+<li>
+      Help internal applications team build automated testing practice by leveraging and adapting tools/processes already in place within product development team
+     </li>
+<li>
+      Identify and resolve software inconsistencies, ambiguities and defects during the design and implementation phase of software building.
+     </li>
+<li>
+      Design, code, and document automated test cases within a defined framework to assure the quality of a functional domain
+     </li>
+<li>
+      Translate existing manual regression test cases into automated tests.
+     </li>
+<li>
+      Assure automated regression test cases are integrated and passing in a nightly build process.
+     </li>
+<li>
+      Carry out root cause analysis on defects to ensure fixes are happening in the right way.
+     </li>
+<li>
+      Adhere to standard operating procedures and the collection of measures put in place to ensure consistency and improvement in the way we test software.
+     </li>
+<li>
+      Contribute to the planning process to establish tasks and forecasts for work to be performed
+     </li>
+<li>
+      Ask the right questions, in the right way, at the right time to reduce the introduction of quality risk.
+     </li>
+<li>
+      Be an ambassador for Agile QA by practicing principles such as TDD and ATDD
+     </li>
+<li>
+      In addition to the above responsibilities, the Software Engineer in Test is expected to display professionalism in the following ways:
+     </li>
+<li>
+      Maintain an attitude of commitment through outward display of willingness.
+     </li>
+<li>
+      Practice positive interactions - lean on encouragement in place of judgment.
+     </li>
+<li>
+      Impress responsibility on others by displaying ownership in tasks.
+     </li>
+<li>
+      Act in the best interest of the overall team.
+     </li>
+<li>
+      Understand the needs of our customers.
+     </li>
+</ul>
+<b>
+<u>
+      Qualifications:
+     </u>
+</b>
+<br/>
+<p>
+     • Bachelor’s Degree or equivalent in Computer Science.
+     <br/>
+     • 5+ years designing and coding software for commercial-grade systems, preferably using C++, C#, Java or Python
+     <br/>
+     • 2-4 years writing software that tests software in an automated fashion.
+     <br/>
+     • 7 to 10 years providing Software Quality Assurance for commercial-grade systems or enterprise level software applications.
+    </p>
+</div>
+<div>
+<u>
+<b>
+<br/>
+</b>
+</u>
+</div>
+<div>
+<u>
+<b>
+      About Us:
+     </b>
+</u>
+<br/>
+<ul>
+<li>
+<div>
+       Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+      </div>
+</li>
+</ul>
+<strong>
+     If you’re ready to grow with us, we’d love to hear from you.
+    </strong>
+<br/>
+</div>
+</span>
+
+#title
+advanced-software-engineer-test

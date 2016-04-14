@@ -1,0 +1,158 @@
+
+
+#position
+Full Stack Web Developer
+
+#company
+Microsystems
+
+#post
+<span class="nj-job-body">
+<p>
+    Want to create web solutions that deliver our message and 
+our software to customers and prospects every day?  Want to help support 
+and improve the systems that drives our business?
+   </p>
+<p>
+    We are looking for a highly-motivated, skilled developer 
+to fill the role of Web Developer.  As a Web Developer, you will work 
+closely with Product Management, a Graphic Artist, and Marketing to create and 
+deliver critical website updates. You will be relied upon to produce 
+easy-to-use, dependable web solutions to support our products.  You will 
+create integrations between critical business solutions that power sales, 
+finance, marketing and development.
+   </p>
+<p>
+    In this position you must be proficient at maintaining 
+and building web solutions, work well with teams, and be an effective 
+communicator. You will be interacting with multiple departments on a daily 
+basis to solve problems, not taking predefined requirements.  In addition, 
+you should be flexible both in development skills and variety of tasks assigned.
+   </p>
+<p>
+    We at Microsystems are strong believers in a 
+healthy work-life balance with added benefits you don’t find everywhere. Work 
+hours are flexible, and there are many opportunities to relax and get to know 
+each other, such as sports leagues, Thirsty Thursdays, and chair massages.   From Cinco de Mayo to Halloween to Festivus,
+there is always a reason to share a meal and celebrate! Microsystems cares 
+about all employees; we offer an annual onsite Wellness Event, our work 
+environment and attire are very casual, and free drinks and fruit are provided 
+daily. Meetings are minimal and you are always appreciated by management. We 
+are dedicated to giving back to the community. The team participates in an 
+Annual 5K Walk/Run event for charity as well as Community Service Projects and 
+Team Building Events.
+    <strong>
+</strong>
+</p>
+<p>
+<b>
+     KEY RESPONSIBILITES
+    </b>
+</p>
+<ul>
+<li>
+     Analyzing
+     and executing requirements
+    </li>
+<li>
+     Maintaining
+     and building new Salesforce integrations
+    </li>
+<li>
+     Constructing
+     an enterprise web solution from the ground up
+    </li>
+<li>
+     Assessing
+     new web technologies for use with the site
+    </li>
+<li>
+     Leading
+     backend architecture design
+    </li>
+<li>
+     Implementing
+     front end designs
+    </li>
+<li>
+     Integrating
+     databases and scripts with a CMS
+    </li>
+<li>
+     Utilizing
+     Agile methodologies to scope, estimate, and execute work
+    </li>
+</ul>
+<p>
+<b>
+     WHAT YOU WON'T BE DOING
+    </b>
+</p>
+<ul>
+<li>
+     Heavily
+     creating content
+    </li>
+<li>
+     Graphic
+     design
+    </li>
+</ul>
+<p>
+<b>
+     REQUIREMENTS
+    </b>
+</p>
+<ul>
+<li>
+     Minimum
+     of 5 years of experience in full stack web development or comparable
+     talent
+    </li>
+<li>
+     Proficiency
+     with the following: HTML, CSS, JavaScript, AJAX, JavaScript Frameworks,
+     IIS, Microsoft SQL Server, ASP.net, WordPress or comparable CMS
+    </li>
+<li>
+     Salesforce
+     API and PHP experience
+    </li>
+</ul>
+<p>
+<b>
+</b>
+<b>
+     BONUS POINTS
+    </b>
+</p>
+<ul>
+<li>
+     Sitecore
+     development experience
+    </li>
+<li>
+     Hubspot
+     familiarity
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<b>
+     WHO WE ARE
+    </b>
+</p>
+<p>
+    Microsystems designs and develops cutting edge software
+solutions for organizations whose craft is creating highly complex business
+documents. With a client base spanning the top 100 law firms as well as various
+corporate legal and life sciences corporations, Microsystems is committed to
+delivering quality products and services that increase profitability and
+efficiency.
+   </p>
+<br/>
+</span>
+
+#title
+full-stack-web-developer-9

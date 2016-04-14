@@ -1,0 +1,147 @@
+
+
+#position
+Data/Business Intelligence Developer
+
+#company
+American Marketing Association
+
+#post
+<span class="nj-job-body">
+   We are actively seeking a Data/Business Intelligence Developer to join the Digital Experience Team.
+   <p>
+</p>
+<p>
+<u>
+     The AMA and Digital Experience Team
+    </u>
+</p>
+<p>
+    At the American Marketing Association (AMA), we’re striving to be the most relevant force and voice shaping marketing around the world. Our passion and dedication to the world of marketing paired with our core values of being curious, courageous, grateful, joyful, customer-centric and stakeholder-sensitive are the backbone of our motivated and energetic team that serves more than 30,000 members who work, teach and study in the field of marketing across the globe.
+   </p>
+<p>
+</p>
+<p>
+    Our solution-driven Digital Experience team is imaginative, passionate, and relentless in our efforts. We drive for results to achieve organizational goals that are critical in defining the Next AMA – we’re focused on quality and development of large-scale, mission-critical software in a fast-paced, agile environment. We’re aggressively growing our team to understand, define, and build the elements of the future AMA online Marketplace.  By focusing on gamification, customer personas and other areas of opportunity the Marketplace will be a personalized, playful, and connected “digital marketplace of knowledge” that rewards engagement, contributions, and interaction in all forums to attract new members, improve member retention, enable new sources of revenue and leverage the AMA network.
+   </p>
+<p>
+</p>
+<p>
+    Come build something AMAzing with us!
+   </p>
+<p>
+</p>
+<p>
+<u>
+     Data/Business Intelligence Developer Core Job Responsibilities
+    </u>
+</p>
+<ul>
+<li>
+     Designs, creates, and supports transactional databases for critical business systems; responsible for the overall data management, data quality and delivery of business reporting needs.
+    </li>
+<li>
+     Writes, debugs, upgrades, and scales efficient queries, views, indexes, stored procedures and functions within SQL Server.
+    </li>
+<li>
+     Works closely with Customer Insights Manager, to help design, develop and maintain advanced reporting, analytics, dashboards and other BI solutions using either PowerBI or Tableau and other reporting /visualization tools.
+    </li>
+<li>
+     Proactively assists in locating and resolving problems in data and also resolves production database issues.
+    </li>
+<li>
+     Speaks with business users about requirements and data structures in a way that is high level and not confusing, while also possessing the skill to speak with highly technical resources.
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<u>
+     What You’ll Get
+    </u>
+</p>
+<ul>
+<li>
+     To play a major role in building the data architecture for the Next AMA while being a part of a collaborative and fun team that likes to celebrate each other’s successes!
+    </li>
+<li>
+     Broad exposure to cutting edge technologies with opportunities for skill growth and development.
+    </li>
+<li>
+     A comprehensive and competitive salary and benefits package.
+    </li>
+<li>
+     Work-life balance with summer hours, generous paid holiday schedule, paid volunteer time off and flexible work arrangements.
+    </li>
+<li>
+     Cool work environment with casual dress, social and employee appreciation events, and Fresh Fruit Mondays.
+    </li>
+<li>
+     Gym membership to the Pru Powerhouse.
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<u>
+     What You Have
+    </u>
+</p>
+<ul>
+<li>
+     Bachelor’s degree with emphasis in Computer Science, Database Technology or equivalent work experience.
+    </li>
+<li>
+     Three to five years’ hands-on experience with Microsoft SQL Server and the Microsoft BI stack (SSIS, SSRS and SSAS).
+    </li>
+<li>
+     Expert level T-SQL skills with the ability to write efficient queries, complex stored procedures, triggers, views, indexes and functions against complex and performance critical databases.
+    </li>
+<li>
+     Experience with Data Warehouse concepts, including the use of Extract, Transform, and Load (ETL) tools and creation of data marts.
+    </li>
+<li>
+     Knowledge of ETL data cleansing, data quality, and standardization techniques.
+    </li>
+<li>
+     Competency in extracting and integrating data from multiple sources.
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<u>
+     What You May Also Have
+    </u>
+</p>
+<ul>
+<li>
+     Experience using Personify.
+    </li>
+<li>
+     Experience with EPiCommerce or any other leading e-commerce platform.
+    </li>
+<li>
+     Experience with .NET framework, C# or any other scripting language like Python.
+    </li>
+<li>
+     Familiarity with SQL Azure and cloud computing in general.
+    </li>
+<li>
+     Experience with use of XML data and tools, including XPath and XQuery.
+    </li>
+</ul>
+<p>
+</p>
+<p>
+    For more information, please visit our website, AMA.org, and our blog Elevate.
+   </p>
+<p>
+</p>
+<p>
+    EOE
+   </p>
+</span>
+
+#title
+data-business-intelligence-developer

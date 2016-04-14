@@ -1,0 +1,110 @@
+
+
+#position
+Senior Software Engineer
+
+#company
+Fooda
+
+#post
+<span class="nj-job-body">
+<strong>
+    Who we are:
+   </strong>
+<p>
+    Do you get tired of visiting the same handful of lunch spots around your office? If so, you're not alone!  Fooda partners with trendy local restaurants to provide awesome food at reasonable prices to employees while at work.  We’ve built a technology platform for employees to easily buy tasty lunch everyday, and for restaurants to get access to new, loyal customers.  Fooda is a proven, venture-backed, growing startup with an experienced team.
+   </p>
+<p>
+<strong>
+     What You’ll be Doing:
+    </strong>
+</p>
+<ul>
+<li>
+     Lead the team in software architecture and development decisions
+    </li>
+<li>
+     Work with business stakeholders and UX team to define, execute and test technology solutions
+    </li>
+<li>
+     Understand how our business works and balance technical requirements with business needs
+    </li>
+<li>
+     Help develop other individuals on the engineering team through code reviews, mentoring and coaching
+    </li>
+<li>
+     Lead improvements to the process of building software and managing technical debt for the team
+    </li>
+<li>
+     Define scope, break problems into sprints, estimate timelines and be flexible as changes arise
+    </li>
+<li>
+     Take a technology project from concept to deployment
+    </li>
+<li>
+     Work with the management team and other internal teams in a collaborative manner
+    </li>
+</ul>
+<p>
+<strong>
+     What You Should Already Have:
+    </strong>
+</p>
+<ul>
+<li>
+     Advanced Ruby on Rails and RESTful experience
+    </li>
+<li>
+     Experience as a senior engineer or team lead, with strong technical design and architecture skills
+    </li>
+<li>
+     Experience leading a team through an agile software development process
+    </li>
+<li>
+     Relational database experience, specifically with PostgreSQL
+    </li>
+<li>
+     Experience with Haml/Sass and solid understanding of Git and Git Flow
+    </li>
+<li>
+     Strong understanding of unit testing and front end integration
+    </li>
+<li>
+     Effective communication skills to interact with internal and external team members
+    </li>
+<li>
+     Previous experience with consumer applications a plus. You should embrace the connection between marketing and technology
+    </li>
+<li>
+     Startup experience a plus
+    </li>
+</ul>
+<p>
+<strong>
+     What We’ll Hook You Up With:
+    </strong>
+</p>
+<ul>
+<li>
+     Competitive market salary and stock options, based on experience
+    </li>
+<li>
+     Comprehensive health, dental and vision plans
+    </li>
+<li>
+     401k matching and flexible spending account
+    </li>
+<li>
+     Laptop and peripherals of your choice
+    </li>
+<li>
+     Daily subsidized lunch program (ours!) and free food and beverages in the office
+    </li>
+<li>
+     A fulfilling, challenging adventure of a work experience
+    </li>
+</ul>
+</span>
+
+#title
+senior-software-engineer-41

@@ -1,0 +1,162 @@
+
+
+#position
+Systems Engineer III
+
+#company
+Enova
+
+#post
+<span class="nj-job-body">
+<p class="cssDspJobTitle">
+    Systems Engineer III
+   </p>
+<dl>
+<dt class="cssDspJobHead">
+     Tracking Code
+    </dt>
+<dd class="cssDspJobBody">
+     1417-626
+    </dd>
+<dt class="cssDspJobHead">
+     Job Description
+    </dt>
+<dd class="cssDspJobBody">
+<p>
+      Systems Engineer III
+     </p>
+<p>
+      Reports to: Manager of Infrastructure
+     </p>
+<p>
+</p>
+<p>
+      Our Systems Engineering team:
+     </p>
+<p>
+      Enova’s Systems Engineering team creates the tools and infrastructure that are used by the rest of our engineering and operations groups. We troubleshoot across the entire stack, meaning strong programming and operational skills are a must for our group. Reliability is always a priority and never an afterthought. We’re actively seeking a talented and experienced Systems Engineer to join our team and help us ensure that our systems are performing at their peak.
+     </p>
+<p>
+</p>
+<p>
+      We speak this language:
+     </p>
+<p>
+      We speak the language of full stack open platforms. From the infrastructure that powers our systems to the operating systems that run our applications, all the way up to the applications that drive our business.
+     </p>
+<p>
+</p>
+<p>
+      This is where YOU come in:
+     </p>
+<ul>
+<li>
+       Work in a team environment building and supporting on premises and cloud infrastructure for complex web applications
+      </li>
+<li>
+       Help lead small projects independently while working with other members of the team to ensure its success
+      </li>
+<li>
+       Implement server and server cluster best practices such as security, OS patching, networking, code deployment, and configuration management
+      </li>
+<li>
+       Recognize and recommend new equipment or services to solve needs and perform the necessary stress testing of the recommended equipment
+      </li>
+<li>
+       Diagnose, troubleshoot, and solve complex problems
+      </li>
+<li>
+       Maintain a private cloud in a fast paced environment
+      </li>
+<li>
+       Provide tier 2 support to Operations in a 24x7 on call environment
+      </li>
+<li>
+       Systems automation will be a key function of the role on a day to day basis
+      </li>
+</ul>
+<p>
+</p>
+<p>
+      You’re right for this job if you:
+     </p>
+<ul>
+<li>
+       have an undergraduate degree in Computer Science or equivalent
+      </li>
+<li>
+       have 5 + years of Unix / Linux systems administration
+      </li>
+<li>
+       are a subject matter expert in Linux systems administration in a production environment
+      </li>
+<li>
+       are a subject matter expert in both on premises and cloud computing (including AWS)
+      </li>
+<li>
+       have experience with Configuration Management tools (Chef, CFEngine, or similar)
+      </li>
+<li>
+       have experience implementing and maintaining a managed production environment
+      </li>
+<li>
+       employ a working knowledge of Bash, Perl, SH, Ruby and/or Python scripting
+      </li>
+<li>
+       have intuitive problem solving skills
+      </li>
+<li>
+       have experience with virtualization technologies such as Xen or VMware
+      </li>
+<li>
+       have experience in web development technologies, tools and protocols, such as HTTP and HTTPS
+      </li>
+<li>
+       have experience in a high availability, scalable environment with large data at multiple locations
+      </li>
+<li>
+       possess a strong understanding of networking, including but not limited to, routing, VLANs, TCP/IP, tcpdump, load balancing and Netflow
+      </li>
+<li>
+       are passionate about expanding personal knowledge and staying on the cutting edge of technology
+      </li>
+</ul>
+<p>
+</p>
+<p>
+      Kudos to you if you:
+     </p>
+<ul>
+<li>
+       have experience with Continuous Integration and Deployment Pipelines
+      </li>
+<li>
+       have professional exposure to PostgreSQL or other relational databases
+      </li>
+<li>
+       have experience working in Amazon Web Services
+      </li>
+<li>
+       have experience with Ruby or Ruby on Rails
+      </li>
+</ul>
+<p>
+</p>
+</dd>
+<dt class="cssDspJobHead">
+     Job Location
+    </dt>
+<dd class="cssDspJobBody">
+     Chicago, Illinois, United States
+    </dd>
+<dt class="cssDspJobHead">
+     Position Type
+    </dt>
+<dd class="cssDspJobBody">
+     Full-Time/Regular
+    </dd>
+</dl>
+</span>
+
+#title
+systems-engineer-iii

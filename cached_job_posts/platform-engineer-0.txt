@@ -1,0 +1,196 @@
+
+
+#position
+Platform Engineer
+
+#company
+Jellyvision
+
+#post
+<span class="nj-job-body">
+<div>
+<div>
+<div>
+<div>
+<p>
+<strong>
+         THE JELLYVISION LAB NEEDS AN AMAZING PLATFORM ENGINEER
+        </strong>
+</p>
+<p>
+        Founded by the creator of the YOU DON'T KNOW JACK® game series, The Jellyvision Lab, Inc. creates virtual teachers, advisors, and salespeople who make online learning and decision making delightful.  In all that we do, our goal is to make complex topics simple and boring material interesting, using a combination of great design, unexpectedly funny content, and serious technology.  Of all the virtual people Jellyvision has created, the tallest and least afraid of bears is ALEX®, the virtual benefits counselor (
+        <a href="http://www.meetalex.com">
+         www.meetalex.com
+        </a>
+        ). ALEX helps companies talk their employees through the tricky choices they’ll have to make, like picking a health insurance plan, deciding how much to put in the 401(k), or whether they might want extra life insurance. Our customers love ALEX because he helps their employees figure out what’s best for their personal situations, which, in turn, saves our customers a boat-load of time and money - everybody wins! As we sell more and more of ALEX, we need more and more non-virtual (i.e., real life) people to keep the product amazing. That’s where you come in.
+       </p>
+<p>
+<strong>
+         THAT'S LOVELY... BUT WHAT'S THE JOB?
+        </strong>
+</p>
+<p>
+        The platform team monitors the world for alien activity from our helicarrier…errh…rather, we build the portfolio of  services that form the foundation for every Jellyvision product. We spend a lot of time thinking about scalable web APIs, analytics data processing pipelines, data modeling, and building internal tools that allow us to create hundreds of complex, client-specific interactive web applications each year.
+       </p>
+<p>
+        As the newest member of the team, you will be responsible for designing systems, refining requirements, building/testing features, and all of the other fun things that are part of a software development lifecycle. You may be designing a new system, evaluating 3rd party solutions, building the next evolution Jellyvision platform, or shepherding a production release. We have systems in PHP and Ruby, with a focus on building new systems in Ruby. For data storage we use both relational databases and NOSQL solutions.
+       </p>
+<p>
+<strong>
+         SO WHAT ARE WE LOOKING FOR?
+        </strong>
+</p>
+<p>
+        First and foremost, we’re looking for someone who loves the challenge of building clean system interfaces, designing flexible data models, and scaling services to handle hundreds of requests a second. You should be capable of identifying and employing “in the box” tools when available, but should also be able to engineer enterprise quality tools from scratch when necessary. Every day is about learning something new, so we need someone who isn’t afraid to jump into a new technology and ask questions in order to build something great.
+       </p>
+<p>
+        Data and security are serious business for us, which means that we’re looking for someone with experience with industry best practices when it comes to authentication, sessions, encryption, data modeling, and data validation. You will be involved in optimizing databases, running ad-hoc queries and reports, and working on systems that extract insights from our data. You will also be responsible for reviewing others' code and designs and understanding the impact your work has on security and privacy.
+       </p>
+<p>
+        Above all, you’re going to learn a lot; that’s gotta be something you want in a job. We’ll support you in your endeavors, but we really relish seeing engineers who have a passion for learning and improvement throughout their careers, and we’re going to expect that passion from whomever we hire.
+       </p>
+<p>
+<strong>
+         AND IN TERMS OF EXPERIENCE?
+        </strong>
+</p>
+<p>
+        A degree is awesome, but we’re more interested in hearing about your experience working with distributed web and data applications. We are looking for candidates with solid (2+ years) experience as an application engineer. Experience as a DevOps engineer or collaborating with a DevOps team is a bonus. We're looking for someone with experience designing and building APIs, web services, data systems, and tools.
+       </p>
+<p>
+        We use Amazon Web Services to host our web applications and our code bases are mostly based on Ruby and PHP. For data, we use a mix of relational and NoSQL data stores. Having experience with the technologies in our stack is great, but we are most interested in finding the right people – so if you can’t check off every box on that list, that’s ok if you’re a self-guided learner and want to learn.
+       </p>
+<p>
+<strong>
+         WHAT ABOUT THOSE NOT-TECHNICAL, BUT EQUALLY IMPORTANT SKILLS?
+        </strong>
+</p>
+<p>
+        We’re looking for folks with:
+        <br/>
+        A passion for learning and experimenting with new technologies
+        <br/>
+        Experience working in a team-based environment
+        <br/>
+        Great communication skills
+        <br/>
+        And, last but not least, a sense of humor. It just makes you more fun to work with.
+       </p>
+<p>
+<strong>
+         ANYTHING ELSE?
+         <br/>
+<br/>
+</strong>
+        We only hire nice, bright, funny people who are willing to work hard.  Jellyvision is a group effort and you must be capable of working collaboratively with creative, technical, and project management types.  Everyone at Jellyvision shares a commitment to excellence and a desire to work in a comfortable, friendly atmosphere.
+       </p>
+<p>
+<strong>
+         ARE THERE ANY PERKS?
+        </strong>
+        Yes, we love perks.
+       </p>
+<ul>
+<li>
+<strong>
+          Competitive pay, stock options and benefits.
+         </strong>
+         401(k) with matching.  And we pay 100% of the cost of premiums for medical, dental, vision, disability and life insurance for our employees (as long as you qualify for our tobacco-free discount; if you’re a tobacco user, your medical premiums will be higher than $0).  We also cover a really nice chunk of the cost of premiums for spouse/partner/dependent medical, dental and vision insurance.
+        </li>
+<li>
+<strong>
+          Casual dress and a flexible schedule.
+         </strong>
+         Come in a sweatshirt, jeans, whatever, like everyone else here.
+        </li>
+<li>
+<strong>
+          Creative work environment.
+         </strong>
+         We are lucky to work in a place that is full of intelligent, talented and innovative folks. Although most hours the place is deathly quiet (we're a focused bunch), this is punctuated with hilarious outbursts and general merriment, which makes a nice way to spend the day.
+        </li>
+</ul>
+<ul>
+<li>
+<strong>
+          Free food.
+         </strong>
+         Every week, we stock our kitchen with free healthy snack foods, and we have a “hot lunch” catered once a week to give people a reason to hang out and eat together.
+        </li>
+<li>
+<strong>
+          Easy transportation.
+         </strong>
+         We’re really close to the 'L' and the Halsted (#8) bus (right by the Apple Store and Mega Whole Foods too), and we have a transit FSA that allows you to dedicate pre-tax dollars to public transportation expenses. And a number of our employees like to bike to work, so we also have showers and lockers in the office.
+        </li>
+<li>
+<strong>
+          Did we mention our yoga class?
+         </strong>
+         We bring a pro instructor right to the office.  Fully subsidized by Jellyvision and fully optional, btw.
+        </li>
+<li>
+<strong>
+          Oh! And we have a massage chair.
+         </strong>
+         Not just any massage chair, my friend.  It’s the HumanTouch HT 5320 WholeBody™ Massage Chair. Feeling a little stiff? Sit down. Relax. Feel better? Good. Okay, back to work.
+        </li>
+</ul>
+<p>
+<strong>
+         INTERESTED?
+        </strong>
+        Great, we look forward to reading your application - make sure it includes:
+       </p>
+<ul>
+<li>
+         A
+         <strong>
+          cover letter
+         </strong>
+         that highlights
+         <strong>
+          three reasons
+         </strong>
+         you think you’d be great for the gig, focusing on how your past work experience has prepared you for this kind of position – or why you think you can rock the job even though you don’t have past work experience that’s perfectly aligned.
+         <em>
+          Writing is key to all that we do, and we weigh cover letters heavily.
+         </em>
+</li>
+<li>
+         Your
+         <strong>
+          resume
+         </strong>
+         .
+        </li>
+</ul>
+<p>
+<strong>
+         You will receive an auto-reply confirming that we've received your application.
+        </strong>
+</p>
+<p>
+        If you decide to apply, please know that
+        <strong>
+         every complete application will be carefully reviewed.
+        </strong>
+        Seriously!  We know it is a time commitment to prepare an application. And we respect that effort by thoughtfully reviewing every complete application and responding one way or the other. But that kind of thoughtful review means that it sometimes takes us awhile to get back to applicants, so please
+        <strong>
+         NO PHONE CALLS.
+        </strong>
+        The time we spend responding to phone calls and emails inquiring about where we are in the process is time that we could be spending actually moving the process along – so please be patient with us!
+        <br/>
+<br/>
+<strong>
+         Thanks for your interest in Jellyvision!
+        </strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+platform-engineer-0

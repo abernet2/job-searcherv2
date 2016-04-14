@@ -1,0 +1,229 @@
+
+
+#position
+Staff Software Engineer
+
+#company
+GE Healthcare
+
+#post
+<span class="nj-job-body">
+<div>
+<span>
+     GE Healthcare
+    </span>
+<span>
+     Business Segment
+    </span>
+<span>
+     Healthcare Technology and Medical Innovation
+    </span>
+<span>
+     About Us
+    </span>
+<span>
+     GE {NYSE: GE} works on things that matter. The best people and the best technologies taking on the toughest challenges. GE operates in over 160 countries and employs more than 300,000 people worldwide, finding solutions in energy, health and home, transportation and finance to build, power, move and cure the world. Not just imagining. Doing.
+     <br/>
+<br/>
+     Business Overview:
+     <br/>
+<br/>
+     At GE Software, we are creating technology and solutions to enable social, mobile, analytical and cloud capabilities for the Industrial Internet. The Industrial Internet is an open, global network that connects people, data and machines. It’s about making infrastructure more intelligent and advancing the industries critical to the world we live in. At GE, we believe it’s about the future of industry—energy, healthcare, transportation, manufacturing. It’s about making the world work better. Stay connected with us. Join our Talent Community!
+     <br/>
+<br/>
+     Equal Employment Opportunity GE Corporation is an Equal Opportunity Employer and welcomes diversity.
+     <br/>
+</span>
+<br/>
+</div>
+<div>
+<span>
+     Essential Responsibilities
+    </span>
+<span>
+     In this role, you will:
+     <br/>
+</span>
+</div>
+<span>
+<p>
+     Engage with global service organizations and L4 in testing customer issues in Solutions lab Build and maintain EIS Software Solutions in 3 labs (Barrington, Bangalore and Milwaukee). Includes – install, configure, upgrade, integrate, viability and verification test 8 or more reference architectures (solutions) comprised of multiple EIS products and components.
+     <br/>
+</p>
+<li>
+     Perform impact assessment on solutions from changes in upstream products, especially cross-product dependencies that can potentially break a solution.
+     <br/>
+</li>
+<li>
+     Document solution level install and upgrade best practices and work arounds for issues identified during FAT testing.  Drive solution related requirements, gaps and enhancements in upstream products working with architecture and product teams.
+     <br/>
+</li>
+<li>
+     Perform deal reviews to identify variation from standard reference architectures and assess impact for viability of the proposed solution configuration being sold.
+     <br/>
+</li>
+<li>
+     Drive automation in testing of solutions using automated test harness.
+     <br/>
+</li>
+<li>
+     Drive service productivity at a solution level by automating, reducing and clarifying steps for installation, upgrade, configuration and integration working with product and serviceability teams. Execute in a fast pace delivery mode and focus in delivering tasks to meet the product release goal Lead and provide guidance to a team of 5 to 7 remote engineers with planning and execution of solution FAT testing using agile methodologies such as SCRUM
+     <span>
+</span>
+</li>
+<li>
+<span>
+</span>
+</li>
+<li>
+<span>
+      Qualifications/Requirements
+     </span>
+</li>
+<li>
+<span>
+</span>
+</li>
+<li>
+<span>
+<b>
+       Basic Qualifications:
+      </b>
+<br/>
+</span>
+</li>
+<li>
+     Bachelor’s Degree in Computer Science or in “STEM” Majors (Science, Technology, Engineering and Math)
+     <br/>
+</li>
+<li>
+     Minimum of 8 years of professional experience in installing and servicing GE imaging products such as CPACS, EA, UV, AW, etc.
+     <br/>
+<b>
+</b>
+</li>
+<li>
+<b>
+</b>
+</li>
+<li>
+<b>
+      Eligibility Requirements:
+     </b>
+<br/>
+</li>
+<li>
+     Legal authorization to work in the U.S. is required. GE may agree to sponsor an individual for an employment visa now or in the future if there is a shortage of individuals with particular skills.
+     <br/>
+</li>
+<li>
+     Must be willing to travel less than 15%
+     <br/>
+</li>
+<li>
+     Must be willing to work out of an office located in Barrington, IL
+     <span>
+      Additional Eligibility Qualifications
+     </span>
+<span>
+      GE will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a background investigation and drug screen.
+     </span>
+</li>
+<li>
+</li>
+<li>
+<span>
+      Desired Characteristics
+     </span>
+<span>
+<p>
+       Technical Expertise:
+       <br/>
+<br/>
+</p>
+</span>
+</li>
+<li>
+     Knowledge of scripting languages such as Perl, basic, TCL, PowerShell, etc.
+     <br/>
+</li>
+<li>
+     Knowledge of SQL
+     <br/>
+</li>
+<li>
+     Experience installing and configuring Operating Systems such as Windows Server and RedHat Linux
+     <br/>
+</li>
+<li>
+     Experience installing and configuring SQL Server, Sybase
+     <br/>
+</li>
+<li>
+     Experience with HA and DR
+     <p>
+      Business Acumen:
+      <br/>
+<br/>
+</p>
+</li>
+<li>
+     Strong problem solving abilities and capable of articulating specific technical topics or assignments
+     <br/>
+</li>
+<li>
+     Experience in building scalable and highly available distributed systems
+     <br/>
+</li>
+<li>
+     Expert in breaking down problems and estimate time for development tasks
+     <br/>
+</li>
+<li>
+     Evangelizes how our technology solves customer problems from a technology and business perspective
+     <p>
+      Leadership:
+      <br/>
+<br/>
+</p>
+</li>
+<li>
+     Demonstrates clarity of thinking to work through limited information and vague problem definitions
+     <br/>
+</li>
+<li>
+     Influences through others; builds direct and "behind the scenes" support for ideas
+     <br/>
+</li>
+<li>
+     Proactively identifies and removes project obstacles or barriers on behalf of the team
+     <br/>
+</li>
+<li>
+     Shares knowledge, power, and credit, establishing trust, credibility, and goodwill
+     <p>
+      Personal Attributes:
+      <br/>
+<br/>
+</p>
+</li>
+<li>
+     Able to work under minimal supervision
+     <br/>
+</li>
+<li>
+     Excellent communication skills and the ability to interface with senior leadership with confidence and clarity
+     <br/>
+</li>
+<li>
+     Able to work well with global teams, including time-zone flexibility
+     <br/>
+</li>
+<li>
+     Skilled in providing oversight and mentoring team members. Shows ability to effectively delegate work.
+    </li>
+</span>
+</span>
+
+#title
+staff-software-engineer

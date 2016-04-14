@@ -1,0 +1,123 @@
+
+
+#position
+SQL Server Database Administrator
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<b>
+<u>
+     Overview:
+    </u>
+</b>
+<div>
+<p>
+     kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+    </p>
+<p>
+     The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves, give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+    </p>
+<p>
+     A Production Database Administrator with a deep demonstrated knowledge of MS SQL administrative tasks and the ability to consult on design, development, and automation improvements.  Having a passion for maintaining MS SQL databases that meet or exceed internal and client contracted production SLAs for availability and performance. The right candidate will ideally have past hands-on experience administering MS SQL databases running in a public cloud environment such as AWS or MS Azure.
+    </p>
+<b>
+<u>
+      Responsibilities:
+     </u>
+</b>
+<div>
+<ul>
+<li>
+       Install and configure SQL Server 2012 and higher versions. Configurations built and supported should include scenarios that include leveraging SQL Always On, windows fail over clustering, and transaction replication.
+      </li>
+<li>
+       Document complex installation, configuration, and optimization procedures so they can be automated.
+      </li>
+<li>
+       Provide support 24/7/365 for any troubleshooting or corrective actions related to incidents impacting application availability within the production environments.
+      </li>
+<li>
+       Take proactive measures to monitor, trend, and tune SQL databases, such as running maintenance jobs (backups, DBCCs, apply indexes/re-indexing, etc.), to meet or exceed baseline stability and performance SLAs on large databases (1 TB+) and large volumes of databases (100+).
+      </li>
+<li>
+       Create, implement, and maintain SQL DB Health Checks, and have a demonstrated ability to automate SQL health reporting/event notification, and corrective actions.
+      </li>
+<li>
+       Configure SQL Server monitoring utilities to minimize false alarms, and have a demonstrated ability to monitor/trend SQL environments to determine and implement enhanced monitoring thresholds to prevent incidents and reduce mean time to recovery (MTTR).
+      </li>
+<li>
+       When performance issues arise, determine the most effective way to increase performance including scaling up or out, server configuration changes, index/query changes, etc.
+      </li>
+<li>
+       Identify code defects and enhancements and develop a detailed root cause analysis that can be leveraged by the product management and development teams to improve application availability and decrease the total cost of ownership.
+      </li>
+<li>
+       Ensure databases are being backed up and can be recovered in a manner that meets all BCDR objectives for RPO and RTO.
+      </li>
+<li>
+       Perform all database management responsibilities in Microsoft Azure for production and non-production workloads.
+      </li>
+</ul>
+<b>
+<u>
+       Qualifications:
+      </u>
+</b>
+<div>
+<ul>
+<li>
+        At least 4 years’ experience working as a Microsoft SQL DBA leveraging versions 2008r2 or later.
+       </li>
+<li>
+        Experience working in a 24/7/365 operation.
+       </li>
+<li>
+        Bachelor’s degree in computer science or information systems.
+       </li>
+<li>
+        Familiar with basic Azure IaaS capabilities, and some experience designing and building MS SQL databases within Azure or AWS.
+       </li>
+<li>
+        Microsoft certifications such as MCSE, MCSD, etc.
+       </li>
+<li>
+        Experience operating in an ISO certified and/or highly regulated (SSAE, PCI, HIPPA, etc.) hosting operation.
+       </li>
+<li>
+        Familiar with Dev/Ops concepts, and ideally experience working with a Dev/Ops team focused on implementing and enhancing continuous delivery capabilities.
+       </li>
+<li>
+        Experience automating SQL Server deployment and configuration through PowerShell, Chef, Puppet, etc.
+       </li>
+<li>
+        Background designing, building, and managing a search and indexing solution such as Elastic Search, Apache SOLR, etc.
+       </li>
+</ul>
+<p>
+       Previous Relativity system administration experience.
+      </p>
+<b>
+<u>
+        About Us:
+       </u>
+</b>
+<div>
+<p>
+        Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+       </p>
+<p>
+<strong>
+         If you’re ready to grow with us, we’d love to hear from you.
+        </strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+sql-server-database-administrator

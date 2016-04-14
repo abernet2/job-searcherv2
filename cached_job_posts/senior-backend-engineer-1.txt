@@ -1,0 +1,142 @@
+
+
+#position
+Senior Backend Engineer
+
+#company
+SpotHero
+
+#post
+<span class="nj-job-body">
+<p>
+    SpotHero is seeking a Backend Developer who will work directly with our Co-Founder and CTO, Larry Kiss and our amazing Engineering Team.  You will be responsible for building all things related to the backend horsepower that powers our website, our API, and our native apps.
+   </p>
+<p>
+</p>
+<p>
+<strong>
+     Who we are:
+    </strong>
+    SpotHero is a rapidly growing tech company that’s making life easier for the daily driver. Drivers across the nation use the SpotHero mobile app or website to reserve discounted parking on-the-go or in advance. Cashless. Convenient. Easy.  Awarded 2015 Startup of the Year by Built in Chicago!
+   </p>
+<p>
+</p>
+<p>
+<strong>
+     What might you find yourself doing here?
+    </strong>
+</p>
+<p>
+    We are looking for pragmatic generalist programmers who can not only help us execute in building this out, but also have a real say in our technological direction. We're on a Python/Django stack, with both iOS and Android native apps. However, we're open to experienced engineers with other backgrounds, like Ruby.
+   </p>
+<ul>
+<li>
+     Architecting and building out a public API, with throttling controls, rock solid security, and analytics to measure usage.
+    </li>
+<li>
+     We're constantly optimizing for speed, as a way to deliver the best experience to both website users and native app users. Sometime this means rearchitecting the front-end and API interaction. Sometimes this means using edge of network caching. Maybe we even need to optimize our algorithm. Bottom line is best experience for the customer, no matter what it takes.  Sometimes this conflicts with A/B testing strategies. So building out a robust system, that is both fast, and allows our growth team to effectively test new features, is critical.
+    </li>
+<li>
+     Our Parking Garages are crucial to our business. So we're building them a suite of analytics tools, to help them monitor and optimize rates and availability, to provide the best value to the customers.
+    </li>
+<li>
+     Architecting a RedShift data warehouse, to combine 10+ databases, to allow for incredibly quick big data analysis.
+    </li>
+<li>
+     We're streamlining the onboarding of new cities, by building out suites of tools for business team use.
+    </li>
+<li>
+     Companies are excited to integrate with our products. Just imagine, after you purchase event tickets, you need amazing parking for the event.  So we're making that seamless experience happen.
+    </li>
+<li>
+     We believe in the best customer experience ever.  This includes their experience at the Parking Garage itself.  When the garage has a barcode scanner, all our customer has to do is scan their barcode on entry, and exit, and the gate automatically opens.  It's truly amazing!!
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<strong>
+     The following experience is relevant to us:
+    </strong>
+</p>
+<ul>
+<li>
+     Solid experience of all aspects of an MVC web application (especially those built on Rails or Django).
+    </li>
+<li>
+     Commanding grasp of a dynamic language (i.e. python, ruby, php), and front end languages: HTML(5), CSS(3) and javascript (including jquery, browserify, SASS, etc).
+    </li>
+<li>
+     BS in Computer Science or a solid background of CS fundaments.
+    </li>
+<li>
+     Knowledge of different web servers and architecting caching solutions.
+    </li>
+<li>
+     Extensive knowledge of relational and nosql databases.
+    </li>
+<li>
+     Ability to draft and visually communicate technology/design/architecture concepts.
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<strong>
+     Let’s talk details.
+    </strong>
+    Our ideal candidate will love to dig deep on backend, and not shy away from architecting solutions that involve newer technologies that we’ve never used, including front end related solutions. Right now, our backend is powered by Django, python, postgresql, redis, mongodb, and nginx + uwsgi. Our front end is a combination of responsive design, and a backbone app to make searching blazingly fast.  We're currently in 10 cities now, and you'll be instrumental in getting into all the major cities in the US.
+   </p>
+<p>
+</p>
+<p>
+<strong>
+     What we are offering:
+    </strong>
+</p>
+<ul>
+<li>
+     Laptop of your choice, and a big monitor
+    </li>
+<li>
+     Stock options in a growth-stage company
+    </li>
+<li>
+     Competitive salary
+    </li>
+<li>
+     Flexible hours so you can be at your most productive
+    </li>
+<li>
+     High-energy environment with dedicated “work zones”
+    </li>
+<li>
+     Paid time off &amp; parking benefits
+    </li>
+<li>
+     Medical, dental, and vision insurance
+    </li>
+<li>
+     Life insurance and disability benefits
+    </li>
+<li>
+     401(k)
+    </li>
+<li>
+     Pre-tax commuter benefits
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<strong>
+     Steps to apply:
+    </strong>
+</p>
+<p>
+    Please include any github account, linkedin profile, and any project that you’re particularly proud of. We love seeing work that others loved working on.
+   </p>
+</span>
+
+#title
+senior-backend-engineer-1

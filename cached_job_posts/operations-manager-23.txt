@@ -1,0 +1,114 @@
+
+
+#position
+Operations Manager
+
+#company
+ParkWhiz
+
+#post
+<span class="nj-job-body">
+   ParkWhiz is seeking an Operations Manager to grow its industry leading position in the eParking market. This position is part of the Operations team, and will be responsible for leading Sales Operations: managing both remote and inside teams and building and optimizing processes to ensure comprehensive coverage and accuracy of our data architecture.
+   <div>
+<p dir="ltr">
+<b>
+<br/>
+</b>
+</p>
+<p dir="ltr">
+<b>
+      Responsibilities
+     </b>
+</p>
+<p dir="ltr">
+     -Optimize interdepartmental processes and workflows to ensure prompt and thorough resolution of support requests with zero failures in data integrity
+    </p>
+<p dir="ltr">
+     -Work closely with Account Management, Sales, and Product teams across all levels to identify, develop, and implement operational changes to improve the customer experience
+    </p>
+<p dir="ltr">
+     -Ensure optimal team performance and capability by providing day-to-day leadership, coaching and development
+    </p>
+<p dir="ltr">
+     -Implement systems for ongoing QA, measurement against KPIs and organization-level objectives
+    </p>
+<br/>
+<br/>
+<p dir="ltr">
+<b>
+      Qualifications
+     </b>
+</p>
+<p dir="ltr">
+     -Process guru with exceptional attention to detail, obsessive focus on optimizing processes for accuracy and efficiency.
+    </p>
+<p dir="ltr">
+     -A growth mindset and natural curiosity to understand user needs.
+    </p>
+<p dir="ltr">
+     -Effective leader of internal and remote teams &amp; vendors.
+    </p>
+<p dir="ltr">
+     -Ability to rapidly produce great results, independently manage and prioritize work effectively, and proactively escalate workload conflicts.
+    </p>
+<p dir="ltr">
+     -Takes a strong stance against business decisions that degrade the customer experience (even if they meet another requirement)
+    </p>
+<p dir="ltr">
+     -Can define standards for quality, evaluate processes and services against those standards and enforce change.
+    </p>
+<p dir="ltr">
+     -Ability to influence across an organization without formal authority.
+    </p>
+<p dir="ltr">
+     -Proven self-starter who is comfortable in a fast-paced environment with short feedback loops.
+    </p>
+<p dir="ltr">
+     -A strong sense of urgency and drive.
+    </p>
+<p dir="ltr">
+     -3-5 years operations or project management experience.
+    </p>
+<br/>
+<br/>
+<p dir="ltr">
+<b>
+      Benefits
+     </b>
+</p>
+<p dir="ltr">
+     Competitive salaries
+    </p>
+<p dir="ltr">
+     Medical, dental, and life insurance
+    </p>
+<p dir="ltr">
+     Flexible schedules
+    </p>
+<p dir="ltr">
+     Paid holidays and generous vacation
+    </p>
+<p dir="ltr">
+     Workstation of your choice
+    </p>
+<p dir="ltr">
+     Casual office with stocked kitchen and ping pong
+    </p>
+<br/>
+<p dir="ltr">
+<b>
+      How to Apply
+     </b>
+</p>
+<p dir="ltr">
+     To apply for this position email your resume and cover letter to jobs{at}parkwhiz.com.
+    </p>
+<br/>
+<p dir="ltr">
+     ParkWhiz is an Equal Opportunity Employer.
+    </p>
+</div>
+</span>
+
+#title
+operations-manager-23

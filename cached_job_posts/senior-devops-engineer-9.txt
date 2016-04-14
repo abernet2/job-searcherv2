@@ -1,0 +1,223 @@
+
+
+#position
+Senior DevOps Engineer
+
+#company
+Jellyvision
+
+#post
+<span class="nj-job-body">
+   Founded by the creator of the YOU DON'T KNOW JACK® game series,
+   <strong>
+    The Jellyvision Lab, Inc.
+   </strong>
+   creates virtual teachers, advisors, and salespeople who make online learning and decision making delightful.  In all that we do, our goal is to make complex topics simple and boring material interesting, using a combination of great design, unexpectedly funny content, and serious technology.  Of all the virtual people Jellyvision has created, the tallest and least afraid of bears is ALEX®, the virtual benefits counselor (
+   <a href="http://www.meetalex.com">
+    www.meetalex.com
+   </a>
+   ). ALEX helps companies talk their employees through the tricky choices they’ll have to make, like picking a health insurance plan, deciding how much to put in the 401(k), or whether they might want extra life insurance. Our customers love ALEX because he helps their employees figure out what’s best for their personal situations, which, in turn, saves our customers a boat-load of time and money - everybody wins! As we sell more and more of ALEX, we need more and more non-virtual (i.e., real life) people to keep the product amazing. That’s where you come in.
+   <p>
+<strong>
+     THAT'S LOVELY... BUT WHAT'S THE JOB?
+    </strong>
+</p>
+<p>
+    We love engineers who are jacks of all trades and equally as comfortable writing application code as they are a bash one-liner. What we’re looking for, right now, are engineers who are experienced and who are looking for an opportunity to work with great people, play with some great technology and become better engineers.
+   </p>
+<p>
+    You’d be working on our products, platforms and tools doing things like automating builds and deployments, designing and building scalable infrastructure for multi-tiered web applications, and creating automation around repeatable tasks. We’re big on security here (who isn’t?), so you’ll be helping us enforce our existing security policies as well as have a hand in writing new ones!
+   </p>
+<p>
+    You’d also be a leader on the team.  We’d be looking for you to share your knowledge of architecture, systems, and security through mentoring, by leading projects, and by being an exemplary engineer.
+   </p>
+<p>
+<strong>
+     SO WHAT ARE WE LOOKING FOR?
+    </strong>
+</p>
+<p>
+    We’re looking for someone who isn’t afraid to dive into a new technology and learn all of its ins and outs.  A degree is awesome, but we’re more interested in hearing about your experience working with distributed web applications. We want to hear about your past challenges, successes, and lessons learned!
+   </p>
+<p>
+    This shouldn’t be your first rodeo.  You should already have lead several projects or initiatives, and seen them through to fruition.  It’s expected that you’ll be able to dissect a large project into smaller digestible pieces and share those tasks with your fellow teammates.
+   </p>
+<p>
+    We utilize various technologies and languages in our web applications. You should be well versed in the different pieces that make up a multi-tiered web app environment.  It’s expected that you’ve managed all of the different components (web servers, databases, etc.) and have an expert level understanding of at least one solution for each tier.
+   </p>
+<p>
+    A little scripting can go a long way!  It saves us from making mistakes while performing tasks that are better suited for computers.  You should know one or more scripting languages inside and out.  It should be your go-to tool for any task that may need to be done more than once.
+   </p>
+<p>
+    We handle a fair amount of data.  You should know the difference between SQL and NoSQL solutions, and when it’s appropriate to implement one over the other.  You should also be familiar with modeling data, as is appropriate, for both types of systems.
+   </p>
+<p>
+    Servers don’t make great pets, and we try not to treat them as such.  You should have experience managing servers en mass with a configuration management tool (Puppet, Chef, etc.).  Being able to deploy a complex web application with a single command is a hole-in-one!
+   </p>
+<p>
+    Above all, you’re going to learn a lot; that’s gotta be something you want in a job. We’ll support you in your endeavors, but we really relish seeing engineers who have a passion for learning and improvement throughout their careers, and we’re going to expect that passion from whomever we hire.
+   </p>
+<p>
+<strong>
+     NICE TO HAVES...
+    </strong>
+</p>
+<p>
+    We use Amazon Web Services to host our web applications, but experience with any cloud provider is excellent.
+   </p>
+<p>
+    It’s a boon if you have some experience using a source control management system. We use git at Jellyvision, but if you’ve got your hands dirty with SVN or Hg and you’re ready for something new, we’re open to that.
+   </p>
+<p>
+<strong>
+     WHAT ABOUT THOSE NOT-TECHNICAL, BUT EQUALLY IMPORTANT SKILLS?
+    </strong>
+    We’re looking for folks with:
+   </p>
+<ul>
+<li>
+     A passion for learning and experimenting with new technologies
+    </li>
+<li>
+     Experience working in a team-based environment
+    </li>
+<li>
+     Great communication skills
+    </li>
+<li>
+     And, last but not least, a sense of humor. It just makes you more fun to work with.
+    </li>
+</ul>
+<p>
+<strong>
+     AND IN TERMS OF EXPERIENCE?
+    </strong>
+</p>
+<p>
+    Significant (5+ years) experience on an ops team designing systems, developing automation, and building tools.  (Really interested in the role but not that experienced?  Check out our Jr. DevOps posting here.)
+    <br/>
+<br/>
+<strong>
+     PHEW. THAT WAS A LOT.  ANYTHING ELSE?
+    </strong>
+</p>
+<p>
+</p>
+<p>
+    Yes.  We only hire nice, bright, funny people who are willing to work hard.  Jellyvision is a group effort and you must be capable of working collaboratively with creative, technical, and project management types.  Everyone at Jellyvision shares a commitment to excellence and a desire to work in a comfortable, friendly atmosphere.
+    <span style="font-weight:bold">
+<span style="font-weight:normal">
+<br/>
+</span>
+</span>
+</p>
+<span style="font-weight:bold">
+    ARE THERE ANY PERKS?
+   </span>
+<p>
+</p>
+<p>
+    Yes, we love perks.
+   </p>
+<ul>
+<li>
+<strong>
+      Competitive pay, stock options and benefits.
+     </strong>
+     401(k) with matching.  And we pay 100% of the cost of premiums for medical, dental, vision, disability and life insurance for our employees (as long as you qualify for our tobacco-free discount; if you’re a tobacco user, your medical premiums will be higher than $0). We also cover a really nice chunk of the cost of premiums for spouse/partner/dependent medical, dental and vision insurance.
+     <br/>
+</li>
+<li>
+<strong style="font-weight:bold">
+      Casual dress and a flexible schedule.
+     </strong>
+     Come in a sweatshirt, jeans, whatever, like everyone else here.
+    </li>
+<li>
+<strong>
+<strong>
+       Creative work environment.
+      </strong>
+</strong>
+     We are lucky to work in a place that is full of intelligent, talented and innovative folks. Although most hours the place is deathly quiet (we're a focused bunch), this is punctuated with hilarious outbursts and general merriment, which makes a nice way to spend the day.
+    </li>
+<li>
+<strong>
+<strong>
+       Easy transportation.
+      </strong>
+</strong>
+     We’re really close to the "L" and the Halsted (#8) bus (right by the new Apple Store and Mega Whole Foods if that’s your kind of thing), and we have a transit FSA that allows you to dedicate pre-tax dollars to public transportation expenses.  Since a number of our employees like to bike to work, we also have showers and lockers in the office.
+    </li>
+<li>
+<strong style="font-weight:bold">
+      Did we mention our yoga class?
+     </strong>
+     We bring a pro instructor right to the office. Fully subsidized by Jellyvision and fully optional, btw.
+    </li>
+<li>
+<strong>
+<strong>
+       Oh! And you should know that we have a massage chair
+      </strong>
+      .
+     </strong>
+     And not just any massage chair, my friend.  It’s the HumanTouch HT 5320 WholeBody™ Massage Chair. Feeling a little stiff? Sit down. Relax. Feel better? Good. Okay, back to work.
+    </li>
+<li>
+<strong style="font-weight:bold">
+      Free food.
+     </strong>
+     Every week, we stock our kitchen with free healthy snack foods, and we have a “hot lunch” catered once a week to give people a reason to hang out and eat together.
+    </li>
+</ul>
+<p>
+<strong>
+<strong>
+      INTERESTED? GREAT! HERE’S HOW TO APPLY:
+     </strong>
+</strong>
+</p>
+<p>
+<strong>
+     We need:
+    </strong>
+</p>
+<ul>
+<li>
+     Your
+     <strong>
+      resume.
+     </strong>
+</li>
+<li>
+     A
+     <strong>
+      cover letter t
+     </strong>
+     hat highlights
+     <b>
+      3 reasons
+     </b>
+     you think you’d be great for the gig.  Writing is key to all that we do, and we weigh cover letters heavily.  We’d love it if your cover letter could show us how you think about coding.
+    </li>
+</ul>
+<p>
+    You should receive an auto-reply confirming that we’ve received your application.
+    <strong>
+<br/>
+<br/>
+<strong>
+      NO PHONE CALLS OR FOLLOW-UP EMAILS, PLEASE.
+     </strong>
+</strong>
+</p>
+<p>
+    If you do decide to apply, please know that every complete application will be carefully reviewed.  Seriously!  We know it is a time commitment to prepare an application.  We will respect that effort by thoughtfully reviewing every single complete application and responding one way or the other, and we are truly grateful for your interest.
+   </p>
+<p>
+</p>
+</span>
+
+#title
+senior-devops-engineer-9

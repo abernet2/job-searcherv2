@@ -1,0 +1,285 @@
+
+
+#position
+Senior Software Engineer
+
+#company
+GE Healthcare
+
+#post
+<span class="nj-job-body">
+<div>
+</div>
+<div>
+<span>
+     Essential Responsibilities
+    </span>
+</div>
+<div>
+<span>
+<br/>
+</span>
+</div>
+<span>
+<div>
+<li>
+      Design network topology for Reference Architectures to be used as templates for implementation of our solutions at customer sites.
+      <br/>
+</li>
+</div>
+<div>
+<li>
+<div>
+       Consult with our support organizations and customers over network design and implementation challenges (impact of Firewalls, NAT, Load Balancing, etc.)
+       <br/>
+</div>
+</li>
+</div>
+<li>
+<div>
+      Design high availability in Reference Architectures working with other Architects and Senior Engineers bringing your network knowledge and experience to the table.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Code and maintain install and configuration scripts for high availability of the solutions on F5 and A10 load balancers using native tools.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Code/maintain C/C++ plugins for F5 and A10 for product specific customizations to do things such as DICOM ping, etc.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Write and update Network diagrams for the Reference Architectures.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Implement, troubleshoot and resolve network outages in the Solutions test lab in three global locations.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Write Standard Operating Procedures to be used by service/support personnel to troubleshoot network related issues with our products at customer sites.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Use network tools such as WAN emulators (Itrinegy) and Wireshark to trap communication between our products/components to identify impact of network conditions such latency, jitter, protocol specific behavior on performance.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Give technical briefings and design guidance to product teams to implement changes in our products to improve performance and increase reliability over many types of network conditions.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Support Windows and Linux Server administration – install, configure Domain Controllers (AD), Terminal Servers, DNS, DHCP and WINS Servers.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Design and implement usage of specific network features in VMWare and Hyper-V in our Reference Architectures.
+      <span>
+       Qualifications/Requirements
+      </span>
+</div>
+</li>
+<li>
+<div>
+<span>
+</span>
+</div>
+<span>
+<div>
+<b>
+        Basic Qualifications:
+       </b>
+<br/>
+</div>
+</span>
+</li>
+<li>
+<div>
+      Bachelor’s Degree in Computer Science or in “STEM” Majors (Science, Technology, Engineering and Math)
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      A minimum of 5 years professional experience OR Master’s degree with 3 years of experience in network and system administration in Cisco, DELL, EMC and HP network, server and storage
+     </div>
+</li>
+<li>
+<div>
+<br/>
+<b>
+       Eligibility Requirements:
+      </b>
+<br/>
+</div>
+</li>
+<li>
+<div>
+      Legal authorization to work in the U.S. is required.  We will not sponsor individuals for employment visas, now or in the future, for this job
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Must be willing to travel up to 5% of the time.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Must be willing to work out of an office located in Barrington, IL
+      <span>
+       Additional Eligibility Qualifications
+      </span>
+<span>
+       GE will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a background investigation and drug screen.
+      </span>
+</div>
+</li>
+<li>
+<div>
+<br/>
+</div>
+</li>
+<li>
+<div>
+<span>
+       Desired Characteristics
+      </span>
+</div>
+<span>
+<div>
+</div>
+<p>
+       Technical Expertise:
+       <br/>
+</p>
+</span>
+</li>
+<li>
+<div>
+      5-7 years in planning, designing, implementing and supporting large network deployments.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Experience with C/C++, BigPipe, Perl and other scripting languages to create installation/configuration templates for load balancers.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Experience with Highly Available systems, ideally as a designer.
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Experience with Cisco, F5, A10 and other network equipment.
+     </div>
+<p>
+      Business Acumen:
+      <br/>
+</p>
+</li>
+<li>
+<div>
+      Demonstrates the initiative to explore alternate technology and approaches to solving problems
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Skilled in breaking down problems, documenting problem statements and estimating efforts
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Demonstrates awareness about competitors and industry trends
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Has the ability to analyze impact of technology choices
+     </div>
+<p>
+      Leadership:
+      <br/>
+</p>
+</li>
+<li>
+<div>
+      Ability to takes ownership of small and medium sized tasks and deliver while mentoring and helping team members
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Ensures understanding of issues and presents clear rationale. Able to speak to mutual needs and win-win solutions. Uses two-way communication to influence outcomes and ongoing results
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Identifies misalignments with goals, objectives, and work direction against the organizational strategy. Makes suggestions to course correct
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Continuously measures deliverables of self and team against scheduled commitments. Effectively balances different, competing objectives
+     </div>
+<p>
+      Personal Attributes:
+      <br/>
+</p>
+</li>
+<li>
+<div>
+      Strong oral and written communication skills
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Strong interpersonal skills
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Effective team building and problem solving abilities
+      <br/>
+</div>
+</li>
+<li>
+<div>
+      Persists to completion, especially in the face of overwhelming odds and setbacks. Pushes self for results; pushes others for results through team spirit
+     </div>
+</li>
+</span>
+</span>
+
+#title
+senior-software-engineer-90

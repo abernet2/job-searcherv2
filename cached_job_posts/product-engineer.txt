@@ -1,0 +1,152 @@
+
+
+#position
+Product Engineer
+
+#company
+Jellyvision
+
+#post
+<span class="nj-job-body">
+<b>
+    THE JELLYVISION LAB NEEDS AN AMAZING PRODUCT ENGINEER
+   </b>
+<div>
+<p>
+     Founded by the creator of the YOU DON'T KNOW JACK® game series, The Jellyvision Lab, Inc. creates virtual teachers, advisors, and salespeople who make online learning and decision making delightful.  In all that we do, our goal is to make complex topics simple and boring material interesting, using a combination of great design, unexpectedly funny content, and serious technology.  Of all the virtual people Jellyvision has created, the tallest and least afraid of bears is ALEX®, the virtual benefits counselor (
+     <a href="http://www.meetalex.com">
+      www.meetalex.com
+     </a>
+     ).ALEX helps companies talk their employees through the tricky choices they’ll have to make, like picking a health insurance plan, deciding how much to put in the 401(k), or whether they might want extra life insurance. Our customers love ALEX because he helps their employees figure out what’s best for their personal situations, which, in turn, saves our customers a boat-load of time and money - everybody wins! As we sell more and more of ALEX, we need more and more non-virtual (i.e., real life) people to keep the product amazing. That’s where you come in.
+    </p>
+<b>
+     THAT'S LOVELY... BUT WHAT'S THE JOB?
+    </b>
+<p>
+     We love developers who can turn their hand to both server code and browser code. What we’re looking for, right now, are developers who have a few years under their belts and who are looking for an opportunity to work with great people, play with some great technology and build great products.
+    </p>
+<p>
+     You’d be working on our products, adding new features and fixing bugs (what?! bugs? never!). You'll also be expected to get involved in design discussions about how best to build and test the features that we need. Since we're following the Scrum process for creating our products, you're going to have an important voice in our product creation very quickly.
+    </p>
+<b>
+     SO WHAT ARE WE LOOKING FOR?
+    </b>
+<p>
+     First and foremost, we’re looking for a background in software development. We don’t really care whether you got that by completing a Computer Science degree, through freelancing after attending a BootCamp or have been writing code on your Commodore since you were a kid. A background in development and a few years of professionally developing is what we want to see.
+    </p>
+<p>
+     Our client code is written in (surprise!) JavaScript. We’re looking for developers who have experience writing JavaScript web applications and using at least one well known library or framework - you know: Angular, Backbone, whatever. (We use React, so experience with that is a plus.) And terms like NPM, Bower, Grunt, and Gulp should sound familiar to you.
+    </p>
+<p>
+     Our server code is written in Ruby and we're looking for engineers with good experience with that. We're not beholden to any frameworks here; we've worked with Rails and we've worked with Grape. What's more important to us is solid fundamentals and an understanding of the pros and cons of using frameworks.
+    </p>
+<p>
+     You should be the kind of person who tests their code, whether that's TDD-style or writing them after the fact, and you should know your way around a test running suite or two.
+    </p>
+<p>
+     We'd also expect you to have some experience using a source control management system. We use Git at Jellyvision, but if you’ve got your hands dirty with SVN and you’re ready for something new, we’re open to that.
+    </p>
+<p>
+     We particularly love applicants who have had experience working with others writing code. Development is a team effort here at Jellyvision and we definitely want to know that you can roll with that and do well in a collaborative environment.
+    </p>
+<b>
+     NICE TO HAVES...
+    </b>
+<p>
+     We use Scrum to develop our products. If you have experience with Scrum, that’s one less thing we have to teach you (but we’re more than happy to teach it to you, so don’t worry if you haven’t gotten to it).
+    </p>
+<p>
+     Anyone who’s done a modicum of Web development will have written CSS. If you’ve also used Less or Sass, that’s a bonus, but not critical.
+    </p>
+<p>
+     We use both SQL and NoSQL databases at Jellyvision. While it’ll be a rare day that you’re crafting raw database queries, experience with systems like MySQL or CouchDB will definitely be helpful.
+    </p>
+<p>
+     We’re really trying to get there with Test Driven Development (or, at least, variants of TDD). To be honest, if you have experience in that, you might be bringing something to teach us. That would be awesome!
+    </p>
+<b>
+     WHAT ABOUT THOSE NOT-TECHNICAL, BUT EQUALLY IMPORTANT SKILLS?
+    </b>
+<p>
+     We’re looking for folks with:
+    </p>
+<ul>
+<li>
+      A passion for learning and experimenting with new technologies
+     </li>
+<li>
+      Experience working in a team-based environment
+     </li>
+<li>
+      Great communication skills
+     </li>
+<li>
+      A good eye (this isn't an art or design position, but it never hurts)
+     </li>
+<li>
+      And, last but not least, a sense of humor. It just makes you more fun to work with.
+     </li>
+</ul>
+<b>
+     PHEW. THAT WAS A LOT. ANYTHING ELSE?
+    </b>
+<p>
+<b>
+      Yes.
+     </b>
+     We share a commitment to excellence and a desire to work in a comfortable, friendly atmosphere, so we only hire nice, bright, funny people who are willing to work hard.  Our credo is a simple one: be helpful. And we think we can be most helpful if our workforce is as diverse in thought, perspective, and culture as the people who use our products. We are looking to add amazing folks to our team who will bring diversity across many lines, including race, ethnicity, religion, sexual orientation, age, marital status, disability, gender identity, sex, and country of origin.
+    </p>
+<b>
+     ARE THERE ANY PERKS?
+    </b>
+<p>
+     Yes, we love perks.
+    </p>
+<ul>
+<li>
+      Competitive pay, stock options and benefits.  401(k) with matching.  And we pay 100% of the cost of premiums for medical, dental, vision, disability and life insurance for our employees (as long as you qualify for our tobacco-free discount; if you’re a tobacco user, your medical premiums will be higher than $0). We also cover a really nice chunk of the cost of premiums for spouse/partner/dependent medical, dental and vision insurance.
+     </li>
+<li>
+      Casual dress and a flexible schedule.  Come in a sweatshirt, jeans, whatever, like everyone else here.
+     </li>
+<li>
+      Creative work environment. We are lucky to work in a place that is full of intelligent, talented and innovative folks. Although most hours the place is deathly quiet (we're a focused bunch), this is punctuated with hilarious outbursts and general merriment, which makes a nice way to spend the day.
+     </li>
+<li>
+      Easy transportation. We’re really close to the "L" and the Halsted (#8) bus (right by the new Apple Store and Mega Whole Foods if that’s your kind of thing), and we have a transit FSA that allows you to dedicate pre-tax dollars to public transportation expenses.  Since a number of our employees like to bike to work, we also have showers and lockers in the office.
+     </li>
+<li>
+      Did we mention our yoga class?  We bring a pro instructor right to the office. Fully subsidized by Jellyvision and fully optional, btw.
+     </li>
+<li>
+      Oh! And you should know that we have a massage chair. And not just any massage chair, my friend.  It’s the HumanTouch HT 5320 WholeBody™ Massage Chair. Feeling a little stiff? Sit down. Relax. Feel better? Good. Okay, back to work.
+     </li>
+<li>
+      Free food. Every week, we stock our kitchen with free healthy snack foods, and we have a “hot lunch” catered once a week to give people a reason to hang out and eat together.
+     </li>
+</ul>
+<b>
+     INTERESTED? GREAT! HERE’S HOW TO APPLY:
+    </b>
+<p>
+     We need:
+    </p>
+<ul>
+<li>
+      Your resume.
+     </li>
+<li>
+      A cover letter that highlights 3 reasons you think you’d be great for the gig.  Writing is key to all that we do, and we weigh cover letters heavily.  We’d love it if your cover letter could show us how you think about coding.
+     </li>
+</ul>
+<p>
+     You should receive an auto-reply confirming that we’ve received your application.    NO PHONE CALLS OR FOLLOW-UP EMAILS, PLEASE.
+    </p>
+<p>
+     If you do decide to apply, please know that every complete application will be carefully reviewed.  Seriously!  We know it is a time commitment to prepare an application.  We will respect that effort by thoughtfully reviewing every single complete application and responding one way or the other, and we are truly grateful for your interest.
+    </p>
+</div>
+</span>
+
+#title
+product-engineer

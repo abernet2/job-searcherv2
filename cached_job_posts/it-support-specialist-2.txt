@@ -1,0 +1,77 @@
+
+
+#position
+IT Support Specialist
+
+#company
+Braintree
+
+#post
+<span class="nj-job-body">
+   Braintree builds products that make payments easier—so easy that they fade into the background, making entirely new kinds of interactions possible. Interactions like seamlessly paying for your ride share -- or the condo you rented this weekend -- without presenting a card or pressing a button, or buying a lamp on Pinterest...right
+   <em>
+    from
+   </em>
+   Pinterest. The Braintree full-stack payment platform lets companies build their own experiences and then scale their businesses around the globe. We're known for our technology but we're also known for our support, with internal risk and underwriting, account management and technical support teams who ensure a frictionless payments experience.
+   <p>
+    Acquired by PayPal in 2013, Braintree is now in an even greater position to change the way people pay. Headquartered in Chicago, Braintree has offices in San Francisco, New York, Sydney, London with employees stationed around the world.
+   </p>
+<p>
+    Braintree is growing the team and looking for an IT Support Specialist to support the office technology infrastructure that enables Braintree to operate smoothly.
+   </p>
+<p>
+    Primary responsibilities for this job include:
+   </p>
+<ul>
+<li>
+     Support OS X and Windows users (e.g. software installs and VPN troubleshooting)
+    </li>
+<li>
+     Provision, manage, and repair of employee's laptops
+    </li>
+<li>
+     Enforce best practices of office IT security
+    </li>
+<li>
+     Provision and support of VOIP telephony and telepresence equipment
+    </li>
+<li>
+     Support wired and wireless networks
+    </li>
+<li>
+     Create documentation for frequently asked questions
+    </li>
+<li>
+     Asset management and procurement
+    </li>
+</ul>
+<p>
+<br/>
+    Bonus Points:
+   </p>
+<ul>
+<li>
+     Proficient at the command line
+    </li>
+<li>
+     Passion for open source software
+    </li>
+<li>
+     Familiarity with the tenets of Unix philosophy
+    </li>
+<li>
+     Knowledge of identity management / authentication systems (LDAP/Radius)
+    </li>
+</ul>
+<p>
+<br/>
+    We’re looking for someone who can maintain our office infrastructure to keep everyone happy and productive.
+    <br/>
+<br/>
+<br/>
+    Think you’ve got something to contribute to our exceptional team? We’d like to hear from you!
+   </p>
+</span>
+
+#title
+it-support-specialist-2

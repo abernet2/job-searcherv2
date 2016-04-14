@@ -1,0 +1,160 @@
+
+
+#position
+Voice Software Development Manager
+
+#company
+Vail Systems
+
+#post
+<span class="nj-job-body">
+<div>
+<div>
+     Vail Systems
+    </div>
+<div>
+     570 Lake Cook Road
+    </div>
+<div>
+     Deerfield, Illinois 60015
+    </div>
+<div>
+     800.360.8245
+    </div>
+<div>
+<a href="http://www.vailsys.com">
+      www.vailsys.com
+     </a>
+</div>
+<div>
+<br/>
+</div>
+<b>
+<div style="text-align:center">
+<b>
+       Voice Software Development Manager
+      </b>
+</div>
+</b>
+</div>
+<div>
+<b>
+<br/>
+</b>
+</div>
+<div>
+<b>
+     Vail Systems, Inc. Company Profile
+    </b>
+</div>
+<div>
+    The human voice is capable of conveying nuances and meaning that just can’t be expressed through clicks and text messages. And for that reason voice-interactions have always had a special power to shape your perception and experiences. At Vail, we believe in the unique power of voice interactions to create more expressive, more intimate, and more efficient interpersonal interactions. Our experts work with Fortune 500 companies to help them serve their customers more efficiently and effectively through the use of various voice technologies. From basic network services, to state of the art IP telephony, to cutting edge real-time analytics, Vail technology makes millions of voice interactions better every day.
+   </div>
+<div>
+<br/>
+<b>
+     What we are looking for
+    </b>
+</div>
+<div>
+    We believe that all voice interactions have a special power to create great customer experiences even when those interactions are with automated systems. Automated voice experiences should be intuitive and efficient while maintaining a personal feel. Vail Voice Application developers practice this belief everyday when they create compelling user experiences through intelligent voice browser applications. Creating these kinds of experiences is both an art and a science and requires people with intuition, creativity and ability to imagine many different user perspectives. We’d like to add a certain kind of person to our team, a person that:
+    <ul>
+<li>
+      Has the ability to pick up new concepts quickly
+     </li>
+<li>
+      Can keep an open mind to new ideas
+     </li>
+<li>
+      Has excellent interpersonal communication skills
+     </li>
+<li>
+      Doesn’t mind using those skills to share the best ideas
+     </li>
+<li>
+      Has the ability to work independently in a fast paced environment
+     </li>
+<li>
+      Isn’t afraid of ambiguity and can problem solve with little direction
+     </li>
+<li>
+      Really wants to learn new things
+     </li>
+</ul>
+<b>
+     What you can expect to be doing
+    </b>
+</div>
+<div>
+    You will lead your team of software developers to build and deliver high quality voice applications. You will be responsible for growing the teams’ existing skillset and helping individuals with their career growth. Also, you will be responsible for ensuring effective collaboration with the teams that software developers interact with such as customers, project managers, designers and operations. At any time, there will be multiple customer efforts in flight at different stages in their development lifecycle and you will be asked to contribute, at varying levels, to any of the activities from pre sales activities to production support. On a daily basis these are the most important responsibilities you will be fulfilling:
+    <ul>
+<li>
+      Lead and mentor new and experienced software engineers
+     </li>
+<li>
+      Motivate your team to continuously improve their craft
+     </li>
+<li>
+      Communicate with internal business stakeholders
+     </li>
+<li>
+      Communicate with external customers
+     </li>
+<li>
+      Assist in project planning by providing solutions and estimates
+     </li>
+<li>
+      Work with a wide range of technologies that integrate solutions with customers
+     </li>
+<li>
+      Transition solutions to the internal platform team
+     </li>
+</ul>
+<b>
+     What we need to see from you
+    </b>
+</div>
+<div>
+    To be considered for this position you must have:
+    <ul>
+<li>
+      5 -10 years of proven success in a software development role
+     </li>
+<li>
+      Strong leadership skills
+     </li>
+<li>
+      The ability to communicate with developers and business persons
+     </li>
+<li>
+      Prior professional experience with Java, .NET, Ruby or other OO languages
+     </li>
+<li>
+      An ability to solve complex problems in a short amount of time
+     </li>
+<li>
+      A Computer Science / Engineering degree or equivalent experience
+     </li>
+</ul>
+<p>
+     Ideally you will also be able to demonstrate
+    </p>
+<ul>
+<li>
+      Experience using MVC frameworks
+     </li>
+<li>
+      An understanding of multiple SDLC practices
+     </li>
+<li>
+      Experience with automated testing
+     </li>
+<li>
+      Familiarity with UNIX/Linux/OSX
+     </li>
+</ul>
+</div>
+</span>
+
+#title
+voice-software-development-manager

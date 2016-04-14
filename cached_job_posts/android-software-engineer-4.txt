@@ -1,0 +1,99 @@
+
+
+#position
+Android Software Engineer
+
+#company
+ParkWhiz
+
+#post
+<span class="nj-job-body">
+   ParkWhiz is looking for an experienced Android software engineer with a product management bent to lead Android development. You will have a tremendous amount of influence over the direction of our mobile products and user experience.
+   <p>
+    Here are some examples of the types of things you will do at ParkWhiz:
+   </p>
+<ul>
+<li>
+     Take our lofty goals for the perfect parking app of the future and break them up into intermediate, actionable projects
+    </li>
+<li>
+     Be the resident Android expert and champion. Make us aware of the ecosystem, trends, upcoming paradigm shifts, new tech, etc. We have a great history of adhering to best practices on the platform, and being featured by Google in a variety of contexts, so help us maintain and improve this
+    </li>
+<li>
+     Experiment with new hardware: in-dash systems, BLE beacons, parking access control equipment, etc, and keep us at the cutting edge
+    </li>
+<li>
+     Assess the complexity, feasibility, and impact of integrations with potential partners and vendors.
+    </li>
+<li>
+     Prototype new ideas and validate them with users
+    </li>
+<li>
+     Continually assess analytics results (and add new analytics when needed) to identify UX issues, A/B test UI changes, and generally iterate our way to a better user experience
+    </li>
+<li>
+     If you have the inclination and desire, you may jump in and build out some of the new APIs you need onto our PHP, Ruby, or Go backends
+    </li>
+<li>
+     And of course, write loads of Android software
+    </li>
+</ul>
+<p>
+    If you have any questions please feel free to email
+    <a href="mailto:mark@parkwhiz.com">
+     mark@parkwhiz.com
+    </a>
+    to learn if this position is the right fit for you.
+   </p>
+<b>
+    Benefits
+   </b>
+<p>
+    ParkWhiz offers
+   </p>
+<ul>
+<li>
+     Competitive salaries
+    </li>
+<li>
+     Medical, dental, and life insurance
+    </li>
+<li>
+     Flexible schedules
+    </li>
+<li>
+     Paid holidays and generous vacation
+    </li>
+<li>
+     Workstation of your choice
+    </li>
+<li>
+     Casual office with stocked kitchen and ping pong
+    </li>
+<li>
+     You'll be working alongside a team of phenomenal people
+    </li>
+</ul>
+<b>
+    About ParkWhiz
+   </b>
+<p>
+    Founded in 2006, Chicago based ParkWhiz.com pioneered the eParking marketplace and has since become the industry standard and market share leading platform for event and downtown parking bookings across the country. ParkWhiz has extraordinarily strong revenue growth and ongoing product innovations that continue to change the way people think about parking.
+   </p>
+<p>
+    ParkWhiz.com attracts highly-competitive over-achievers who thrive in a dynamic environment. Employees enjoy the rewards and challenges associated with a constantly evolving market leading technology company. If you embrace challenge, work well in a team setting, and are driven to grow and excel in your career, we'd like to hear from you.
+   </p>
+<b>
+    Apply
+   </b>
+<p>
+    To apply for this position email your resume to
+    <a href="mailto:jobs@parkwhiz.com">
+     jobs@parkwhiz.com
+    </a>
+    and tell us why you'd be perfect for the job. GitHub, StackOverflow, code samples, and open-source projects are welcome too. Please include "Android Engineer" in the email subject line.
+   </p>
+</span>
+
+#title
+android-software-engineer-4

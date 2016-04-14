@@ -1,0 +1,104 @@
+
+
+#position
+QA Engineer
+
+#company
+Vivid Seats
+
+#post
+<span class="nj-job-body">
+<b>
+    Description
+   </b>
+<p>
+</p>
+<p>
+<strong>
+     Who we are:
+    </strong>
+    Vivid Seats is the fastest-growing online marketplace for sports and concert tickets.  We were recently listed as one of the city’s fastest growing internet companies and coolest offices by Crain’s Chicago Business and named one of the city’s top digital employers by BuiltInChicago.org! We offer the perks, culture, and opportunity of an entrepreneurial start-up, supported by the scale, stability, and resources of over a decade of profitable growth.  Our mission is to help fans attend all their favorite live events with the highest satisfaction and savings in the industry.
+   </p>
+<p>
+<strong>
+     Responsibilities
+    </strong>
+    :
+   </p>
+<ul>
+<li>
+     Passion for constant improvement in quality of product and uncovering hard to find scenarios and bugs. Attention for detail and knack at finding edge cases
+    </li>
+<li>
+     Continually adds Business Value to Agile Teams through Proactive Participation in all the phases of Agile development - Envision, Design and Definition meetings
+    </li>
+<li>
+     Collaborate with development and product owners to drive continuous improvement and quality of the Vivid Seats' products
+    </li>
+<li>
+     Pair with team members to identify and mitigate software risk through exploratory testing
+    </li>
+<li>
+     Develop test plans, cases and steps from user stories and acceptance criteria
+    </li>
+<li>
+     Execute tests, record bugs, and assist the development team in driving resolution
+    </li>
+</ul>
+<p>
+<strong>
+     Desired Skills and Experience:
+    </strong>
+</p>
+<ul>
+<li>
+     Bachelor’s degree or relevant experience required
+    </li>
+<li>
+     4-5 years of Quality Assurance experience
+    </li>
+<li>
+     Demonstrated knowledge of agile software engineering design principles, QA testing tools, processes and best practices
+    </li>
+<li>
+     Excellent knowledge of QA automation methodologies, processes, and tools
+    </li>
+<li>
+     Exposure to Build, execute, and debug automated functional tests especially using selenium
+    </li>
+<li>
+     Previous experience with Agile, TDD and BDD
+    </li>
+<li>
+     Must be able to take creative approaches to solving challenging problems
+    </li>
+<li>
+     Must work well in a results-oriented environment as well as independently
+    </li>
+<li>
+     Demonstrated ability to interact in a team environment
+    </li>
+<li>
+     Excellent project management skills with proven ability to multi-task
+    </li>
+<li>
+     Must be able to learn new technologies with enthusiasm and a high degree of efficiency
+    </li>
+</ul>
+<p>
+<strong>
+     What We Offer:
+    </strong>
+    Vivid Seats offers competitive compensation levels, substantial individual and team-based bonus opportunities, aggressive promotion timelines, and a variety of workplace perks.  Specifically, staff has access to discounted event tickets, frequent in-office catered meals, monthly happy hours, team outings, discounted gym memberships, subsidized healthy meal and snack programs, and summer sports leagues.  Standard benefits are also offered such as medical/dental/vision/life insurance, 401(k), paid time off, and transit plan discounts.​
+   </p>
+<p>
+    Vivid Seats is an equal opportunity employer.  Vivid Seats prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, sex, national origin, age, disability or genetic information.
+   </p>
+<p>
+</p>
+<p>
+</p>
+</span>
+
+#title
+qa-engineer-31

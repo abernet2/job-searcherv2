@@ -1,0 +1,113 @@
+
+
+#position
+Systems Engineer
+
+#company
+bswift
+
+#post
+<span class="nj-job-body">
+<p>
+    Located in downtown Chicago, bswift offers software and services that streamline benefits, HR and payroll administration for employers and public and private exchanges nationwide. bswifts state-of-the-art cloud-based technology and outsourcing solutions significantly reduce administrative costs and time-consuming paperwork, making life easier for administrators and millions of consumers who enroll in benefits with bswift. bswift is an Aetna Portfolio Company.
+   </p>
+<div>
+<div>
+     POSITION SUMMARY
+     <br/>
+<br/>
+<div>
+      Become an active member of a Systems Engineering team that loves to automate, secure, and learn about any technology it can get its hands on!
+      <br/>
+<br/>
+</div>
+<div>
+      Develop automation, mostly in PowerShell, for the deployment and configuration of Windows Server systems.
+     </div>
+<div>
+<br/>
+      Fundamental Components:
+      <br/>
+<ul>
+<li>
+        Prototype the rapid deployment of Windows cloud architecture (PowerShell Desired State Configuration, PowerCLI, IIS Web Farms, Microsoft SQL 2014, VMWare ESX 5.5, F5 Big IP)
+       </li>
+<li>
+        Monitor and Tweak VMWare ESX 5.5 in a rapidly growing extreme performance cluster (48 Core Servers, All Flash Disk Arrays, 10Gig Switching, NUMA node alignment and debugging)
+       </li>
+<li>
+        Debug application performance issues using best in class Application Performance Management tools (AppDynamics, Idera, Netflow)
+       </li>
+<li>
+        Assist in data center migrations, architecture planning, and server configurations
+       </li>
+<li>
+        Get trained on and implement:
+       </li>
+<li>
+<ul>
+<li>
+          Exciting defense in depth best practices to harden our environments (CrowdStrike, F5 ASM, Splunk, Netflow, etc.)
+         </li>
+</ul>
+<ul>
+<li>
+          Static and/or Dynamic Application Security testing
+         </li>
+</ul>
+</li>
+<li>
+        Automate the execution of application deployments across all environments with other Systems Engineers (msbuild, Jenkins)
+       </li>
+<li>
+        Collaborate with developers, quality assurance, database administrators, and product management to streamline the application deployment process
+       </li>
+<li>
+        Assist in implementing best practices for change control, problem, incident, and release management (ITIL)
+       </li>
+<li>
+        Participate in a 24/7 on call rotation with other team members for urgent incident response (PagerDuty)
+       </li>
+<li>
+        Migrate and Harden existing server 2008 infrastructure to server 2012 (File shares, FTP servers, Active Directory)
+       </li>
+<li>
+        Establish and document best practice run books for our environments
+       </li>
+</ul>
+<br/>
+<br/>
+      BACKGROUND/EXPERIENCE desired:
+      <br/>
+<ul>
+<li>
+        2+ years of authoring custom PowerShell cmdlets and modules, PowerShell best practices, and PowerShell Desired State Configuration (DSC).
+       </li>
+<li>
+        2+ years of experience automating cloud technology (VMWare, Hyper-V, Azure, AWS, OpenStack, or equivalent)
+       </li>
+<li>
+        5+ Managing hardware/software in a Windows Server Environment
+       </li>
+<li>
+        5+ Years experience with VMware ESX Server
+       </li>
+</ul>
+<br/>
+<br/>
+      EDUCATION
+      <br/>
+<ul>
+<li>
+        The highest level of education desired for candidates in this position is a Bachelor's degree or equivalent experience.
+       </li>
+</ul>
+</div>
+</div>
+</div>
+<p>
+</p>
+</span>
+
+#title
+systems-engineer-5

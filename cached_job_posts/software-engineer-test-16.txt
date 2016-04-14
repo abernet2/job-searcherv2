@@ -1,0 +1,123 @@
+
+
+#position
+Software Engineer in Test
+
+#company
+Dose
+
+#post
+<span class="nj-job-body">
+<p>
+    Dose, the Chicago-based company behind Dose.com and OMGFacts.com, is one of the fastest growing media companies in the world with 50 million monthly visitors. Our predictive technology detects “stories worth sharing”. Dose’s editors cover the best stories, which our publishing platform shares with the right audience.
+   </p>
+<p>
+    We’re looking for a QA Engineer to join our talented tech team.
+   </p>
+<p>
+    Are you self-starter that has a proven ability to implement, and communicate QA processes to ensure product quality and consistency?
+   </p>
+<p>
+    Are you a self starter with great attention to detail and follow-through?
+   </p>
+<p>
+    Do you like writing code and finding bugs?
+   </p>
+<p>
+<strong>
+     You will…
+    </strong>
+</p>
+<ul>
+<li>
+     Work in an agile software development environment with our engineering team
+    </li>
+<li>
+     Define, implement and improve QA methodologies and test strategies
+    </li>
+<li>
+     Extend automation infrastructure for server setups, configuration &amp; deployments
+    </li>
+<li>
+     Define, develop, and implement continuous integration &amp; testing for software development
+    </li>
+<li>
+     Work with the developers to design, architect &amp; implement a robust automated testing &amp; deployment infrastructure
+    </li>
+</ul>
+<p>
+<strong>
+     Must have skills:
+    </strong>
+</p>
+<ul>
+<li>
+     Ability to test both native mobile applications as well as web applications
+    </li>
+<li>
+     Experience with continuous integration environments (i.e. Jenkins) a plus
+    </li>
+<li>
+     Ability to identify candidates for automation in QA testing process, recommend direction for automation &amp; implement them
+    </li>
+<li>
+     MySQL or other RDBMS Experience
+    </li>
+<li>
+     Ruby and Object Oriented Experience - Rails experience a plus
+    </li>
+<li>
+     Selenium/UI automation experience a plus
+    </li>
+<li>
+     Ability to work on QA across multiple software applications simultaneously
+    </li>
+<li>
+     Ability to research, recommend &amp; implement new QA tools
+    </li>
+</ul>
+<p>
+</p>
+<p>
+<strong>
+     Why work at Dose?
+    </strong>
+</p>
+<ul>
+<li>
+     Well funded, fast growing start-up looking to hire only the best and brightest
+    </li>
+<li>
+     Competitive medical, dental, and vision benefits
+    </li>
+<li>
+     Napping couches
+    </li>
+<li>
+     Unlimited in-office snacks and drinks
+    </li>
+<li>
+     Four weeks paid vacation
+    </li>
+<li>
+     Great River North location
+    </li>
+<li>
+     Commitment to continuous learning
+    </li>
+<li>
+     Daily ping-pong
+    </li>
+<li>
+     Shiny new Macbook Air or Pro
+    </li>
+<li>
+     Work with other smart people
+    </li>
+</ul>
+<p>
+</p>
+</span>
+
+#title
+software-engineer-test-16

@@ -1,0 +1,126 @@
+
+
+#position
+Senior .NET MVC Developer   Information Technology
+
+#company
+SMS Assist
+
+#post
+<span class="nj-job-body">
+   We are looking for a senior developer with .NET MVC experience. The ideal candidate will be a self-starter, one with the capability to learn new rules and business procedures quickly and on the fly, and a strong sense of responsibility about his/her position. You must be able to work full time and on site at our offices in Chicago, IL.
+   <strong>
+    H-1B sponsorship is available
+   </strong>
+   .
+   <p>
+<br/>
+<strong>
+     Core Responsibilities
+    </strong>
+</p>
+<ul>
+<li>
+     Development, testing and implementation of .NET based application
+    </li>
+<li>
+     Exceptional coding and design skills, proficiency in ASP.NET MVC with C#.
+    </li>
+<li>
+     Experienced with web technologies. Knowledge of IoC, TypeScript, KnockOut, Bootstrap is a plus.
+    </li>
+<li>
+     Knowledge of relational database (MS SQL or MySql).
+    </li>
+<li>
+     Provide a solid contribution to a small team of developers responsible for the design, development and implementation of critical business solutions.
+    </li>
+</ul>
+<p>
+<strong>
+     Requirements
+    </strong>
+</p>
+<ul>
+<li>
+     5+ years’ experience in and passion for developing great software
+    </li>
+<li>
+     Must have good hands on experience in any of the technologies like
+     <strong>
+      .NET
+     </strong>
+     , ASP.net (
+     <strong>
+      MVC
+     </strong>
+     ), C#
+    </li>
+<li>
+     Must be proficient in MS SQL or MySQL
+    </li>
+<li>
+     Able to work quickly and efficiently with a strong focus on achieving tasks.
+    </li>
+<li>
+     Proficient in soft skills
+    </li>
+<li>
+     Excellent command of English language is a must
+    </li>
+</ul>
+<p>
+<strong>
+     Key Competencies
+    </strong>
+</p>
+<ul>
+<li>
+     High integrity
+    </li>
+<li>
+     Sense of urgency
+    </li>
+<li>
+     Strong work ethic
+    </li>
+<li>
+     Ability to multi-task
+    </li>
+<li>
+     Flexible and adaptable
+    </li>
+<li>
+     Enthusiastic and passionate
+    </li>
+<li>
+     Detail oriented
+    </li>
+<li>
+     Strong written and oral communication skills
+    </li>
+<li>
+     Team player
+    </li>
+</ul>
+<p>
+<strong>
+<strong>
+      Education
+     </strong>
+</strong>
+</p>
+<ul>
+<li>
+     Undergraduate degree in Information Technology / Information System / Computer Science
+    </li>
+</ul>
+<p>
+</p>
+<p>
+    SMS Assist is an Equal Opportunity Employer (EOE)
+   </p>
+</span>
+
+#title
+senior-net-mvc-developer-information-technology-2

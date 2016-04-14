@@ -1,0 +1,128 @@
+
+
+#position
+Software Engineer
+
+#company
+Uptake
+
+#post
+<span class="nj-job-body">
+<strong>
+    What We Do:
+   </strong>
+<div>
+<div>
+<div>
+<p>
+       Uptake harnesses the power of underutilized data to empower businesses to make informed decisions. We partner with industry leaders to build a predictive analytics software that grows smarter in one industry because of what we learn in another. The result is a powerful platform that identifies problems before they happen, ultimately saving money, time and lives.
+      </p>
+<p>
+<strong>
+<strong>
+</strong>
+</strong>
+       Our team drives this success by connecting customers and partners to the value of the Internet of Things, business-centric architectures and key technology transitions.
+      </p>
+</div>
+</div>
+</div>
+<div>
+<strong>
+     What You'll Do:
+    </strong>
+</div>
+<div>
+<div>
+<div>
+<p>
+       As a Software Engineer, you’d expose and develop Spring services alongside a team of developers and engineers. You’d create the groundwork designs for the digital artists to create interactive data visualizations and dashboards for our platform.
+      </p>
+<p>
+<strong>
+        Responsibilities:
+       </strong>
+</p>
+<ul>
+<li>
+        Develop Spring services using JVM languages: Java and/or Groovy
+       </li>
+<li>
+        Design and expose Spring services as REST API’s using Spring Security and Spring MVC
+       </li>
+<li>
+        Collaborate across teams to create functional software that can be communicated to digital designers
+       </li>
+</ul>
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<strong>
+     Qualifications:
+    </strong>
+</div>
+<div>
+<div>
+<div>
+<ul>
+<li>
+        1-5+ years of programming experience
+       </li>
+<li>
+        Bachelor's degree in Computer Science or related field
+       </li>
+<li>
+        Fluent in object-oriented programming and/or  Java (preferred)
+       </li>
+<li>
+        Understanding of structure and usage of REST API’s
+       </li>
+<li>
+        Experience Service-oriented Architecture (SOA) and Event-driven Architecture (EDA)
+       </li>
+<li>
+        Experience with noSQL solutions: Cassandra, HDFS and Elasticsearch (preferred)
+       </li>
+<li>
+        Familiarity with Akka, stream processing technologies and concurrency frameworks
+       </li>
+<li>
+        Excellent communication skills and ability to work using Agile methodologies
+       </li>
+<li>
+        Ability to work quickly and collaboratively in a fast-paced,  entrepreneurial environment
+       </li>
+<li>
+        Familiarity with software development tools: Java, Python and R
+       </li>
+<li>
+        Understanding of SQL, noSQL database technologies and data transfer technologies
+        <strong>
+<strong>
+</strong>
+</strong>
+</li>
+</ul>
+<p>
+<strong>
+        Please provide:
+       </strong>
+</p>
+<ul>
+<li>
+        Resume
+       </li>
+<li>
+        Cover letter
+       </li>
+</ul>
+</div>
+</div>
+</div>
+</span>
+
+#title
+software-engineer-157

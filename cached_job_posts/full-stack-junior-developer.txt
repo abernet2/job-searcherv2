@@ -1,0 +1,59 @@
+
+
+#position
+Full Stack, Junior Developer
+
+#company
+dough
+
+#post
+<span class="nj-job-body">
+<div>
+    dough is an alternative financial startup, redefining the world of investing and trading through our network, tastytrade.com, and our investing and trading platform, dough.com.  Our team has an unparalleled track record in the financial industry.
+   </div>
+<div>
+</div>
+<div>
+<strong>
+     What makes us different?
+    </strong>
+</div>
+<div>
+    Financial firm with cool technology, design, product. Relaxed atmosphere, Agile, Reasonable Workload, Engineering-focused, Polyglot, Full-stack development philosophy.
+   </div>
+<div>
+</div>
+<div>
+<strong>
+     Technologies we use:
+    </strong>
+</div>
+<div>
+    Ruby, Ruby on Rails, JS, Coffeescript, ECMA 6, HTML5, EmberJS/Ember-CLI, Objective-C iOS, Android/Java, Java, Unix/Linux, Git, PostgreSQL, MongoDB, Apollo MQ, BrightScript, Amazon AWS.
+   </div>
+<div>
+</div>
+<div>
+<strong>
+     Requirements:
+    </strong>
+</div>
+<div>
+    Smart, Experienced, Pragmatic, Works well in small teams as well as alone, Good Troubleshooter, Good Architectural skills.
+   </div>
+<div>
+</div>
+<div>
+<strong>
+     Preferred:
+    </strong>
+</div>
+<div>
+    Degree in Computer Science, 2-years experience
+   </div>
+<div>
+</div>
+</span>
+
+#title
+full-stack-junior-developer

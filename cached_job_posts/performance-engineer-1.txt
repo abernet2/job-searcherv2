@@ -1,0 +1,125 @@
+
+
+#position
+Performance Engineer
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<b>
+<u>
+     Overview:
+    </u>
+</b>
+<div>
+<p>
+     kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+    </p>
+<p>
+     The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves, give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+    </p>
+<p>
+     As a
+     <strong>
+      Performance Engineer
+     </strong>
+     , you will identify and communicate expectations to customers for the baseline performance of kCura’s core products. You will also act as a subject matter expert with regard to scalability, performance, load, and reliability of kCura’s core products. The
+     <strong>
+      Performance Engineer
+     </strong>
+     works under steady direction of managers and senior team members.
+    </p>
+<b>
+<u>
+      Responsibilities:
+     </u>
+</b>
+<div>
+<ul>
+<li>
+       Assist with implementing scalability and performance requirements by exploring the bounds of kCura’s core products
+      </li>
+<li>
+       Keep up with industry trends and innovations and integrate best practices in processes, tools, and deliverables
+      </li>
+<li>
+       Assist with executing baseline performance and load tests in order to diagnose and optimize code, verify inconsistencies, ambiguities, and defects, and identify risk areas in new and existing projects
+      </li>
+<li>
+       Assist with creating automated scripts to simulate multi-user, multi-tiered systems running in different environments under various configurations
+      </li>
+<li>
+       Assist with design, execution, and documentation of backend tests for software installations, deployments, licensing, recovery, and upgrades
+      </li>
+<li>
+       Analyze performance results and recommend optimizations to hardware/software configurations, database design, and environment setup
+      </li>
+<li>
+       Provide testing assistance to the development teams for the creation and execution of new performance and load tests for newly developed functionality
+      </li>
+<li>
+       Gain knowledge from Client Services on client infrastructure setup and performance bottlenecks that help drive the way kCura performance tests, debugs and optimizes their core products
+      </li>
+<li>
+       Support Client Services by offering expertise to customers on domain specific setup and tuning of kCura’s products in their environment
+      </li>
+</ul>
+<b>
+<u>
+       Qualifications:
+      </u>
+</b>
+<div>
+<ul>
+<li>
+        BA/BS/Equivalent Degree in Database Administration, Systems Administration, Information Systems, Computer Science, or related discipline, or at least one year supporting and maintaining Software QA or Development environments that host commercial-grade systems and applications
+       </li>
+<li>
+        At least one year designing, implementing, and executing performance and load tests for commercial grade systems and applications
+       </li>
+<li>
+        Knowledge of Systems Administration and Database Administration
+       </li>
+<li>
+        Software Development Skills - Loadrunner scripting a plus
+       </li>
+<li>
+        Hand-on technical knowledge of Windows O/S and SQL Server
+       </li>
+<li>
+        Problem solving skills, independent thinking
+       </li>
+<li>
+        Teamwork and partnering skills for cross-group collaboration
+       </li>
+<li>
+        Interpersonal, verbal and written communications skills for technical and non-technical audiences
+       </li>
+<li>
+        Experience troubleshooting hardware and software
+       </li>
+</ul>
+<b>
+<u>
+        About Us:
+       </u>
+</b>
+<div>
+<p>
+        Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+       </p>
+<p>
+<strong>
+         If you’re ready to grow with us, we’d love to hear from you.
+        </strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+performance-engineer-1

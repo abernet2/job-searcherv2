@@ -1,0 +1,117 @@
+
+
+#position
+Technical Business Analyst   kCD
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<b>
+<u>
+     Overview:
+    </u>
+</b>
+<div>
+<p>
+     kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+    </p>
+<p>
+     The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves,give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+    </p>
+<p>
+     As a member of kCura’s Custom Development group, you will work with customers and internal teams to deliver solutions that help fill the gaps in Relativity functionality and the desired workflow. You will be required to have a full technical understanding of the Relativity Platform. You will gather detailed business requirements, understand the request and provide wireframe or prototyped solutions for confirmation of requirements. You will work closely with the developers to ensure they have a complete understanding of the requirements for the solutions and deliver within the time estimated. Once the solution has been delivered, you will be responsible for standard kCura Level 1 type support. You may be required to handle technical support calls after hours about seven times a year.
+    </p>
+<b>
+<u>
+      Responsibilities:
+     </u>
+</b>
+<div>
+<ul>
+<li>
+       On a daily basis, responds to client questions, problems, and work requests.
+      </li>
+<li>
+       Provides excellent customer service using the communication methods designated by kCura.
+      </li>
+<li>
+       Communicates clearly and professionally, with both colleagues and clients, in written and verbal forms.
+      </li>
+<li>
+       Understands the functionality of our platform tools, including our API’s, extensibility points, and the Relativity infrastructure.
+      </li>
+<li>
+       Provide input on user stories and acceptance criteria as needed.
+      </li>
+<li>
+       Balances strong judgment, intuition, research findings, customer feedback, stakeholder input, and time constraints to ensure we are building the correct solution.
+      </li>
+<li>
+       Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code.
+      </li>
+<li>
+       Estimates and installs solutions by determining and designing system specifications, standards, and programming.
+      </li>
+<li>
+       Uses SQL applications and tools to run SQL queries.
+      </li>
+</ul>
+<b>
+<u>
+       Qualifications:
+      </u>
+</b>
+<div>
+<ul>
+<li>
+        BS or BA in computer science, engineering, business IT, or comparable work experience preferred
+       </li>
+<li>
+        Ability to work with non-technical clients in a consultative capacity to quickly learn new concepts and provide software solutions using effective verbal and written communication skills including presentation skills.
+       </li>
+<li>
+        Experience in development efforts using iterative Agile (Scrum) methodologies preferable
+       </li>
+<li>
+        Experience working in a technology industry preferred
+       </li>
+<li>
+        Experience in .NET software development using C# and Microsoft SQL Server
+       </li>
+<li>
+        Experience in web development using JavaScript, ASP.NET, AJAX
+       </li>
+<li>
+        Effective communication and teamwork skills
+       </li>
+<li>
+        Understanding of the software development lifecycle; Agile experience a plus
+       </li>
+<li>
+        Detail-oriented, enthusiastic self-starter with the ability to work both independently and in a team environment
+       </li>
+</ul>
+<b>
+<u>
+        About Us:
+       </u>
+</b>
+<div>
+<p>
+        Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+       </p>
+<p>
+<strong>
+         If you’re ready to grow with us, we’d love to hear from you.
+        </strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+technical-business-analyst-kcd

@@ -1,0 +1,148 @@
+
+
+#position
+Information Security Engineer
+
+#company
+Sprout Social
+
+#post
+<span class="nj-job-body">
+   The Information Security Engineer will support the security posture of our entire organization including our development and production environments, and internal concerns. As a young, fast-growing company, Sprout Social has designed our security program with a strong focus on providing effective, efficient security controls for our organization, that manage risk appropriately while still allowing the us to remain agile and “scrappy.” The platform is used by 16,000 brands around the world. Companies like Adobe, Pivotal Labs, Google, Marvel, and Evernote rely on our products to create stronger relationships with their customers through social media.
+   <p>
+    This position will require significant hands-on interaction with our developers and our infrastructure team. A successful candidate will need to to communicate with those groups as a peer, demonstrating strong and thoughtful technical communication. In addition, Security Engineers here often interact with management, sales, product, support, and our customers, which requires excellent non-technical communication skills.
+   </p>
+<p>
+    Sprout Social is looking for a motivated and dedicated information security practitioner to expand and evolve our existing security program. If this sounds like you, we look forward to seeing your application.
+   </p>
+<p>
+<strong>
+     Responsibilities
+    </strong>
+</p>
+<ul>
+<li>
+     Continually assess our products and our organization for risks and vulnerabilities.
+    </li>
+<li>
+     Design, implement, and coordinate appropriate controls to ensure that risks stay within acceptable tolerances.
+    </li>
+<li>
+     Detect, assess, investigate, and resolve security incidents.
+    </li>
+<li>
+     Effectively communicate security requirements and operational needs to management and others in the organization.
+    </li>
+<li>
+     Work with development teams to ensure that new features are designed and implemented securely.
+    </li>
+<li>
+     Be a resource for all employees to consult about security and privacy issues.
+    </li>
+<li>
+     Maintain and enhance an existing suite of automated vulnerability scanning tools.
+    </li>
+<li>
+     Investigate and respond appropriately to third-party vulnerability reports.
+    </li>
+<li>
+     Support and enhance the Sprout Social culture, helping to ensure all staff are aware of the part they play in securing the company’s data.
+    </li>
+</ul>
+<p>
+<strong>
+     Desired Skills and Experience
+    </strong>
+</p>
+<p>
+<em>
+     Need to have:
+    </em>
+</p>
+<ul>
+<li>
+     Bachelor’s Degree or equivalent experience, in a technical field
+    </li>
+<li>
+     2+ years of programming experience
+    </li>
+<li>
+     1+ years of information security experience
+    </li>
+<li>
+     Solid grasp of application security issues relevant to web applications
+    </li>
+<li>
+     Strong verbal and written communication, and the ability to tailor your message to audiences across and beyond the organization
+    </li>
+<li>
+     Solid understanding of networking and HTTP
+    </li>
+<li>
+     Proficiency with Linux, Python, and Shell scripting
+    </li>
+<li>
+     Familiarity with AWS or similar Cloud/IAAS providers
+    </li>
+<li>
+     Ability to pick up new concepts and tools quickly
+    </li>
+</ul>
+<p>
+<em>
+     Nice to have:
+    </em>
+</p>
+<ul>
+<li>
+     ISC2 CISSP or similar certification
+    </li>
+<li>
+     Experience with or desire to learn policy and compliance
+    </li>
+</ul>
+<p>
+<strong>
+     About Sprout Social
+    </strong>
+<br/>
+    Sprout Social powers open communication between individuals, brands and communities through elegant, sophisticated software. We are relentless about solving hard problems for our customers and committed to both customer and team success.
+   </p>
+<p>
+    Team Sprout is a group of very talented, smart and passionate people with broad interests and backgrounds. We’re proud to regularly be recognized for software, product and company culture achievements. Our team’s shared belief in Sprout’s mission promotes a culture of openness, empowerment and fun. We have built a benefits program to match the strength of our team. This program includes:
+   </p>
+<ul>
+<li>
+     Insurance and benefit options that are built for both individuals and families, including generous company contributions
+    </li>
+<li>
+     Progressive benefit programs, like our parental leave program and free Divvy bike memberships
+    </li>
+<li>
+     High-quality and well-maintained equipment - your computer will never prevent you from doing your best
+    </li>
+<li>
+     Beautiful, convenient and state-of-the-art offices in Chicago’s Loop
+    </li>
+<li>
+     Solid programs in some of the staples: transportation, disability and life insurance
+    </li>
+<li>
+     Wellness initiatives to ensure both health and financial well-being of our team
+    </li>
+<li>
+     Breakfast and lunch options onsite, and more healthy snack options and beverages than you can imagine
+    </li>
+<li>
+     Growing corporate social responsibility program that is driven by the involvement and passion of our team members
+    </li>
+</ul>
+<p>
+<strong>
+     Sprout Social is unable to provide H-1B sponsorship.
+    </strong>
+</p>
+</span>
+
+#title
+information-security-engineer

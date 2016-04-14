@@ -1,0 +1,147 @@
+
+
+#position
+Systems Engineer
+
+#company
+Wellspring
+
+#post
+<span class="nj-job-body">
+<p>
+<strong>
+     Position Summary:
+    </strong>
+</p>
+<p>
+<span>
+     Wellspring is hiring a Systems Engineer to assist with the administration and maintenance of our Linux hosting environments. In this role, you will work closely with our infrastructure, release, and development teams to maintain and improve our performance, security, and uptime standards. Reporting directly to our Infrastructure Architect, this is an exciting career opportunity for a self-starting and resourceful professional.
+    </span>
+</p>
+<p>
+<span>
+     Our clients fight diseases, improve natural resource efficiency, create next generation electronics, and develop higher yield crops. Wellspring is the leading provider of software to manage R&amp;D and innovation. Our clients include Fortune 500 companies, premier research universities, and leading medical institutions. Wellspring also operates Flintbox®, the largest online marketplace for inventions emerging from research labs around the world.
+    </span>
+</p>
+<p>
+<span>
+     Wellspring offers a dynamic work environment located in the River North neighborhood of Chicago. Our team is highly collaborative, technical, and creative. This role will give you hands-on experience with a modern Linux-based web infrastructure in both traditional data center and virtualized environments.
+    </span>
+</p>
+<p>
+<b>
+     Responsibilities:
+    </b>
+</p>
+<ul>
+<li>
+<span>
+      Administration and maintenance of our hosting infrastructure located across 3 continents
+     </span>
+</li>
+<li>
+<span>
+      Redundant LAMP stack setup, maintenance, and troubleshooting
+     </span>
+</li>
+<li>
+<span>
+      Use and maintenance of automated configuration management and deployment systems
+     </span>
+</li>
+<li>
+<span>
+      Response and resolution of service issues
+     </span>
+</li>
+<li>
+<span>
+      Assist developers with systems-related issues
+     </span>
+</li>
+</ul>
+<p>
+<b>
+     Requirements:
+    </b>
+</p>
+<ul>
+<li>
+<span>
+      Excellent verbal and written communication skills
+     </span>
+</li>
+<li>
+<span>
+      Effective communication and collaboration with internal teams and external clients
+     </span>
+</li>
+<li>
+<span>
+      Experience running Linux, Apache, MySQL, and PHP, Ruby, or Python
+     </span>
+</li>
+<li>
+<span>
+      Experience with desktop support, client services, or other user interaction
+     </span>
+</li>
+<li>
+<span>
+      Experience with automated configuration deployment and systems scripting
+     </span>
+</li>
+<li>
+<span>
+      A documented history of hard work and engineering excellence
+     </span>
+</li>
+</ul>
+<p>
+<b>
+     Preferred:
+    </b>
+</p>
+<ul>
+<li>
+<span>
+      Understanding of HTTP, TCP/IP, DNS / BIND, LDAP, SMTP
+     </span>
+</li>
+<li>
+<span>
+      Experience with KVM, AWS
+     </span>
+</li>
+<li>
+<span>
+      Experience with information security: standards certification, auditing, and pen testing
+     </span>
+</li>
+<li>
+<span>
+      Proven success in high-growth startup environments
+     </span>
+</li>
+<li>
+<span>
+      Bachelor’s degree or higher in Computer Science
+     </span>
+</li>
+</ul>
+<p>
+<span>
+     Are you the perfect fit?  We invite interested and qualified applicants to send a resume, brief introduction, and salary requirements to Ryan Krabath via
+     <a href="mailto:tech.careers@wellspring.com">
+      tech.careers@wellspring.com
+     </a>
+     .
+    </span>
+</p>
+<p>
+    Wellspring is an Equal Opportunity Employer.
+   </p>
+</span>
+
+#title
+systems-engineer-2

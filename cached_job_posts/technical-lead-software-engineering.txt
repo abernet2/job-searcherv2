@@ -1,0 +1,126 @@
+
+
+#position
+Technical Lead   Software Engineering
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<b>
+<u>
+     Overview:
+    </u>
+</b>
+<div>
+<p>
+     kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+    </p>
+<p>
+     The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves, give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+    </p>
+<p>
+     The Lead Engineer practices software engineering and leads a team of software developers to apply software engineering best practices and principles to deliver high quality, maintainable, reusable, reliable, performant, and scalable software on schedule.  The Lead Engineer serves as a technical liaison between his or her team and other internal and external development teams to identify and resolve dependencies, to identify, improve, and apply software engineering best practices and processes, and to identify and mitigate risks to the on-time delivery of software.  The Lead Engineer may serve as a technical liaison between his or her team and external organizations such as a solutions providers and standards bodies.
+    </p>
+<b>
+<u>
+      Responsibilities:
+     </u>
+</b>
+<div>
+<p>
+      The Lead Engineer performs the following job duties:
+     </p>
+<ul>
+<li>
+       Work with management to set and communicate team goals and vision aligned to business requirements; ensure the team stays focused and delivers against the goals, adapting to changing business requirements
+      </li>
+<li>
+       Specify non-functional software requirements and analyze all requirements to determine design feasibility within time and cost constraints
+      </li>
+<li>
+       Estimate software development timelines and be accountable to the timelines by actively managing risks and changing requirements
+      </li>
+<li>
+       Provide input into system software architecture development by working with Staff, Advisory and Principle Engineers as required
+      </li>
+<li>
+       Design and lead the design of software using abstraction, low coupling and high cohesion, modularization, encapsulation and information hiding, interfaces, and separation of concerns
+      </li>
+<li>
+       Implement and lead the implementation of software using the practical application of algorithms, defensive programming and exception handling, fault tolerance, design patterns, and best practices of Object-Oriented Design (OOD) and Object-Oriented Programming (OOP) such as SOLID (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion)
+      </li>
+<li>
+       Test and lead the test of software with traceability back to requirements emphasizing the practice of Test Driven Design and the use of autonomous frameworks and Continuous Integration
+      </li>
+<li>
+       Follow and improve agile software development processes and practices (SCRUM) to improve engineering efficiency to maximize resources and reduce expense
+      </li>
+<li>
+       Ensure the adoption and application of software development tools (IDEs, test frameworks, static analyzers, etc.) to improve engineering efficiency to maximize resources and reduce expense
+      </li>
+<li>
+       Identify and reduce technical debt
+      </li>
+</ul>
+<b>
+<u>
+       Qualifications:
+      </u>
+</b>
+<div>
+<ul>
+<li>
+        Ability to decompose larger problems into software development work as self-contained, minimally inter-dependent tasks for team members to implement
+       </li>
+<li>
+        Ability to segregate software using abstraction and interfaces
+       </li>
+<li>
+        Ability to efficiently multi-task and manage multiple concurrent tasks by identifying differing priorities relative to changing business need
+       </li>
+<li>
+        Ability to consistently identify and deliver technical improvement feedback to team members in a supportive and constructive manner to achieve demonstrable results over time
+       </li>
+<li>
+        Excellent problem solving
+       </li>
+<li>
+        Excellent interpersonal and teamwork to facilitate collaborative problem solving amongst team members
+       </li>
+<li>
+        Excellent verbal and written communication to clearly, succinctly, and completely communicate intent (both technical and non-technical) in interactions with team members and management
+       </li>
+<li>
+        Excellent time management to ensure time (both his or hers and that of his or her team) is optimally allocated to meet prioritized business need
+       </li>
+<li>
+        Bachelor’s Degree or equivalent in Computer Science or related disciplines
+       </li>
+<li>
+        8+ years of software development of commercial-grade systems and applications with a proven track record of building and leading successful engineering teams
+       </li>
+</ul>
+<b>
+<u>
+        About Us:
+       </u>
+</b>
+<div>
+<p>
+        Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+       </p>
+<p>
+<strong>
+         If you’re ready to grow with us, we’d love to hear from you.
+        </strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+technical-lead-software-engineering

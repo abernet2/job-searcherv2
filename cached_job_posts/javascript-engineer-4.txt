@@ -1,0 +1,87 @@
+
+
+#position
+Javascript Engineer
+
+#company
+Morningstar
+
+#post
+<span class="nj-job-body">
+   The Team:
+   <p>
+    Fueling the technologies that drive our products and support our company's infrastructure, the Technology team consists of talented developers, network architects, and IT experts who help make technology one of Morningstar's core strengths. Though our technologists represent a range of skills and knowledge bases, they all view technology as a craft and care deeply about creating positive user experiences. From Agile methodologies to mobile applications, to software as a service (SaaS) delivered from our private cloud, we push technology's boundaries to build scalable, elegant solutions that help investors reach their financial goals.
+   </p>
+<p>
+    The Role:
+   </p>
+<p>
+    We are seeking a JavaScript software engineer with full-stack experience. This position will be part of an engineering team focused on updating Morningstar’s Web-based product suite and its administrative systems. The position includes development of new systems and maintenance and improvement of existing applications. Candidates should have solid software engineering experience in building commercial-grade Web-based applications using modern SPA technology. You will work with other engineers to develop APIs and modernize the platform to build leading product experiences. A successful candidate will be able to play an active role in managing the prioritization of work in order to meet project goals. This position is based in our Chicago office.
+   </p>
+<p>
+    Responsibilities
+   </p>
+<p>
+    Work heavily with JavaScript and various JavaScript frameworks.
+   </p>
+<p>
+    Create cascading style sheets (CSS) that are consistent across all browsers and platforms.
+   </p>
+<p>
+    Use an Agile approach to iteratively maintain and develop new functionality.
+   </p>
+<p>
+    Work with server-side engineers to build robust RESTful and/or SOAP-based Web services.
+   </p>
+<p>
+    Stay up-to-date on emerging technologies.
+   </p>
+<p>
+    Promote usability best practices.
+   </p>
+<p>
+    Requirements
+   </p>
+<p>
+    3-5 years development experience with HTML5, JavaScript and CSS3.
+   </p>
+<p>
+    1-3 years experience with SPA client-side frameworks such as Angular.js or Ember.js.
+   </p>
+<p>
+    1-3 years experience with server-side technologies such as Node.JS, C#, or ASP.NET.
+   </p>
+<p>
+    Proven knowledge of enterprise software concerns such as security, scalability, transaction management, and concurrency.
+   </p>
+<p>
+    Familiarity with design patterns like MVC and MVVM required.
+   </p>
+<p>
+    Experience with XML and XSLT is a plus.
+   </p>
+<p>
+    Experience working in Scrum-based methodologies a plus.
+   </p>
+<p>
+    Experience working with SASS, and build process management tools like Grunt or Gulp.
+   </p>
+<p>
+    Highly motivated individual with the potential and desire to learn new technologies and take on an increasing level of responsibility within the technology team.
+   </p>
+<p>
+    Ability to work independently, communicates effectively, and produces superior results.
+   </p>
+<p>
+    A bachelor’s degree in computer science, mathematics, or other related field.
+   </p>
+<p>
+    Experience within the financial services industry is desirable.
+   </p>
+<p>
+    Morningstar is an equal opportunity employer.
+   </p>
+</span>
+
+#title
+javascript-engineer-4

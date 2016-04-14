@@ -1,0 +1,153 @@
+
+
+#position
+Senior Software Developer   Platform
+
+#company
+Sprout Social
+
+#post
+<span class="nj-job-body">
+<p>
+<br/>
+    In this role you’ll design, code, and grow our backend services, the lifeblood of our product. We have a strong focus on scale, reliability, performance and product agility, and that means picking the right tool for the job, while being pragmatic and scrappy. We build services in Python and Java using technologies like Cassandra, Redis, NSQ, and MySQL. A little about our company, Sprout Social is used by 16,000 brands around the world. Companies like Adobe, Pivotal Labs, Google, Marvel, and Evernote rely on our products to create stronger relationships with their customers through social media.
+   </p>
+<p>
+    We’re looking for smart, creative, driven people to build great software with us. If you’re the best at what you do, we’d love to talk.
+   </p>
+<p>
+<strong>
+     Relocation is offered for this role, if applicable.
+    </strong>
+</p>
+<p>
+<strong>
+     You want to solve hard problems? Here are some of ours…..
+    </strong>
+</p>
+<ul>
+<li>
+     Today our customers receive 4x more social messages than from just one year ago! Scale that.
+    </li>
+<li>
+     One of our largest customers drove 33.5 million social messages in only a 90-day period! Store that.
+    </li>
+<li>
+     On average, we process roughly 1,000 social events every single second. Scope that.
+    </li>
+<li>
+     How much social data do we store? Try 75 terabytes among multiple NSQ databases. Analyze that.
+    </li>
+<li>
+     In 2015 we saw 384 deployments and changes to our Web application. That averages out to 1.5 deployments per business day! Maintain that.
+    </li>
+</ul>
+<p>
+<strong>
+     Responsibilities
+    </strong>
+</p>
+<ul>
+<li>
+     Be a major individual contributor of coding
+    </li>
+<li>
+     Promote and nurture good team practices such as TDD, code reviews, and pair programming
+    </li>
+<li>
+     Own and share responsibility for strategically scaling our systems
+    </li>
+<li>
+     Bring vision to the team in the form of new technology recommendations, ideas and approaches
+    </li>
+<li>
+     Proactively mentor junior engineers
+    </li>
+<li>
+     Drive project teams to build in Sprout’s best interests by being cognizant of business requirements, market need, customer pains, etc.
+    </li>
+</ul>
+<p>
+<strong>
+     Desired Skills and Experience
+    </strong>
+</p>
+<ul>
+<li>
+     Smart, a very quick learner, and gets things done
+    </li>
+<li>
+     Undergraduate degree in Computer Science or comparable knowledge of CS theory
+    </li>
+<li>
+     Minimum of 5 years of software development experience at scale
+    </li>
+<li>
+     History with lower-level languages (Java, C, C++)
+    </li>
+<li>
+     Heavy SQL and NoSQL database experience
+    </li>
+<li>
+     Strong applied knowledge of concurrency, I/O and distributed systems
+    </li>
+<li>
+     Experience with every stage of software development process: design, architecture, deployment, code reviews, maintenance, documentation, etc.
+    </li>
+<li>
+     Great at working in a team
+    </li>
+<li>
+     Very clear written and verbal communicator
+    </li>
+</ul>
+<p>
+<em>
+     Note: When applying please submit your favorite code samples and/or Github profile
+    </em>
+</p>
+<p>
+<strong>
+     About Sprout Social
+    </strong>
+<br/>
+    Sprout Social powers open communication between individuals, brands and communities through elegant, sophisticated software. We are relentless about solving hard problems for our customers and committed to both customer and team success.
+   </p>
+<p>
+    Team Sprout is a group of very talented, smart and passionate people with broad interests and backgrounds. We’re proud to regularly be recognized for software, product and company culture achievements. Our team’s shared belief in Sprout’s mission promotes a culture of openness, empowerment and fun. We have built a benefits program to match the strength of our team. This program includes:
+   </p>
+<ul>
+<li>
+     Insurance and benefit options that are built for both individuals and families, including generous company contributions
+    </li>
+<li>
+     Progressive benefit programs, like our parental leave program and free Divvy bike memberships
+    </li>
+<li>
+     High-quality and well-maintained equipment - your computer will never prevent you from doing your best
+    </li>
+<li>
+     Beautiful, convenient and state-of-the-art offices in Chicago’s Loop
+    </li>
+<li>
+     Solid programs in some of the staples: transportation, disability and life insurance
+    </li>
+<li>
+     Wellness initiatives to ensure both health and financial well-being of our team
+    </li>
+<li>
+     Breakfast and lunch options onsite, and more healthy snack options and beverages than you can imagine
+    </li>
+<li>
+     Growing corporate social responsibility program that is driven by the involvement and passion of our team members
+    </li>
+</ul>
+<p>
+<strong>
+     Sprout Social is unable to provide H-1B sponsorship.
+    </strong>
+</p>
+</span>
+
+#title
+senior-software-developer-platform

@@ -1,0 +1,126 @@
+
+
+#position
+Sr. Database Administrator
+
+#company
+PowerReviews
+
+#post
+<span class="nj-job-body">
+   We are growing our database operations team and looking for a Database Administrator to manage, optimize, and scale multiple Postgresql instances within our infrastructure. You should have experience planning and configuring production databases for mid and large-scale enterprise systems.  You must be passionate about automation, testing, and ensuring the quality and timely delivery of your work. This position requires regular on-site interaction with the engineering team in our Chicago and San Francisco offices.
+   <p>
+    The position involves managing Postgresql and some MySQL databases in a datacenter and cloud. Eventually the responsibilities may  extends to managing other SQL and NoSQL based solutions.
+   </p>
+<p>
+<strong>
+<br/>
+     Key Accountabilities:
+    </strong>
+</p>
+<ul>
+<li>
+<p>
+      Application support - execute database changes as requested by the Engineering or Customer Success organizations, participate in release maintenance events
+     </p>
+</li>
+<li>
+<p>
+      Planning and configuration - pro-actively manage database instances to accommodate for growth and scale
+     </p>
+</li>
+<li>
+<p>
+      System Optimization - monitor and optimize system performance, schema change management, query analysis, authoring tools for databases automated deployment and management in cloud.
+     </p>
+</li>
+<li>
+<p>
+      Availability - ensure maximum uptime and implement proper safeguards for backup, replication, and recovery
+     </p>
+</li>
+<li>
+<p>
+      Security - define and implement user privileges and data access controls
+     </p>
+</li>
+<li>
+<p>
+      Evangelism - help engineers efficiently utilize the database using best practices
+     </p>
+</li>
+</ul>
+<p>
+<strong>
+<br/>
+<strong>
+      Requirements &amp; Preferred Skills
+     </strong>
+</strong>
+</p>
+<ul>
+<li>
+<p>
+      A Bachelor's degree in Computer Science or equivalent experience
+     </p>
+</li>
+<li>
+<p>
+      2+ years managing Postgresql databases
+     </p>
+</li>
+<li>
+<p>
+      Experience with databases 250GB+ in size
+     </p>
+</li>
+<li>
+<p>
+      Experience with shell, Ruby or other scripting language, SQL query writing and performance optimization
+     </p>
+</li>
+<li>
+<p>
+      Experience with Postgresql replication solutions, trigger based and streaming
+     </p>
+</li>
+<li>
+<p>
+      Moderate to advanced knowledge of Unix environments
+     </p>
+</li>
+<li>
+<p>
+      Strong attention to detail, good communications skills, and a positive attitude
+     </p>
+</li>
+<li>
+<p>
+      Ability to be self motivated and deliver projects on time with minimal supervision
+     </p>
+</li>
+<li>
+<p>
+      Must be authorized to work in the U.S.
+     </p>
+</li>
+</ul>
+<ul>
+<li>
+<p>
+      Amazon AWS: Ec2, S3, CloudFormation
+     </p>
+</li>
+<li>
+<p>
+      Puppet
+     </p>
+</li>
+<li>
+     Experience with MySQL, AWS RDS, DynamoDB, AWS EMR, Redshift.
+    </li>
+</ul>
+</span>
+
+#title
+sr-database-administrator-0

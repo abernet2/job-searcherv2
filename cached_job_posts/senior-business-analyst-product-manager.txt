@@ -1,0 +1,71 @@
+
+
+#position
+Senior Business Analyst / Product Manager
+
+#company
+The Mx Group
+
+#post
+<span class="nj-job-body">
+<b>
+    About the role:
+   </b>
+<p>
+    Our business analysts don’t just ask what a client wants. They ask “what if we did it this way?” They’re big-picture thinkers. Strategic problem-solvers. Savvy team players with a passion for the process of software development. And we’re looking for a standout candidate to join them.
+   </p>
+<p>
+    As a senior business analyst with The Mx Group, you’ll serve as the primary point of contact for our clients and help them shape and plan digital projects. You’ll manage the development of brand-new applications as well as updates to existing systems. You’ll oversee the full lifecycle of development projects, keeping them on-scope and on-budget. Working with an experienced, enthusiastic team of software developers and analysts, you’ll produce applications our diverse client base — and their customers — can’t do without.
+    <br/>
+</p>
+<p>
+<em>
+     Note: At The Mx Group, we call this role “business analyst,” but we’re looking for people with the right characteristics — not necessarily the same title. Whether you call yourself a BA, a project manager, a product owner or something else, we want to talk to you!
+     <br/>
+</em>
+</p>
+<b>
+    What we’re looking for:
+   </b>
+<ul>
+<li>
+     5+ years of software development experience, with at least 3 years in a business analyst or product owner role
+    </li>
+<li>
+     Experience working with a team to design and deliver new software products
+    </li>
+<li>
+     Ability to think beyond gathering requirements to design / improve processes
+    </li>
+<li>
+     Lean or Agile experience a significant plus
+    </li>
+<li>
+     Outstanding critical thinking skills
+    </li>
+<li>
+     Excellent client-facing skills
+    </li>
+<li>
+     An inquisitive, rationally opinionated problem-solver
+    </li>
+<li>
+     Bachelor’s degree
+    </li>
+</ul>
+<b>
+    About us:
+   </b>
+<p>
+    For two years in a row, The Mx Group has been selected as one of the Best Places to Work in Illinois, as well as one of Built In Chicago’s Top 100 Digital Companies in Chicago. We are a digital and demand creation agency just 20 minutes from downtown Chicago. A collection of creative problem solvers, our team includes marketing strategists, business analysts, designers, writers, programmers, data specialists and sales management experts. All bring unique skills and perspectives while contributing to our common mission of helping companies excite markets, engage customers, effect sales and embed value to create a Total Market Experience™.
+   </p>
+<b>
+    Why you’ll love working here:
+   </b>
+<p>
+    Our workplace culture is one of camaraderie, collaboration and transparency. In addition to a full benefits package, we also offer health club reimbursement, 401(k) matching, Friday summer hours and a well-stocked craft beer fridge.
+   </p>
+</span>
+
+#title
+senior-business-analyst-product-manager

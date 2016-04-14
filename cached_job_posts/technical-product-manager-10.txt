@@ -1,0 +1,93 @@
+
+
+#position
+Technical Product Manager
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<b>
+<u>
+     Overview:
+    </u>
+</b>
+<div>
+<p>
+     kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+    </p>
+<p>
+     The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves, give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+    </p>
+<p>
+     The Technical Product Manager will generally work on the Relativity software development platform, building tools that internal or external developers will use build apps on top of the Relativity platform to extend its functionality.  The Manager will work closely with a highly technical SCRUM team to build parts of a technical platform for an enterprise application in the legal space.
+    </p>
+<b>
+<u>
+      Responsibilities:
+     </u>
+</b>
+<div>
+<p>
+      Candidate should have an in depth understanding of technical concepts, be able to gather requirements from stakeholders, clearly articulate the vision for each product release and anticipate, identify and ensures resolution of possible technical and business implications of each release.  The position involves talking with clients to get feedback on products and gather requirements, demonstrate new functionality to internal and external stakeholders, managing current projects that are in development, reviewing documentation, preparing materials for marketing to use at release time, educating internal groups on how new functionality works, ensuring tech support has the information they need to support the product once it goes out the door.
+     </p>
+<p>
+<b>
+<u>
+        Qualifications:
+       </u>
+</b>
+</p>
+<div>
+<ul>
+<li>
+        5+ years’ work experience that includes systems development and analysis, and business analysis
+       </li>
+<li>
+        Strong technical understanding of the Microsoft technology stack
+       </li>
+<li>
+        Strong business acumen
+       </li>
+<li>
+        Proven experience in gathering requirements and assessment of requirements to both technical and business applications
+       </li>
+<li>
+        2+ years working in an agile environment
+       </li>
+<li>
+        Highly effective systemic thinking skills
+       </li>
+<li>
+        Superior communication skills with proven ability to relate with both technical and business professionals
+       </li>
+<li>
+        Excellent relationship building and interpersonal skills
+       </li>
+<li>
+        Proven analytical and project management skills
+       </li>
+</ul>
+<b>
+<u>
+        About Us:
+       </u>
+</b>
+<div>
+<p>
+        Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+       </p>
+<p>
+<strong>
+         If you’re ready to grow with us, we’d love to hear from you.
+        </strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+technical-product-manager-10

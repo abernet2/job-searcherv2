@@ -1,0 +1,115 @@
+
+
+#position
+Software Development Engineer in Test (SDET)
+
+#company
+Morningstar
+
+#post
+<span class="nj-job-body">
+<div>
+<div>
+<div>
+<ul>
+<li>
+<div>
+<div>
+<div>
+<p>
+            The Team:
+           </p>
+<p>
+            Fueling the technologies that drive our products and support our company’s infrastructure, the Technology team consists of talented developers, network architects, and IT experts who help make technology one of Morningstar’s core strengths. Though our technologists represent a range of skills and knowledge bases, they all view technology as a craft and care deeply about creating positive user experiences. From Agile methodologies to mobile applications, to software as a service (SaaS) delivered from our private cloud, we push technology’s boundaries to build scalable, elegant solutions that help investors reach their financial goals.
+           </p>
+<p>
+            The Role:
+           </p>
+<p>
+            As a Software Development Engineer in Test, you will work closely with developers, product managers, IT operations, and quality assurance teams to build and execute automated test scripts.  Our teams work on UI (web, mobile, and desktop) and web service automation.  We build customized testing tool to meet the project need. Our teams also play integral role with other teams on test automation and continuous integration.
+           </p>
+<p>
+            We have several openings for SDET across multiple teams requiring various types of expertise in automated testing. These positions are based in our Chicago office.
+           </p>
+<p>
+            Responsibilities
+           </p>
+<p>
+            • Build test automation suites, as well as play a part in maintaining our existing suite of automated tests to be used by development and manual test engineers.
+           </p>
+<p>
+            • Analyze user requirements and product architecture to derive testing requirements.
+           </p>
+<p>
+            • Build, execute, and debug automated functional and back-end tests.
+           </p>
+<p>
+            • Diagnose problems and report bugs and enhancements to Development.
+           </p>
+<p>
+            • Ensure efficient and stable builds in contentious integration environment.
+           </p>
+<p>
+            • Work with development and functional QA teams to make decisions around what to automate.
+           </p>
+<p>
+            Requirements
+           </p>
+<p>
+            • Bachelor's degree in Computer Science or equivalent plus a minimum of 2.5  years of working experience in a related field.
+           </p>
+<p>
+            • Strong experience with OO programming and concepts.
+           </p>
+<p>
+            • Excellent understanding and knowledge of software quality assurance practice.
+           </p>
+<p>
+            • Ability to mentor junior members of the test automation team including those in our overseas locations.
+           </p>
+<p>
+            • Hands on experience in Java, C#, JUnit/TestNG, Jenkins, Selenium, FitNesse, SoapUI, Javascript, HTML5, CSS, Maven, one or two scripting languages Groovy,
+           </p>
+<p>
+            Python, Ruby, Git are required
+           </p>
+<p>
+            • Experience with test automation tools as well as deployment tools, like uDeploy.
+           </p>
+<p>
+            • Experience in TDD, continuous integration, and code review practice is strongly desired.
+           </p>
+<p>
+            • Strong awareness of activities in the open source world and contributing back to open source is a big plus.
+           </p>
+<p>
+            Morningstar is an equal opportunity employer.
+           </p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<div>
+<div>
+<ul>
+<li>
+<div>
+           Apply
+          </div>
+</li>
+<li>
+<div>
+           Apply with LinkedIn
+          </div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+software-development-engineer-test-sdet-1

@@ -1,0 +1,121 @@
+
+
+#position
+Senior Software Engineer
+
+#company
+Raise
+
+#post
+<span class="nj-job-body">
+<b>
+    About Raise
+   </b>
+<p dir="ltr">
+    Raise started with a simple idea—that people don’t dream about saving money, they save money to realize their dreams. An infectious and powerful concept, Raise offers the opportunity for everyone to live a life of more.
+   </p>
+<p dir="ltr">
+    Our marketplace gives consumers the chance to unlock the value in their gift cards. Members can sell their unwanted gift cards for cash and buy gift cards to save at their favorite stores. We help put purchase power back into the hands of consumers, and that’s what giving yourself a raise is all about.
+   </p>
+<p dir="ltr">
+    Recently named by Forbes as one of Chicago’s next billion­-dollar startups, we are well on our way to changing the retail marketplace forever. Join us on our mission to make money worth more.
+   </p>
+<p dir="ltr">
+<b>
+     About The Position
+    </b>
+</p>
+<p dir="ltr">
+    Raise is looking for it’s next generation of senior software engineers. We are solving problems of scale for our online gift card marketplace and are experiencing extremely high growth and have challenging problems to solve.
+   </p>
+<p dir="ltr">
+    Ideal candidates have a proven history of distributed systems design and development, mentoring engineers, and help build our next generation microservices platform to support our explosive growth.  An understanding and commitment to an agile team software development is of primary importance.
+   </p>
+<p dir="ltr">
+    Engineering teams at Raise have a great deal of autonomy and independence, with real ownership of the products and features they build. This role requires a unique balance of software development skill and product sense—so the ideal candidate will have experience building substantial products or services. If you're a smart, hard working problem solver who enjoys working with team autonomy, but understands how to take complete ownership of a project while meeting deadlines, this is the perfect role for you.
+   </p>
+<p dir="ltr">
+<b>
+     Skills &amp; Qualifications
+    </b>
+</p>
+<ul>
+<li>
+     5+ years of high availability, concurrent, distributed infrastructures
+     <br/>
+</li>
+<li>
+     3+ years working on and with agile teams
+     <br/>
+</li>
+<li>
+     Understanding of mobile and responsive web technologies and techniques
+     <br/>
+</li>
+<li>
+     Ruby on Rails is a plus
+     <br/>
+</li>
+<li>
+     Experience with functional programming experience is plus
+     <br/>
+</li>
+<li>
+     Ability to communicate technical concepts, possibilities, and limitations to a non-technical audience (product managers, designers)
+     <br/>
+</li>
+<li>
+     Test-driven development experience
+     <br/>
+</li>
+<li>
+     High attention to detail and constructive attitude in peer code reviews
+     <br/>
+</li>
+<li>
+     Bachelor’s in Computer Science, Computer Engineering or comparable experience
+    </li>
+</ul>
+<b>
+    Perks
+   </b>
+<br/>
+<ul>
+<li>
+     Comprehensive benefits package including health, dental, vision, 401K, disability and life insurance
+     <br/>
+</li>
+<li>
+     Minimum 15 days PTO
+     <br/>
+</li>
+<li>
+     Eight weeks maternity leave and two weeks paternity leave
+     <br/>
+</li>
+<li>
+     $5,000 adoption credit and six weeks leave for adoption family bonding
+     <br/>
+</li>
+<li>
+     Breakfast and healthy snacks provided every day
+     <br/>
+</li>
+<li>
+     Raise SWAG which includes Raise brainded t-shirts, bag, water bottle, winter jacket and stocking hat
+     <br/>
+</li>
+<li>
+     Game room for when you need a break which includes pool, ping-pong, and foosball
+    </li>
+</ul>
+   Apply Today
+   <br/>
+<br/>
+<div>
+    Equal Opportunity Employer M/F/D/V/SO
+   </div>
+</span>
+
+#title
+senior-software-engineer-89

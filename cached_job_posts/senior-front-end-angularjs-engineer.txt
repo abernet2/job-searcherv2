@@ -1,0 +1,110 @@
+
+
+#position
+Senior Front End AngularJS Engineer
+
+#company
+Grubhub
+
+#post
+<span class="nj-job-body">
+<span>
+    Be the first of your friends to declare, “I love where I work!” and actually mean it.  Laugh hard and work hard with some of the best and brightest in the tech industry.
+   </span>
+<p>
+    GrubHub Holdings Inc. is the nation's leading online and mobile food-ordering company dedicated to connecting hungry diners with local takeout restaurants. The GrubHub Holdings Inc. portfolio of brands includes GrubHub, Seamless, MenuPages and Allmenus. The company's online and mobile ordering platforms allow diners to order directly from thousands of takeout restaurants across the country and London, and every order is supported by the company's 24/7 customer service. GrubHub Holdings Inc. has offices in Chicago, New York City and London.
+    <br/>
+<br/>
+    With a career at GrubHub Holdings Inc., you can order your cake and eat it, too!
+   </p>
+<p>
+    GrubHub Holdings Inc. is looking for a wicked awesome lead front-end engineer with a expert understanding of UI design. You’ll be part of a team focused on the continual improvement and optimization of our consumer-facing products. Using a scientific and measured approach to development, you will be iterating changes at a quick pace that will have a very real impact to the business. In addition to writing front-end code, you must be able to work with others to take a design concept-whether a UI idea sketched on a napkin or a finished mock-up and bring it to life on our products. We’re looking for somebody who is a confident problem solver and who proactively challenges traditional solutions.
+   </p>
+<p>
+<strong>
+     RESPONSIBILITIES
+    </strong>
+    :
+   </p>
+<p>
+    • Assist in the design of, and implementation of UI changes across our product base.
+   </p>
+<p>
+    • Develop detailed technical analysis and design specifications based on functional requirements.
+   </p>
+<p>
+    • Collaborate heavily with fellow developers, designers and analysts to solve problems.
+   </p>
+<p>
+    • Develop complete front-end stack of projects using HTML/CSS/SASS, AJAX and Javascript with Angular.js.
+   </p>
+<p>
+    • Help write new design patterns, improve and adapt existing design component integration.
+   </p>
+<p>
+    • Integrate front-end UI with backend services.
+   </p>
+<p>
+    • Set and follow coding standards.
+   </p>
+<p>
+    • Debug cross-browser compatibility issues.
+   </p>
+<p>
+<strong>
+     REQUIREMENTS
+    </strong>
+    :
+   </p>
+<p>
+    • 5+ years of experience developing dynamic, highly interactive user interfaces for the web.
+   </p>
+<p>
+    • Bachelors degree in Technology, Computer Science or Math is preferred but equivalent work experience works just as well.
+   </p>
+<p>
+    • Must be fluent in front-end technologies including, but not limited to, JavaScript, AJAX, HTML, CSS, SASS, XML, and familiar with one or more JavaScript libraries (jQuery, Prototype...).
+    <br/>
+<br/>
+    • 1+ year using Angular.js.
+   </p>
+<p>
+    • Good understanding of web technologies.
+   </p>
+<p>
+    • Disciplined approach to testing and quality assurance.
+   </p>
+<p>
+    • Experience with server-side template engines a plus (JSP, ERB, …).
+   </p>
+<p>
+    • Should have good programming habits and be comfortable with Java.
+   </p>
+<p>
+<strong>
+     DESIRES SKILLS:
+    </strong>
+</p>
+<p>
+    • A strong sense of design.
+   </p>
+<p>
+    • You take pride in your work.
+   </p>
+<p>
+    • You relish the idea of working on a fast paced, data and experiment-driven team.
+   </p>
+<p>
+    • Have a healthy respect and appreciation for nerd jokes.
+   </p>
+<p>
+<b>
+</b>
+</p>
+<p>
+    GrubHub Holdings Inc. is an EQUAL EMPLOYMENT OPPORTUNITY/AFFIRMATIVE ACTION employer.
+   </p>
+</span>
+
+#title
+senior-front-end-angularjs-engineer

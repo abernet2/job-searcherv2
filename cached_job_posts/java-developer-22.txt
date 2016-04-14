@@ -1,0 +1,117 @@
+
+
+#position
+Java Developer
+
+#company
+Aginity
+
+#post
+<span class="nj-job-body">
+<p>
+<b>
+     Job Description
+    </b>
+</p>
+<p>
+    Solid software development skills, clear communication, pragmatic solutions and the desire to learn new technologies and grow your skills are the core traits we need from a java developer.  Do you want to solve problems and help drive the solutions of a small but growing product company?
+   </p>
+<p>
+    As a java developer your responsibilities include:
+   </p>
+<ul>
+<li>
+     Write code… good, solid, testable, code
+    </li>
+<li>
+     Deliver functionality within our sprint cycles against our core product Amp
+    </li>
+<li>
+     Collaborate with team leads and product management to design, write and test your code
+    </li>
+<li>
+     Participate in stand ups, code reviews, be be a member a small team of Amp product developers
+    </li>
+<li>
+     Continue growing our capacity as a product organization by extending our platform, continuous integration, test tools, and everything else
+    </li>
+</ul>
+<p>
+<b>
+     Desired Skills and Experience
+    </b>
+</p>
+<p>
+<b>
+     Required
+    </b>
+</p>
+<ul>
+<li>
+     BS in Computer Science or related technical discipline or equivalent practical experience
+    </li>
+<li>
+     2+ years writing java
+    </li>
+<li>
+     Demonstrate the ability to learn new technologies and apply them in practical ways
+    </li>
+</ul>
+<p>
+<b>
+     Preferred:
+    </b>
+</p>
+<ul>
+<li>
+     Experience building a web service API and infrastructure using open source technologies
+    </li>
+<li>
+     Practical use of an ORM technology in java (Spring/Hibernate)
+    </li>
+<li>
+     Working knowledge of SQL and Hadoop technologies
+    </li>
+<li>
+     Product team experience
+    </li>
+</ul>
+<div>
+<div>
+<b>
+      About Aginity
+      <br/>
+<br/>
+</b>
+</div>
+<div>
+     Aginity is a software development company whose analytic hub powers the entire enterprise. We continue to build our engineering team in Evanston, Illinois. Our flagship product, Amp, enjoys a growing customer base that is hungry for features.
+    </div>
+<div>
+<br/>
+     Amp is a new category of software at the intersection of big data and analytics. Amp empowers data scientists, business data users, IT and executives to design, publish, use and reuse, “analytics."
+    </div>
+<div>
+<br/>
+     We are small enough that there are no weeds in which to hide and every person’s contribution counts. We are growing like a weed but financially as solid and handsome as a polished piece of fine Italian marble—you can fittingly call this a “ground-floor” opportunity led by entrepreneurs who have built successful companies. We reward well each one of our top performers.
+    </div>
+<div>
+<br/>
+     We are collaborative professionals and business technologists but most of the time we’re in blue jeans, we love what we do, and we laugh a lot.
+    </div>
+<div>
+<br/>
+     We are curious and creative. We treasure our ability to collaborate with a team to solve complex analytic and technical challenges.
+    </div>
+<div>
+<br/>
+     Aginity Inc provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, or sexual orientation.
+    </div>
+<div>
+<br/>
+</div>
+</div>
+</span>
+
+#title
+java-developer-22

@@ -1,0 +1,63 @@
+
+
+#position
+Mobile Application Developer
+
+#company
+Solstice Mobile
+
+#post
+<span class="nj-job-body">
+<p>
+    Solstice Mobile has several opportunities for software engineers that are excited about development within the mobile platform ecosystem (iOS, Android and Windows 8). Our mobile developer opportunities range from junior to senior level development roles. You will be working on client-facing projects with Fortune 1000 companies in the mobile and enterprise software space. You will be given the opportunity to innovate using the latest mobile technology trends such as bluetooth LE (beacons), M2M and IoT, advanced physics and rendering engines, social media and collaboration platforms and many others. Solid communication skills, a servant leadership attitude, a love of learning and an analytical mind are a must.
+   </p>
+<p>
+    What You Will Be Doing:
+   </p>
+<ul>
+<li>
+     Building enterprise mobile web (HTML5, JS, CSS) and native iOS (Objective C), Android (Java) and Windows 8 (C#) mobile applications
+    </li>
+<li>
+     Gaining technical knowledge of software, hardware and open source technology stacks
+    </li>
+<li>
+     Helping evaluate emerging cross platform frameworks
+    </li>
+<li>
+     Partnering with top notch designers to create award winning user experiences
+    </li>
+<li>
+     Bridging the gap between elegant front end design and existing enterprise back end architectures
+    </li>
+<li>
+     Being mentored by more experienced mobile developers and architects to foster your career path and growth
+    </li>
+<li>
+     Mentoring others less experienced than you to foster their career path and growth
+    </li>
+</ul>
+<p>
+    Your Profile Includes:
+   </p>
+<ul>
+<li>
+     Bachelors degree (Computer Science, Engineering or MIS/IT major preferred)
+    </li>
+<li>
+     Previous experience (professional or personal) with developing applications in iOS or/and Android
+    </li>
+<li>
+     Published apps a strong plus
+    </li>
+<li>
+     Strong programming background and familiarity with at least one Object Oriented language (i.e. either Java, C#, Objective-C or C++)
+    </li>
+</ul>
+<p>
+    Solstice was recently featured in Built in Chicago's "Chicago's 6 Best Tech Companies for New Developers." We provide great benefits including health and wellness, a 401k plan, a $5,000 yearly self-directed training budget to use towards career growth and development, an amazing office space created specifically for Solstice and the work we do, pre-tax transit options, casual dress, summer hours...and the list goes on!
+   </p>
+</span>
+
+#title
+mobile-application-developer-5

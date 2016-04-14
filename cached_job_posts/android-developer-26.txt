@@ -1,0 +1,127 @@
+
+
+#position
+Android Developer
+
+#company
+Sprout Social
+
+#post
+<span class="nj-job-body">
+   Sprout Social is searching for an Android developer to join our Mobile Engineering team. You will help us deliver a quality application to thousands of users that exceeds our users’ expectations as well as Google’s prescribed best practices. Our Android team is a small one, which allows our engineers to not only take ownership of the code base, but also weigh in on user experience and design discussions. We build features that match and complement our web application so that customers have a seamless experience wherever they consume Sprout.
+   <p>
+    Our software is used by more than 16,000 brands around the world. Companies like Adobe, Pivotal Labs, Google, Marvel, and Evernote rely on Sprout to create stronger relationships with their customers through social media. If you are excited about building new features that are innovative to the mobile experience, are performant, and are reliable with any type of network connectivity, we’d love to talk with you.
+   </p>
+<p>
+<strong>
+     Responsibilities
+    </strong>
+</p>
+<ul>
+<li>
+     Be a major individual contributor of coding on the team
+    </li>
+<li>
+     Design and develop software features based on visual mockups or user stories
+    </li>
+<li>
+     Monitor the mobile ecosystem for Android changes and innovative apps that can be leveraged internally for performance or user experience improvements
+    </li>
+<li>
+     Extend testing capabilities by writing unit tests, creating integration tests and assisting in QA testing during development
+    </li>
+<li>
+     Ensure reliability by always taking into consideration performance and different network connection scenarios
+    </li>
+<li>
+     Prototype user experience concepts prior to new feature implementation
+    </li>
+<li>
+     Demonstrate a deep appreciation for good design
+    </li>
+</ul>
+<p>
+<strong>
+     Desired Skills &amp; Experience
+    </strong>
+</p>
+<ul>
+<li>
+     Smart and gets things done
+    </li>
+<li>
+     Undergraduate degree in Computer Science or comparable knowledge of CS theory
+    </li>
+<li>
+     Contributed to several apps in the Play Store (bonus points if your users love using your apps and show it with 5-­star ratings)
+    </li>
+<li>
+     You have a deep knowledge of the Android platform and could write a performant ListView replacement if you had to
+    </li>
+<li>
+     Experience with every stage of software development process: design, architecture, deployment, code reviews, maintenance, documentation, etc.
+    </li>
+<li>
+     Up to date with the latest Android best practices and open source libraries
+    </li>
+<li>
+     Seeks out product design opportunities. Our design team is excellent, so don't fret if you're not an aesthetic designer.
+    </li>
+<li>
+     Great at working in a team
+    </li>
+<li>
+     Very clear written and verbal communicator
+    </li>
+</ul>
+<p>
+<em>
+     Note: When applying please submit your favorite code samples and/or Github profile
+    </em>
+</p>
+<p>
+<strong>
+     About Sprout Social
+    </strong>
+</p>
+<p>
+    Sprout Social powers open communication between individuals, brands and communities through elegant, sophisticated software. We are relentless about solving hard problems for our customers and committed to both customer and team success.
+    <br/>
+<br/>
+    Team Sprout is a group of very talented, smart and passionate people with broad interests and backgrounds. We’re proud to regularly be recognized for software, product and company culture achievements. Our team’s shared belief in Sprout’s mission promotes a culture of openness, empowerment and fun. We have built a benefits program to match the strength of our team. This program includes:
+   </p>
+<ul>
+<li>
+     Insurance and benefit options that are built for both individuals and families, including generous company contributions
+    </li>
+<li>
+     Progressive benefit programs, like our parental leave program and free Divvy bike memberships
+    </li>
+<li>
+     High­-quality and well­-maintained equipment ­ your computer will never prevent you from doing your best
+    </li>
+<li>
+     Beautiful, convenient and state-­of-­the-­art offices in Chicago’s Loop
+    </li>
+<li>
+     Solid programs in some of the staples: transportation, disability and life insurance
+    </li>
+<li>
+     Wellness initiatives to ensure both health and financial well­-being of our team
+    </li>
+<li>
+     Breakfast and lunch options onsite, and more healthy snack options and beverages than you can imagine
+    </li>
+<li>
+     Growing corporate social responsibility program that is driven by the involvement and passion of our team members
+    </li>
+</ul>
+<p>
+<strong>
+     Sprout Social is unable to provide H­1B sponsorship.
+    </strong>
+</p>
+</span>
+
+#title
+android-developer-26

@@ -1,0 +1,136 @@
+
+
+#position
+Linux Engineer
+
+#company
+Textura Corporation
+
+#post
+<span class="nj-job-body">
+   Textura, the
+   <br/>
+   leading provider of collaboration and productivity tools for the
+   <br/>
+   construction industry, is looking for a Linux Engineer. As a
+   <br/>
+   Linux Engineer, you will assist in developing the next-generation of the
+   <br/>
+   company’s proprietary software solutions and have the unique
+   <br/>
+   opportunity to directly impact Textura's business results. The role of
+   <br/>
+   the Linux Engineer is to design, implement, manage, and support the
+   <br/>
+   mission critical infrastructure supporting Textura’s SaaS solutions.
+   <p>
+    Textura will provide a competitive salary, benefits, 401K, bonus program, training, development, and advancement opportunities.
+   </p>
+<p>
+    Please visit our website at
+    <a href="http://www.texturacorp.com to">
+     www.texturacorp.com to
+    </a>
+    learn more about our products and the customers we partner with and service.
+   </p>
+<p>
+    Responsibilities:
+   </p>
+<ul>
+<li>
+     Participate in the design and implementation of complex, Linux based infrastructures
+    </li>
+<li>
+     Interact with development and architecture teams to deliver scalable, secure, and highly available infrastructures
+    </li>
+<li>
+     Plan, script, test, and complete changes to the production infrastructure
+    </li>
+<li>
+     Actively share knowledge and experiences to facilitate the growth of the team as a whole
+    </li>
+<li>
+     Evaluate, define, and document technical standards, processes, and procedures
+    </li>
+<li>
+     Provide off-hours support for server/site issues and escalation
+    </li>
+<li>
+     Document site configurations, network requirements, and infrastructure topologies
+    </li>
+<li>
+     Help ensure implementation and operations adhere to relevant standards and objectives
+    </li>
+<li>
+     Help troubleshoot and resolve recurring infrastructure related issues
+    </li>
+<li>
+     Participate in internal R&amp;D projects that help establish standards and define new service offerings
+    </li>
+</ul>
+<p>
+    Qualifications:
+   </p>
+<ul>
+<li>
+     Bachelor's degree in Computer Science, Engineering, or related disciplines preferred
+    </li>
+<li>
+     5+years
+     <br/>
+     of experience with Linux OS (RedHat, Scientific, CentOS, etc) in an
+     <br/>
+     enterprise environment, preferably in a 24x7x365 web environment
+    </li>
+<li>
+     Experience with Virtual server environments and configuring systems for maximum performance and operating flexibility
+    </li>
+<li>
+     Advanced scripting skills
+    </li>
+<li>
+     Experience
+     <br/>
+     with the following technologies: LDAP, load balancers, Postgresql or
+     <br/>
+     MySQL, DB2, Tomcat, Twisted, Jboss, Websphere, Puppet, RPM building
+    </li>
+<li>
+     Excellent knowledge and hands-on experience with kernel performance tuning and analysis on Intel based platforms
+    </li>
+<li>
+     Strong security awareness
+    </li>
+<li>
+     Proven
+     <br/>
+     technical leader with solid system administration skills, and the
+     <br/>
+     ability to maintain a positive attitude while working in a dynamic, fast
+     <br/>
+     paced environment
+    </li>
+<li>
+     Experience with networking technologies,
+     <br/>
+     particularly as they pertain to managing Linux systems and applications
+     <br/>
+     running on these system
+    </li>
+<li>
+     Effective written and oral communication skills
+    </li>
+<li>
+     Effective
+     <br/>
+     interpersonal, communication and organizational skills with the ability
+     <br/>
+     to interact effectively with employees at all levels within the
+     <br/>
+     organization
+    </li>
+</ul>
+</span>
+
+#title
+linux-engineer-0

@@ -1,0 +1,157 @@
+
+
+#position
+Network Engineer
+
+#company
+Guaranteed Rate
+
+#post
+<span class="nj-job-body">
+   We are looking for an experienced Network Engineer to assist in maintaining our network reliability and lead improvement projects in our effort to change the mortgage industry completely!
+   <p>
+    The Financial technology space "Fintech" space is booming and Guaranteed Rate is at the center of it. We are focused on automating the mortgage process for consumers. Imagine getting a mortgage with no email, no faxing, no stack of papers in 10 days or less instead of 30 or more!! If you have been through the process of buying a home, you know how amazing this will be. We are the #8 lender in the country and one of only 2 that is independent (not a bank) so we are in a good spot to win this race. We have already made tremendous strides and we are looking for someone who wants to help us finish the job and disrupt the entire industry.
+    <br/>
+</p>
+<p>
+<strong>
+     Who is GR?
+    </strong>
+</p>
+<p>
+    Guaranteed Rate is not your typical company and certainly not your typical mortgage company. We are young, technology driven, have tons of energy and we love what we do – get people and great priced mortgages alongside our impeccable customer service. We’re in a River North office with exposed brick and duct work, windows we can actually open during the summer and an open floor plan – no cubicle life here. The awesomeness doesn’t end there; we also have:
+   </p>
+<ul>
+<li>
+     Holiday parties? We got’em! Not just major holidays, any holiday…. Mardi Gras, Valentine’s Day, St. Paddy’s Day, Opening Day, Boxing Day (for our Canadian employee), Sweetest Day, Groundhog Day, etc.
+    </li>
+<li>
+     Game room, library and white board paint for collaboration – yeah, it’s awesome.
+    </li>
+<li>
+     Access to our free GR nurse practitioner. Psshh who needs a doctor’s appointment when our nurse can do it all? Did we mention the free part?
+    </li>
+<li>
+     401k with some matching, Blue Cross health care coverage – yup, dental and vision too, short-term disability, life insurance – we got ya covered on this one, legal assistance – for a small monthly fee.
+    </li>
+</ul>
+<p>
+<strong>
+     So what do we want from you?
+    </strong>
+</p>
+<p>
+    The position is responsible for management and troubleshooting of GR’s local and wide-area network facilities. The network is comprised of approximately 180 offices of which about 90% are “on-net” using local Juniper firewalls to a Cisco VPN concentrator and 5% are on an MPLS connection. 2 active/active data centers as well as a large Amazon presence. The entire architecture is based on Cisco router and switch hardware.
+   </p>
+<p>
+    A few other things too:
+   </p>
+<ul>
+<li>
+     Collaborates with other teams to facilitate new architectures and deployments as they relate to networking architectures. Collaborates with systems team to ensure application needs are met in addition to end-user needs.
+    </li>
+<li>
+     Maintain a fault-tolerant network to ensure a 99.9% uptime for application services.
+    </li>
+<li>
+     Own the resolution of level 3 outages and network equipment failures meeting department service level agreements (SLAs) by involving the necessary team members and vendors where appropriate.
+    </li>
+<li>
+     Own the maintenance and improvement of internal monitoring and alerting infrastructure.
+    </li>
+<li>
+     Collaborate with vendors and NOC team on projects and aid in vendor implementations for projects.
+    </li>
+<li>
+     Create and maintain internal documentation for team use as well as for NOC/Level1 support staff troubleshooting manuals.
+    </li>
+<li>
+     Cross train team members to spread technical and institutional knowledge. If you are the only one that understands a network feature, you have failed.
+    </li>
+</ul>
+<p>
+<strong>
+     What you’ll bring to the table.
+    </strong>
+</p>
+<ul>
+<li>
+     Three or more years of experience in network engineering with at least the last two of the three in a large Cisco environment. Experience in a large retail environment a plus.
+    </li>
+<li>
+     Experience operating/managing a large organization’s routers and switches, VLANs and wireless networks.
+    </li>
+<li>
+     Extensive experience with troubleshooting wide-area, multi-provider networks.
+    </li>
+<li>
+     Experience with Cisco Catalyst and Nexus switching systems; Cisco IOS router platforms and Cisco WIFI infrastructures. Cisco ASA experience a plus.
+    </li>
+<li>
+     Experience with implementing/improving monitoring applications.
+    </li>
+<li>
+     Installed and implemented network monitoring using the complete SolarWinds Orion portfolio
+    </li>
+<li>
+     Strong general negotiation, inter-personal and communication skills
+    </li>
+<li>
+     Working knowledge of BGP, OSPF, EIGRP/IGRP, RIP, IP/IPX/AT, Frame-relay, SONET, MPLS, ATM, ISDN, PPP, HDLC, IPSEC, ISAKMP, ACL, NAT, PAT, HSRP, STP, VTP, VLAN, Dot1Q, ISL, RDP, HTTP, HTTPS, FTP, TFTP, IP Mobility, QOS, VOIP, DNS, DHCP, SSH, Netflow, Cisco Routers and Switches. Cisco PIX and ASA Firewalls, Cisco VPN Concentrators. Cisco Wireless LAN Controllers and Access Points.
+    </li>
+<li>
+     Experienced with the majority of Cisco routing, switching, load balancing, security, content delivery equipment and Cisco VOIP solution/technologies
+    </li>
+<li>
+     Hands-on experience in network engineering having worked with, configured and maintained a complex multi-data center environment using Cisco Catalyst, ASA, CSS, CSM, ACE and Digital Media (DMM, DMP)
+    </li>
+</ul>
+<p>
+<strong>
+     Nice to have:
+    </strong>
+</p>
+<ul>
+<li>
+     Cisco Certifications
+    </li>
+<li>
+     F5 Networks Big IP
+    </li>
+<li>
+     Cisco UCS and/or Fabric Interconnect experience
+    </li>
+<li>
+     Amazon AWS with at least 2 years of experience with VPC network design and AWS routing
+    </li>
+</ul>
+<p>
+<strong>
+     More about Guaranteed Rate…
+    </strong>
+</p>
+<p>
+    Guaranteed Rate is one of the ten largest retail mortgage lenders in the U.S. The company has become The Home Purchase Experts® by offering industry-leading self-service tools and low rate, low fee mortgages through an easy-to-understand process and unparalleled customer service. Headquartered in Chicago with approximately 175 offices across the U.S. and licensed in all 50 states, Guaranteed Rate has helped hundreds of thousands of homeowners with more than $65 billion in home purchase loans and refinances since 2000. Guaranteed Rate was ranked No. 1 in
+    <em>
+     Scotsman Guide’s
+    </em>
+    “Top Mortgage Lenders 2013” honors, and was recognized by
+    <em>
+     Inc
+    </em>
+    . magazine as the No. 4 private company job creator in the U.S. in 2013. Visit
+    <a href="http://www.guaranteedrate.com for">
+     www.guaranteedrate.com for
+    </a>
+    more information.
+   </p>
+<p>
+    Office location: River North Chicago
+   </p>
+<p>
+    Position reports to: VP of Systems Architecture
+   </p>
+</span>
+
+#title
+network-engineer-10

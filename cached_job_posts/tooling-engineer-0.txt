@@ -1,0 +1,160 @@
+
+
+#position
+Tooling Engineer
+
+#company
+Jellyvision 
+
+#post
+<span class="nj-job-body">
+<p>
+    Founded by the creator of the YOU DON'T KNOW JACK® game series, The Jellyvision Lab, Inc. creates virtual teachers, advisors, and salespeople who make online learning and decision making delightful. In all that we do, our goal is to make complex topics simple and boring material interesting, using a combination of great design, unexpectedly funny content, and serious technology. Of all the virtual people Jellyvision has created, the tallest and least afraid of bears is ALEX® (
+    <a href="http://www.meetalex.com">
+     www.meetalex.com
+    </a>
+    ). ALEX helps companies talk their employees through the tricky choices they’ll have to make, like picking a health insurance plan, deciding how much to put in the 401(k), or whether they might want extra life insurance. Our customers love ALEX because he helps their employees figure out what’s best for their personal situations, which, in turn, saves our customers a boat-load of time and money - everybody wins!  As we sell more and more of ALEX, we need more and more non-virtual (i.e., real life) people to keep the virtual ones amazing. That’s where you come in.
+   </p>
+<p>
+<strong>
+     THAT'S LOVELY... BUT WHAT'S THE JOB?
+    </strong>
+</p>
+<p>
+    It takes more than just skilled artisans to create great products; it also needs top quality tools. We’re looking for engineers to help us create the next generation of some of our most critical authoring tools.
+   </p>
+<p>
+    At Jellyvision, we’re all about creating interactive conversations with our users. For the past decade, we’ve been using a proprietary tool called Talkshow to do this. It’s done a great job all this time and is still in heavy use. However, one of our conversations, ALEX, has grown incredibly and Talkshow isn’t scaling the way we need it to.
+   </p>
+<p>
+    We need engineers to help us create a new tool that is designed to support a more scalable production process for our ALEX conversations.
+   </p>
+<p>
+    You’ll be part of a Scrum team developing new tools as well as evolving current tools. You’ll be involved in designing and implementing features as well as showcasing the results of Sprints to the rest of the company. You’ll support the Product Owner’s efforts to groom the backlog and you’ll be working with Production experts to make sure that the tools that you’re creating meet their needs.
+   </p>
+<p>
+    The majority of our tools are written as web apps and that’s really what’s driving what we’re looking for. The apps aren’t standalone – generally, they will integrate with the various services that underpin our products.
+   </p>
+<p>
+<strong>
+     SKILLS:
+    </strong>
+</p>
+<p>
+    Our server code is written in Ruby. We’re looking for engineers with a few years experience writing Ruby code. We’re not dogmatic about frameworks, but experience with Rails or another web framework would be beneficial. At the very least, a clear understanding of the pros and cons associated with using frameworks is important.
+   </p>
+<p>
+    Our client code is written in (surprise!) JavaScript. We need engineers who have experience creating rich user experiences in modern browsers. We’re adopting React as our framework of choice so experience with that is most beneficial. However, experience with another substantial web framework will do nicely.
+   </p>
+<p>
+    It’s expected that you know your way around a Source Control Management system.  We use a git system at Jellyvision, but if you’ve got your hands dirty with SVN and you’re ready for something new, we’re open to that.
+   </p>
+<p>
+    On the slightly softer side, we are looking for engineers, not just developers. An understanding of software engineering patterns and techniques is important as well as knowing how and when to apply them. In addition, an ability to mentor others in their effective use would be great; we have engineers at all stages in their careers and we look to our more senior developers to provide guidance to our more junior developers.
+   </p>
+<p>
+<strong>
+     NICE TO HAVES...
+    </strong>
+</p>
+<p>
+    We use Scrum to develop our products. If you have experience with Scrum, that’s one less thing we have to teach you (but we’re more than happy to teach it to you, so don’t worry if you haven’t gotten to it).
+   </p>
+<p>
+    We’re really trying to get there with Test Driven Development (or, at least, variants of TDD). If you have experience in that, you might be bringing something to teach us. That would be awesome!
+   </p>
+<p>
+<strong>
+     WHAT ABOUT THOSE NON-TECHNICAL, BUT EQUALLY IMPORTANT SKILLS?
+    </strong>
+</p>
+<p>
+<strong>
+     We’re looking for folks with:
+    </strong>
+</p>
+<ul>
+<li>
+     A passion for learning and experimenting with new technologies
+    </li>
+<li>
+     Experience working in a team-based environment
+    </li>
+<li>
+     Great communication skills
+    </li>
+<li>
+     A good eye (this isn't an art or design position, but it never hurts)
+    </li>
+<li>
+     And last but not least, a sense of humor.  It just makes you more fun to work with.
+    </li>
+</ul>
+<p>
+<b>
+     Anything else?  Yes.
+    </b>
+    We share a commitment to excellence and a desire to work in a comfortable, friendly atmosphere, so we only hire nice, bright, funny people who are willing to work hard.  Our credo is a simple one: be helpful. And we think we can be most helpful if our workforce is as diverse in thought, perspective, and culture as the people who use our products. We are looking to add amazing folks to our team who will bring diversity across many lines, including race, ethnicity, religion, sexual orientation, age, marital status, disability, gender identity, sex, and country of origin.
+   </p>
+<p>
+<strong>
+     ARE THERE ANY PERKS?
+    </strong>
+    Yes, we love perks.
+   </p>
+<ul>
+<li>
+     Competitive pay, stock options and benefits. 401(k) with matching. And we pay 100% of the cost of premiums for medical, dental, vision, disability and life insurance for our employees (as long as you qualify for our tobacco-free discount; if you’re a tobacco user, your medical premiums will be higher than $0). We also cover a really nice chunk of the cost of premiums for spouse/partner/dependent medical, dental and vision insurance.
+    </li>
+<li>
+     Casual dress and a flexible schedule. Come in a sweatshirt, jeans, whatever, like everyone else here.
+    </li>
+<li>
+     Creative work environment. We are lucky to work in a place that is full of intelligent, talented and innovative folks. Although most hours the place is deathly quiet (we're a focused bunch), this is punctuated with hilarious outbursts and general merriment, which makes a nice way to spend the day.
+    </li>
+<li>
+     Free food. Every week, we stock our kitchen with free healthy snack foods, and we have a catered lunch once a week to give people a reason to hang out and eat together.
+    </li>
+<li>
+     Easy transportation. We’re really close to the 'L' and the Halsted (#8) bus (right by the Apple Store and Mega Whole Foods too), and we have a transit FSA that allows you to dedicate pre-tax dollars to public transportation expenses. And a number of our employees like to bike to work, so we also have showers and lockers in the office.
+    </li>
+<li>
+     Did we mention our yoga class? We bring a pro instructor right to the office. Fully subsidized by Jellyvision and fully optional, btw.
+    </li>
+<li>
+     Oh! And we have a massage chair. Not just any massage chair, my friend. It’s the HumanTouch HT 5320 WholeBody™ Massage Chair. Feeling a little stiff? Sit down. Relax. Feel better? Good. Okay, back to work.
+    </li>
+</ul>
+<p>
+<strong>
+     Interested?
+    </strong>
+    Great! We look forward to hearing a little more about you and what you do. Make sure your application includes:
+   </p>
+<ul>
+<li>
+     A cover letter that highlights 3 reasons you think you’d be great for the gig. Writing is key to all we do, and we weigh cover letters heavily.
+    </li>
+<li>
+     Your resume
+    </li>
+</ul>
+<p>
+    You will receive an auto-reply confirming that we've received your application.
+   </p>
+<p>
+    If you decide to apply, please know that every complete application will be carefully reviewed. Seriously! We know it is a time commitment to prepare an application. And we respect that effort by thoughtfully reviewing every complete application and responding one way or the other. But that kind of thoughtful review means that it sometimes takes us awhile to get back to applicants, so please
+    <strong>
+     NO PHONE CALLS.
+    </strong>
+    The time we spend responding to phone calls and emails inquiring about where we are in the process is time that we could be spending actually moving the process along – so please be patient with us!
+    <br/>
+<br/>
+<strong>
+     Thanks for your interest in Jellyvision!
+    </strong>
+</p>
+</span>
+
+#title
+tooling-engineer-0

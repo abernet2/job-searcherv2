@@ -1,0 +1,39 @@
+
+
+#position
+Software Developer
+
+#company
+Rocketmiles
+
+#post
+<span class="nj-job-body">
+<p>
+    You will be part of a small team in our West Loop Chicago office and be involved in all facets of the development process and beyond. You should enjoy building new products, playing with APIs and data, and discovering and exploring new technologies and ideas. Our backend is powered by Grails and our front-end is built with Angular.js. Experience with at least one of these frameworks and associated languages is a requirement.
+   </p>
+<div>
+<br/>
+</div>
+<div>
+    Rocket Travel is a place where you:
+    <ul>
+<li>
+      Own decisions and take action that can be implemented in a matter of days.
+     </li>
+<li>
+      Work with intrinsically motivated folks with a track record for building new businesses from scratch
+     </li>
+<li>
+      Receive a competitive compensation package, including bonus, health and dental insurance,and travel benefits
+     </li>
+</ul>
+<div>
+<br/>
+</div>
+</div>
+<p>
+</p>
+</span>
+
+#title
+software-developer-40

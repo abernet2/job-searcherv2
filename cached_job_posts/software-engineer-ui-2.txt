@@ -1,0 +1,162 @@
+
+
+#position
+Software Engineer, UI
+
+#company
+Rise Interactive
+
+#post
+<span class="nj-job-body">
+<span>
+    Rise Interactive (
+   </span>
+<a href="http://www.riseinteractive.com">
+    http://www.riseinteractive.com
+   </a>
+<span>
+    ), a rapidly growing full-service interactive advertising agency, is looking to hire a Software Engineer, UI into the Innovation team.  We are seeking a detail-oriented, highly motivated individual contributor that is excited about joining a new Innovation department and contributing professionally to an entrepreneurial company with an expanding Fortune 500 client base.
+   </span>
+<div>
+<br/>
+<div>
+<div>
+<b dir="ltr">
+       Summary:
+      </b>
+<p>
+       We’re looking for a Software Engineer, UI to help us build out amazing front-ends for our employees and customers alike.  This is an individual contributor role that is expected to contribute to production solutions.
+      </p>
+</div>
+<div>
+</div>
+<div>
+<b>
+       Responsibilities:
+      </b>
+</div>
+<div>
+<div>
+<div>
+<p>
+         We operate as a cross-functional team that specializes when needed but aims to have everyone able to contribute at any layer of the system.   Duties of the Software Engineer, UI include:
+        </p>
+<ul>
+<li dir="ltr">
+<p>
+           Assist in the design of, and implementation of UI changes across our product base and website
+          </p>
+</li>
+<li dir="ltr">
+<p>
+           Develop detailed technical analysis and design specifications based on functional requirements
+          </p>
+</li>
+<li dir="ltr">
+<p>
+           Collaborate heavily with fellow developers, designers and analysts to solve problems
+          </p>
+</li>
+<li dir="ltr">
+<p>
+           Develop complete front-end stack of projects using HTML/CSS and Javascript frameworks
+          </p>
+</li>
+<li dir="ltr">
+<p>
+           Help write new design patterns, improve and adapt existing design component integration
+          </p>
+</li>
+<li dir="ltr">
+<p>
+           Integrate front-end UI with backend services
+          </p>
+</li>
+<li dir="ltr">
+<p>
+           Set and follow coding standards
+          </p>
+</li>
+<li dir="ltr">
+          Debug cross-browser compatibility issues
+         </li>
+</ul>
+<div>
+</div>
+<div>
+<b>
+          Required Skills:
+         </b>
+</div>
+<div>
+<div>
+<div>
+<ul>
+<li dir="ltr">
+<p>
+              Smart, high aptitude to learn new things and sense of urgency to get things done.
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Significant real-world experience developing real products at large scale
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              0+ years experience building highly-scalable interactive web applications
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Programming skills in JavaScript, HTML5, CSS3 and server-side web technologies such as ASP.NET MVC, C#, PHP, etc.
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Some experience writing object-oriented code, especially in Javascript
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Some experience working with database technologies
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Some experience with several Content Management System systems from both a development and administration perspective (SiteCore, DNN, Kentico, etc.)
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Team player – demonstrated experience on a team that shipped a product
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Practical-minded – chooses stability/reliability/maintainability over shiny new objects
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Passionate about technology – ideally you build things outside of work for fun
+             </p>
+</li>
+<li dir="ltr">
+<p>
+              Test-driven development and Agile experience highly desired
+             </p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+software-engineer-ui-2

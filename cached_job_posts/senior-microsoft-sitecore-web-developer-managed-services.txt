@@ -1,0 +1,266 @@
+
+
+#position
+Senior Microsoft/Sitecore Web Developer   Managed Services
+
+#company
+Rightpoint
+
+#post
+<span class="nj-job-body">
+<b>
+    Company Overview
+   </b>
+<p>
+    Rightpoint is an award-winning digital agency and technology consulting firmwith a client base of more than 250 companies, based in Chicago with growing offices in Novi, MI and Denver, CO.  Rightpoint creates world-class digital solutions that drive profitable growth and sustainable competitive advantage.
+   </p>
+<p>
+    Driven by the firm's passion for pragmatic thinking, Rightpoint's business philosophy is to rethink the "typical" consulting model, combining attributes of management consulting, IT consulting, and creative agency services to help clients drive business results by solving strategic problems. Rightpoint’s breadth of services include digital strategy, mobile, social, cloud, CRM and application development.
+   </p>
+<b>
+    Recent accolades include:
+   </b>
+<ul>
+<li>
+     "Top 100 Workplaces in Chicago" by the Chicago Tribune in 2014 &amp; 2015
+    </li>
+<li>
+     One of the "Most Promising Companies in America" by Forbes in 2014
+    </li>
+<li>
+     Microsoft’s National Systems Integrator (NSI) Central Region Partner of the Year in 2014
+    </li>
+<li>
+     Chicago’s “Top 20 Best Places to Work” by Crain's Chicago Business in 2013
+    </li>
+<li>
+     #20 on Crain's "Fast Fifty" in 2014
+    </li>
+<li>
+     One of the “Seven Small Jewels” by Consulting Magazine in 2013
+    </li>
+<li>
+     Among Inc.’s “500 Fastest Growing Private Companies in America” in 2011 &amp; 2013
+    </li>
+</ul>
+<p>
+</p>
+<p>
+    Check out this
+    <strong>
+     quick video
+    </strong>
+    to learn more about Rightpoint and our culture!
+    <b>
+     Job Description
+    </b>
+</p>
+<p>
+    The Senior Microsoft Web Developer - Managed Services will be responsible for building and maintaining internal and external facing web applications for Rightpoint's clients using the Microsoft “stack” including ASP.NET as well as client-side browser technologies (e.g., JavaScript). This person will work independently with the managed services team of Engineers, Developers, and Technical No-Code consultants to develop and enhance previously developed applications, and problem solve issues within client environments.
+   </p>
+<p>
+    This is a role within our Managed Services team, whose goal is to keep client environments running smoothly.  This means that the people in this group need to thrive on being in a fast-paced environment where priorities can shift quickly, be very good at problem-solving, and have outstanding client-management skills. You will be supporting custom applications/solutions that have been previously delivered to Rightpoint’s clients, helping them further extend and/or maintain functionality to accommodate their ever-changing business requirements and processes. In this role, you will be switching context frequently as you will be working on multiple projects at different stages of the project lifecycle simultaneously. It is important that the applicant have a strong background in developing and supporting scalable, maintainable, high-quality, and high performing web applications using the Microsoft technology stack.
+   </p>
+<p>
+<strong>
+     Sample Responsibilities
+    </strong>
+</p>
+<ul>
+<li>
+     Develop and maintain features in .NET custom applications and .NET components of Sitecore or SharePoint solutions based on feature specifications and technical designs
+    </li>
+<li>
+     Contribute to creating feature specifications and technical design schematics
+    </li>
+<li>
+     Troubleshoot, support, and build upon pre-existing technology solutions within existing architecture/patterns
+    </li>
+<li>
+     Contribute to requirements gathering and analysis activities such as storyboarding, developing use cases, and creating functional requirements specifications
+    </li>
+<li>
+     Create database models and build out models using SQL Server, then surface data to user interfaces by using object oriented techniques, often using object-to-relational mappers
+    </li>
+<li>
+     Create web user interfaces using HTML, CSS, and JavaScript (specifically jQuery)
+    </li>
+<li>
+     Create web user interface server-side functionality using ASP.NET Web Forms, ASP.NET MVC, Sitecore, and SharePoint
+    </li>
+<li>
+     Take responsibility for feature-focused unit and system testing (built both by you and others).
+    </li>
+<li>
+     Contribute to facilitating acceptance testing procedures and monitoring results
+    </li>
+<li>
+     Contribute to performance and load testing procedures and issue remediation
+    </li>
+</ul>
+<ul>
+    Required Skills and Abilities
+   </ul>
+<p>
+<strong>
+     Must Have
+    </strong>
+</p>
+<ul>
+<li>
+     Solid understanding of object-oriented programming (OOP) and current design patterns/practices; and when we say solid, we mean SOLID.
+    </li>
+<li>
+     Deep hands-on knowledge of:
+    </li>
+<ul>
+<li>
+      The .NET Framework including Visual Studio, C#, and ASP.NET.
+     </li>
+<li>
+      Client-side browser technologies including JavaScript, CSS, and HTML.
+     </li>
+</ul>
+<li>
+     Experience with designing relational databases and optimizing database structure for performance and/or maintainability and the ability to design and optimize queries.
+    </li>
+<li>
+     Experience with Object Relational Modeling (ORM) with different tools such as Entity Framework (and/or nHibernate) and LINQ.
+    </li>
+<li>
+     Experience with source control, work item tracking, and build management with Team Foundation Server (or similar).
+    </li>
+<li>
+     Consider refactoring a standard part of the development process.
+    </li>
+<li>
+     Focus on making yourself and those around you great.
+    </li>
+<li>
+     Motivation with an emphasis on team performance.
+    </li>
+<li>
+     Passion about building high-quality systems with software implementation best practices.
+    </li>
+<li>
+     Eagerness to learn and work outside your technology comfort zone.
+    </li>
+<li>
+     Ability to be self-motivated, independent, and detail-oriented.
+    </li>
+<li>
+     Exhibit exceptional relationship management skills.
+    </li>
+<li>
+     Demonstrate excellent verbal and written communication skills.
+    </li>
+<li>
+     Knowledge of sound business practices and a proven track record of anticipating and exceeding customer expectations.
+    </li>
+</ul>
+<p>
+<strong>
+     Nice to Have
+    </strong>
+</p>
+<ul>
+<li>
+     Strong experience working with layered architectures (N-Layer, Onion/Hex, DDD, CQRS) and an appreciation for appropriate layering and application structure.
+    </li>
+<li>
+     Hands-on experience building scalable web applications, in particular high frequency and low latency web applications with optimal memory management, performance, and scalability as a key focus.
+    </li>
+<li>
+     Experience in development and implementations using:
+    </li>
+<ul>
+<li>
+      Microsoft SharePoint
+     </li>
+<li>
+      Sitecore
+     </li>
+<li>
+      EPiServer
+     </li>
+<li>
+      Kentico
+     </li>
+<li>
+      Node.js
+     </li>
+<li>
+      Angular
+     </li>
+</ul>
+<li>
+     Experience with Styling and Responsive Design techniques using technologies such as LESS, HTML5, Bootstrap, and SASS.
+    </li>
+<li>
+     Experience with Client-side browser development using jQuery, Knockout, or AngularJS; emphasis on Single Page Applications (SPA).
+    </li>
+<li>
+     Experience with native mobile application development on any platform.
+    </li>
+<li>
+     Experience with Cloud ecosystems including Azure or AWS.
+    </li>
+</ul>
+<p>
+<strong>
+     Extra Credit
+    </strong>
+</p>
+<ul>
+<li>
+     Demonstrate prior consulting experience.
+    </li>
+<li>
+     Exposure to project management experiences is a plus.
+    </li>
+</ul>
+<p>
+    Willingness a to travel to clients located throughout the Chicagoland area as needed.
+   </p>
+<p>
+<strong>
+     Required Education
+    </strong>
+</p>
+<ul>
+<li>
+     Bachelor of Science in Business/Computer Science or related field
+    </li>
+</ul>
+<p>
+<strong>
+     Minimum Requirements
+    </strong>
+</p>
+<ul>
+<li>
+     5 or more years of client consulting experience
+    </li>
+<li>
+     5 or more years of business analysis
+    </li>
+<li>
+     Excellent consulting skills and the ability to work effectively with clients and team members
+    </li>
+<li>
+     Excellent verbal and written communication skills between both the customer and all levels within the organization are required
+    </li>
+<li>
+     Knowledge of sound business practices and a proven track record of exceeding customer expectations and anticipating their needs are also required
+    </li>
+<li>
+     Must be motivated with a focus on team performance
+    </li>
+<li>
+     Willingness to travel
+    </li>
+</ul>
+</span>
+
+#title
+senior-microsoft-sitecore-web-developer-managed-services

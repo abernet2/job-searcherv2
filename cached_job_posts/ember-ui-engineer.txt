@@ -1,0 +1,111 @@
+
+
+#position
+Ember UI Engineer
+
+#company
+iLoan
+
+#post
+<span class="nj-job-body">
+<p>
+    We are looking for an Ember UI Engineer to join our Digital team in Chicago. You'll work as part of a full-stack agile development team to design and implement web applications. The ideal candidate understands how to balance a desire for perfectionism with the need for pragmatism.
+   </p>
+<p>
+    Along with your resume, please submit a link to your GitHub profile as well as any other examples of your work.
+   </p>
+<p>
+<strong>
+     Responsibilities
+    </strong>
+</p>
+<p>
+    ·    Implement client-side applications
+   </p>
+<p>
+    ·    Write automated tests
+   </p>
+<p>
+    ·    Learn new technologies
+   </p>
+<p>
+    ·    Inform API design
+   </p>
+<p>
+    ·    Review Code
+   </p>
+<p>
+    ·    Collaborate with marketing to optimize conversions
+   </p>
+<p>
+<strong>
+     Minimum Qualifications
+    </strong>
+</p>
+<p>
+    ·    3 years of web design and development experience
+   </p>
+<p>
+    ·    1 year using Ember
+   </p>
+<p>
+    ·    Expert in, JavaScript, jQuery, and Git
+   </p>
+<p>
+<strong>
+     Preferred Qualifications
+    </strong>
+</p>
+<p>
+    ·    4 years of web design and development experience
+   </p>
+<p>
+    ·    Experience as UI lead on a public-facing site with $1M+ revenue or 100k+ users
+   </p>
+<p>
+    ·    Full-stack proficiency (HTTP, Ruby on Rails, PostgreSQL)
+   </p>
+<p>
+    ·    Familiarity with the work of Douglas Crockford, Steve Souders, or Ilya Grigorik
+   </p>
+<p>
+<strong>
+     We expect you have opinions about:
+    </strong>
+</p>
+<p>
+    ·    Angular, Materilize, Backbone, Ember, React and their ilk
+   </p>
+<p>
+    ·    Templating languages (haml, slim, liquid, HTMLBars)
+   </p>
+<p>
+    ·    CSS frameworks like Bootstrap and Foundation
+   </p>
+<p>
+    ·    CSS preprocessors (less, sass, stylus)
+   </p>
+<p>
+    ·    Editors (vim, emacs, atom, sublime)
+   </p>
+<p>
+    ·    Testing tools (Jasmine, Mocha, Sauce Labs, QUnit)
+   </p>
+<p>
+    ·    Gulp, Grunt, Middleman
+   </p>
+<p>
+    ·    SMACSS
+   </p>
+<p>
+<strong>
+     And want to attend a couple of conferences, such as:
+    </strong>
+</p>
+<p>
+    ·    Fluent, An Event Apart, or Velocity
+   </p>
+</span>
+
+#title
+ember-ui-engineer

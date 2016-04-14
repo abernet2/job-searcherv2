@@ -1,0 +1,135 @@
+
+
+#position
+Sr. QA Engineer
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<b>
+<u>
+     Overview:
+    </u>
+</b>
+<div>
+<p>
+     kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+    </p>
+<p>
+     The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves, give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+    </p>
+<p>
+     As a Senior QA Engineer your primary mission will be to drive customer confidence by assuring the quality of kCura’s current and future software products.  You will contribute to a motivating Agile environment that empowers teams and individuals to engineer QA efficiencies in practice, through process and with effective tools/techniques, in a brand new, startup-style kCura office in Krakow, Poland.
+    </p>
+<b>
+<u>
+      Responsibilities:
+     </u>
+</b>
+<div>
+<p>
+      Senior QA Engineer is responsible for delivering results for the Product Development department by:
+     </p>
+<ul>
+<li>
+       Identifying and removing risks to quality for kCura’s software products
+      </li>
+<li>
+       Contributing to a Scrum team that solves complex challenges and builds working software
+      </li>
+<li>
+       Raising the collective QA and Development knowledgebase of a product development team
+      </li>
+<li>
+       Providing functional and QA expertise through instruction of team members on how to test our software
+      </li>
+<li>
+       Identifying and resolving software inconsistencies, ambiguities and defects during the design and implementation phase of software building
+      </li>
+<li>
+       Designing, coding, and documenting automated test cases within a defined framework to assure the quality of a functional domain
+      </li>
+<li>
+       Translating existing manual regression test cases into automated tests
+      </li>
+<li>
+       Integrating automated test cases in a continuous integration process
+      </li>
+<li>
+       Defining improved standards and practices for writing software to test software
+      </li>
+<li>
+       Carrying out root cause analysis on defects to ensure fixes are happening in the right way
+      </li>
+<li>
+       Ensuring proper communication on risks to quality
+      </li>
+<li>
+       Improving and adhering to standard operating procedures and the collection of measures put in place to ensure consistency and improvement in the way we test software
+      </li>
+<li>
+       Contributing to the planning process to establish tasks and forecasts for work to be performed
+      </li>
+<li>
+       Asking the right questions, in the right way, at the right time to reduce the introduction of quality risk
+      </li>
+<li>
+       Being an ambassador for Agile QA by practicing principles such as TDD, ATDD and alike
+      </li>
+</ul>
+<b>
+<u>
+       Qualifications:
+      </u>
+</b>
+<div>
+<ul>
+<li>
+        5+ years of providing Software Quality Assurance for commercial-grade systems
+       </li>
+<li>
+        3+ years of experience in writing automated tests
+       </li>
+<li>
+        Bachelor’s degree in Computer Science, Math or related
+       </li>
+<li>
+        Excellent knowledge of testing medium to large software systems
+       </li>
+<li>
+        Knowledge and experience in working with Agile development methodology
+       </li>
+<li>
+        Experience in working with the .NET based applications will be a plus
+       </li>
+<li>
+        Effective communication and teamwork skills
+       </li>
+<li>
+        Fluency in English
+       </li>
+</ul>
+<b>
+<u>
+        About Us:
+       </u>
+</b>
+<div>
+<p>
+        Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+       </p>
+<p>
+<strong>
+         If you’re ready to grow with us, we’d love to hear from you.
+        </strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+sr-qa-engineer-0

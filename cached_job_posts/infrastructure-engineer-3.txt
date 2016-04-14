@@ -1,0 +1,228 @@
+
+
+#position
+Infrastructure Engineer
+
+#company
+Textura Corporation
+
+#post
+<span class="nj-job-body">
+<p>
+    Textura, the
+    <br/>
+    leading provider of collaboration and productivity tools for the
+    <br/>
+    construction industry, is looking for an Infrastructure Engineer to lead
+    <br/>
+    projects and provide support related to our current &amp; future
+    <br/>
+    Windows environment in multiple locations.
+   </p>
+<p>
+    The
+    <br/>
+    Infrastructure Engineer will collaborate as part of a team responsible
+    <br/>
+    for day to day build and management of our Enterprise data center
+    <br/>
+    environments.  The role designs and implements the physical
+    <br/>
+    infrastructure, system operations and management, support methods and
+    <br/>
+    procedures of the Textura production and non-production Microsoft based
+    <br/>
+    server and database environments. Additionally, is responsible for
+    <br/>
+    implementation of monitoring and management tools and techniques to help
+    <br/>
+    guarantee 100% availability across all environments.
+   </p>
+<p>
+    Duties
+    <br/>
+    include configuration, design and implementation of server, network,
+    <br/>
+    and storage solutions (Windows Server, Active Directory, DNS, MS-SQL,
+    <br/>
+    VMware, NetApp, etc.) problem diagnosis and resolution, new service
+    <br/>
+    evaluation and design, testing and analysis of server performance and
+    <br/>
+    capacity planning. The Window Systems Engineer is responsible for
+    <br/>
+    delivering enterprise projects, guidance on architecture and expertise
+    <br/>
+    to business, application support, development and QA teams.
+   </p>
+<p>
+    This
+    <br/>
+    position is ideal for an Infrastructure Engineer who demonstrates an
+    <br/>
+    attitude toward successfully completing projects and accomplishing
+    <br/>
+    goals on time.
+    <br/>
+    Textura seeks those who are customer facing focused, demonstrate
+    <br/>
+    excellent written &amp; verbal communication, and able to collaborate
+    <br/>
+    with multiple teams (Operations, Development, QA, Business
+    <br/>
+    Representatives).
+   </p>
+<p>
+    As
+    <br/>
+    an Infrastructure Engineer, the team member will participate
+    <br/>
+    comfortably with minimal supervision, take ownership, and follow issues
+    <br/>
+    through to completion in order to contribute to the growth and financial
+    <br/>
+    success of the organization.
+   </p>
+<p>
+    Textura will provide a competitive salary, benefits, 401K, bonus program, training, development, and advancement opportunities.
+   </p>
+<p>
+    Please visit our website at
+    <a href="http://www.texturacorp.com to">
+     www.texturacorp.com to
+    </a>
+    learn more about our products and the customers we partner with and service.
+   </p>
+<p>
+    Responsibilities:
+   </p>
+<ul>
+<li>
+     Provide systems and software installation, tuning, backup, DR
+     <br/>
+     and support across production and pre-production environments in
+     <br/>
+     multiple physical locations
+    </li>
+<li>
+     Manages data center and
+     <br/>
+     infrastructure design, physical hardware, Windows server installations,
+     <br/>
+     clustering configurations, virtualization infrastructure
+    </li>
+<li>
+     Installs, configures, monitors, and maintains custom business application software built on the Microsoft stack
+    </li>
+<li>
+     Develop,
+     <br/>
+     implement and maintain tools and pro0cesses for automating system
+     <br/>
+     administration, management, alerting, and monitoring to obtain complete
+     <br/>
+     and proactive view of the systems and user experience
+    </li>
+<li>
+     Maintenance
+     <br/>
+     of hardware and operating system, administration of hosted services,
+     <br/>
+     monitoring system performance, and the implementation and monitoring of
+     <br/>
+     security policies
+    </li>
+<li>
+     Project work will include the planning and
+     <br/>
+     execution of server installations and migrations and the development and
+     <br/>
+     testing of disaster recovery capabilities
+    </li>
+<li>
+     Leads efforts on tuning, performance management and capacity planning for the infrastructure
+    </li>
+<li>
+     Provides subject matter expertise (SME) on the architecture, designs and implementations of new projects and deliverables
+    </li>
+<li>
+     Participate in rotating on-call coverage or emergency response as needed
+    </li>
+<li>
+     Responsible for Application Deployments off hours (estimated once a month)
+    </li>
+</ul>
+<p>
+    Qualifications:
+   </p>
+<ul>
+<li>
+     Minimum 5 years of hands-on Windows Server, Systems and Network
+     <br/>
+     administration experience in an enterprise class, multi-layer,
+     <br/>
+     distributed Web services environment
+    </li>
+<li>
+     Strong experience designing
+     <br/>
+     and maintaining server infrastructure in a large, distributed
+     <br/>
+     environment which cross multiple physical locations on a Microsoft stack
+    </li>
+<li>
+     Hands-on experience with VMware ESX or other virtualization technologies
+    </li>
+<li>
+     Solid knowledge of current hardware platforms and configurations (HP, NetApp, Cisco) including physical installations
+    </li>
+<li>
+     Strong knowledge of TCP/IP, WINS, DNS, DHCP, SMTP, ICA, SMB , AD
+    </li>
+<li>
+     Windows Server – Installation, administration, troubleshooting, IIS configuration
+    </li>
+<li>
+     Experience with system patching technologies and methods, anti-virus, and security controls
+    </li>
+<li>
+     SAN/NAS Configuration and Maintenance (NetApp preferred)
+    </li>
+<li>
+     Strong Windows networking and troubleshooting skills
+    </li>
+<li>
+     Hands-on experience with MS-SQL databases and SQL syntax
+    </li>
+<li>
+     Experience with monitoring and management tools, performance management, capacity planning, reporting
+    </li>
+<li>
+     Ability to write management and monitoring scripts, create automations and system control facilities
+    </li>
+<li>
+     Available and willing to respond to emergencies or cover on call responsibilities as needed
+    </li>
+<li>
+     BS/BA in Computer Science or related discipline or equivalent work experience
+    </li>
+<li>
+     Certifications from Microsoft, VMware or Cisco are preferred
+    </li>
+<li>
+     Additional experience working with Linux and open source platforms a plus
+    </li>
+<li>
+     Strong investigation and problem-solving skills, takes responsibility, deals well with ill-defined problems
+    </li>
+<li>
+     Ability to handle multiple complex projects simultaneously, works under deadlines and subject to heavy project load
+    </li>
+<li>
+     Has the ability to acquire new skills quickly, and thrive in a collaborative team environment
+    </li>
+</ul>
+</span>
+
+#title
+infrastructure-engineer-3

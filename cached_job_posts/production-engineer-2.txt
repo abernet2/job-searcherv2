@@ -1,0 +1,110 @@
+
+
+#position
+Production Engineer
+
+#company
+Braintree
+
+#post
+<span class="nj-job-body">
+<div>
+<div>
+<b>
+      About Us:
+     </b>
+<p>
+      Braintree builds products that make payments easier—so easy that they fade into the background, making entirely new kinds of interactions possible. Interactions like seamlessly paying for your ride share -- or the condo you rented this weekend -- without presenting a card or pressing a button, or buying a lamp on Pinterest...right
+      <b>
+       from
+      </b>
+      Pinterest. The Braintree full-stack payment platform lets companies build their own experiences and then scale their businesses around the globe. We're known for our technology but we're also known for our support, with internal risk and underwriting, account management and technical support teams who ensure a frictionless payments experience.
+     </p>
+<div>
+      Acquired by PayPal in 2013, Braintree is now in an even greater position to change the way people pay. Headquartered in Chicago, Braintree has offices in San Francisco, New York, Sydney, London with employees stationed around the world.
+     </div>
+<p>
+<strong>
+       Production Engineer:
+      </strong>
+</p>
+<p>
+      Our Production team is growing! The Production Engineers embrace Unix systems -- from the production clusters down to the desktop. Single purpose, well designed tools are always preferred over the combination wifi-coffee-maker-ping-pong-table. We enjoy the stability and flexibility Unix based systems provide. You will find us swimming in technical solutions that keep the business engaged and moving forward.
+     </p>
+<p>
+      Our team does work that ranges from debugging dynamic routing protocols, writing nagios checks for an NTP servers, to tweaking the office 802.11b channels to avoid a noisy microwave all in the same day. Our responsibility is to ensure the technology supports and accelerates our business. Stability, scalability, fault tolerance, and automation are key properties of our solutions. We strive to provide our clients with 100% system availability, as we don't make money unless our clients do.
+     </p>
+<p>
+      Responsibilities:
+     </p>
+<ul>
+<li>
+<p>
+        Help us run our software at the high level of availability required for processing payments.
+       </p>
+</li>
+<li>
+<p>
+        Operate the hardware, software, and networking infrastructure that powers the platform handling our customers’ most valuable transactions.
+       </p>
+</li>
+<li>
+<p>
+        Make changes to a production server through puppet or other automation tools.
+       </p>
+</li>
+</ul>
+<p>
+      Qualifications:
+     </p>
+<ul>
+<li>
+<p>
+        2+ years of experience and comfort working with and operating a variety of technologies that power high-scale, high availability transactional systems.
+       </p>
+</li>
+<li>
+<p>
+        Passion about systems that operate reliably via great engineering, automation, and monitoring.
+       </p>
+</li>
+<li>
+<p>
+        Working knowledge of one or several object-oriented or functional programming languages.
+       </p>
+</li>
+</ul>
+<p>
+<strong>
+       We value our people...
+       <br/>
+<br/>
+</strong>
+      -Two paid conference trips annually
+     </p>
+<p>
+      -Open Dev Day twice a month
+     </p>
+<p>
+      -Catered lunches daily
+     </p>
+<p>
+      -Commuter reimbursement program
+     </p>
+<p>
+<strong>
+       Take a look at some of our blog posts and code on GitHub:
+      </strong>
+</p>
+<p>
+      Braintrust
+      <br/>
+<br/>
+      Braintree GitHub
+     </p>
+</div>
+</div>
+</span>
+
+#title
+production-engineer-2

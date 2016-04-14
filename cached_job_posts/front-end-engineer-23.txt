@@ -1,0 +1,83 @@
+
+
+#position
+Front End Engineer
+
+#company
+Label Insight
+
+#post
+<span class="nj-job-body">
+<p>
+    Who we are
+   </p>
+<p>
+    Label Insight is a rapidly growing VC backed start-up growing in the Chicago and St. Louis markets. Starting as FoodEssentials, Label Insight is now the industry's most powerful and innovative consumer facing product data insight exchange for CPG manufacturers and retailers. The industry's largest retailers and manufacturers are looking at the Label Insight platform as an integral solution to manage their product data, increasing their ability to respond to the demands for transparency in the market.  Label Insight's partnership with the FDA, proprietary technology, and scientific data structures set us apart from all other solutions in the industry.
+   </p>
+<p>
+    Our mission has always been to make vast amounts of product label data accessible and easily analyzable.
+   </p>
+<p>
+    What you’ll do
+   </p>
+<p>
+    Our Engineering team is lean, yet effective. As a Front End Engineer, you will be responsible for the client side of our service. Your primary focus will be to implement a complete user interface in the form of a desktop web app, with a focus on performance. You will be responsible for building a world class front end using modern, best practices. You will be a key member of the product team helping us shape and improve the visualization of our SaaS platform for our thousands of users.
+   </p>
+<p>
+    Responsibilities
+   </p>
+<ul>
+<li>
+     Delivering a complete front end application
+    </li>
+<li>
+     Ensuring high performance on mobile and desktop
+    </li>
+<li>
+     Writing tested, idiomatic, and documented JavaScript, HTML and CSS
+    </li>
+<li>
+     Coordinating the workflow between the engineering team
+    </li>
+<li>
+     Cooperating with the Java Engineers in the process of building the RESTful API
+    </li>
+<li>
+     Communicating with external web services
+    </li>
+</ul>
+<p>
+    Skills and Qualifications
+   </p>
+<ul>
+<li>
+     Proficiency with JavaScript and HTML5
+    </li>
+<li>
+     Deep knowledge of any or a combination of AngularJS, EmberJS, ReactJS, RequireJS or similar practices and commonly used modules based on extensive work experience
+    </li>
+<li>
+     Thorough understanding of the responsibilities of the platform, database, API, caching layer, proxies, and other web services used in the system
+    </li>
+<li>
+     Expertise with common, responsive UI web frameworks and development tools. e.g., jQuery, Bootstrap, Sass/LESS, Git, etc
+    </li>
+<li>
+     Creating custom, general use modules and components which extend the elements and modules of core JS frameworks
+    </li>
+<li>
+     Architecting and automating the build process for production, using task runners or scripts
+    </li>
+<li>
+     Knowledge of build and deployment tools such as JsHint/JsLint, gulp, grunt, bower, yoeman etc preferred
+    </li>
+<li>
+     Creating configuration, build, and test scripts for Continuous Integration environments
+    </li>
+</ul>
+<p>
+</p>
+</span>
+
+#title
+front-end-engineer-23

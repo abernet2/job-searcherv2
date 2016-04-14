@@ -1,0 +1,166 @@
+
+
+#position
+Support Developer
+
+#company
+Braintree
+
+#post
+<span class="nj-job-body">
+<div>
+<div>
+<p>
+<b>
+       About Us:
+      </b>
+</p>
+<p>
+      Braintree builds products that make payments easier—so easy that they fade into the background, making entirely new kinds of interactions possible. Interactions like seamlessly paying for your ride share -- or the condo you rented this weekend -- without presenting a card or pressing a button, or buying a lamp on Pinterest...right
+      <b>
+       from
+      </b>
+      Pinterest. The Braintree full-stack payment platform lets companies build their own experiences and then scale their businesses around the globe. We're known for our technology but we're also known for our support, with internal risk and underwriting, account management and technical support teams who ensure a frictionless payments experience.
+     </p>
+<p>
+      Acquired by PayPal in 2013, Braintree is now in an even greater position to change the way people pay. Headquartered in Chicago, Braintree has offices in San Francisco, New York, Sydney, London with employees stationed around the world.
+     </p>
+<p>
+<strong>
+       Support Developer:
+      </strong>
+</p>
+<p>
+      Support Devs at Braintree help merchants in a meaningful way by using their development chops to assist with integration and ongoing support where our APIs are concerned. At heart of what we do best is deliver white glove support for elegant technology. The Support Developer role sits at the intersection of these two things that make us renowned.
+     </p>
+<p>
+<b>
+       Responsibilities:
+      </b>
+</p>
+<ul>
+<li>
+<p>
+        Build integrations in a plethora of languages: Ruby, Python, PHP, Java, Node.js, .NET and more.
+       </p>
+</li>
+<li>
+<p>
+        Define best practices for merchants implementing payment processing logic
+       </p>
+</li>
+<li>
+<p>
+        Update our API documentation and deploy updates
+       </p>
+</li>
+<li>
+<p>
+        Work with our Product Managers to discuss the features that our customers most frequently request
+       </p>
+</li>
+<li>
+<p>
+        Resolve support tickets from merchant developers
+       </p>
+</li>
+<li>
+<p>
+        Explain to a merchant developer why they are seeing behavior they didn’t expect and be able to de-bug a snippet of code
+       </p>
+</li>
+<li>
+<p>
+        Find and fix bugs in our software based on a support question
+       </p>
+</li>
+<li>
+<p>
+        Design a workaround for a use case that’s not yet directly supported
+       </p>
+</li>
+<li>
+<p>
+        Take the occasional incoming phone call from a developer with integration questions
+       </p>
+</li>
+<li>
+<p>
+        Migrate customer data from other payment processors into Braintree’s vault
+       </p>
+</li>
+</ul>
+<p>
+<b>
+       Qualifications:
+      </b>
+</p>
+<ul>
+<li>
+<p>
+        Programming foundation in Ruby + Rails, Python, PHP, Node.js, Java, .NET or any other modern language
+       </p>
+</li>
+<li>
+<p>
+        Working knowledge of one or several object-oriented or functional programming languages.
+       </p>
+</li>
+<li>
+<p>
+        Linux/Unix command line
+       </p>
+</li>
+<li>
+<p>
+        General web development skills in HTML, CSS, or JavaScript
+       </p>
+</li>
+<li>
+<p>
+        SQL a plus
+       </p>
+</li>
+<li>
+<p>
+        Version Control: Git preferred
+       </p>
+</li>
+</ul>
+<p>
+<strong>
+       We value our people...
+      </strong>
+</p>
+<p>
+<strong>
+       -
+      </strong>
+      Two paid conference trips annually
+     </p>
+<p>
+      -Open Dev Day twice a month
+     </p>
+<p>
+      -Catered lunches daily
+     </p>
+<p>
+      -Commuter reimbursement program
+     </p>
+<p>
+<strong>
+       Take a look at some of our blog posts and code on GitHub:
+      </strong>
+</p>
+<p>
+      Braintrust
+      <br/>
+<br/>
+      Braintree GitHub
+     </p>
+</div>
+</div>
+</span>
+
+#title
+support-developer-3

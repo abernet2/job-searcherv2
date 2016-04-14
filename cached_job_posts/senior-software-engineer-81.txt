@@ -1,0 +1,84 @@
+
+
+#position
+Senior Software Engineer
+
+#company
+Braintree
+
+#post
+<span class="nj-job-body">
+<div>
+<p>
+<b>
+      About Braintree
+     </b>
+</p>
+<p>
+     Braintree builds products that make payments easier—so easy that they fade into the background, making entirely new kinds of interactions possible. Interactions like seamlessly paying for your ride share -- or the condo you rented this weekend -- without presenting a card or pressing a button, or buying a lamp on Pinterest...right
+     <b>
+      from
+     </b>
+     Pinterest. The Braintree full-stack payment platform lets companies build their own experiences and then scale their businesses around the globe. We're known for our technology but we're also known for our support, with internal risk and underwriting, account management and technical support teams who ensure a frictionless payments experience.
+    </p>
+<div>
+     Acquired by PayPal in 2013, Braintree is now in an even greater position to change the way people pay. Headquartered in Chicago, Braintree has offices in San Francisco, New York, Sydney, London with employees stationed around the world.
+    </div>
+<p>
+<b>
+      Take a look at how we work:
+     </b>
+</p>
+<p>
+     We are polyglots...
+    </p>
+<p>
+     Although most of our software is written in Ruby, we don’t confine ourselves to a single programming language. We believe in using the best tool for the job while maintaining a slight bias toward the tools the team knows the best. We’ve written infrastructure components in Python, and we build client libraries for integrating with Braintree in Ruby, Python, Node.js, PHP, Java, and .NET.
+    </p>
+<p>
+     We pair program…
+    </p>
+<p>
+     We work on Macbook Pros with two keyboards and dual 27" cinema displays. We work in an open team room; no cubicles or private offices. Communication is key to our process, and we don't want to hinder it with walls.
+     <br/>
+<br/>
+     We test...
+     <br/>
+<br/>
+     Testing is at the forefront of our development philosophy. We never need to check our code coverage to know that it's at 100%: with disciplined TDD, no line of code will be written without a test. We're confident that our automated testing is thorough and will catch any regression bugs - and that’s critical given the software we write! We use continuous integration to test every version of every client library against our gateway.
+    </p>
+<p>
+     We are agile...
+    </p>
+<p>
+     Agile development methodologies mean different things to different people. For us, the most important part of Agile is doing what works best for the team. We have a story card wall and release a few times a week. We keep the team in sync with daily stand-ups and have a retrospective once a month to discuss things that are going well and opportunities for improvements. We’re pragmatic, not dogmatic. Although we have strong opinions, we're never afraid to try to new things to see if they work and reconsider our positions if the situation warrants it.
+     <br/>
+<br/>
+     We value our people...
+    </p>
+<p>
+     -Two paid conference trips annually
+    </p>
+<p>
+     -Open Dev Day twice a month
+    </p>
+<p>
+     -Catered lunches daily
+    </p>
+<p>
+     -Commuter reimbursement program
+    </p>
+<p>
+     Take a look at some of our blog posts and code on GitHub:
+    </p>
+<p>
+     Braintrust
+     <br/>
+<br/>
+     Braintree GitHub
+    </p>
+</div>
+</span>
+
+#title
+senior-software-engineer-81

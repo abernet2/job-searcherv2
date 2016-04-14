@@ -1,0 +1,119 @@
+
+
+#position
+Sr. Software Engineer
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<div>
+<b>
+<u>
+      Overview:
+     </u>
+</b>
+<div>
+<p>
+      kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+     </p>
+<p>
+      The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves, give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+     </p>
+<p>
+      The Sr. Software Engineer  is responsible for delivering results for the Product Development department by:
+     </p>
+<p>
+<br/>
+      • Contributing to an Agile team that solves complex challenges and builds working software
+      <br/>
+      • Rapidly producing high quality code
+      <br/>
+      • Being a dependable and highly skilled development resource for peers
+     </p>
+</div>
+</div>
+<b>
+<u>
+     Responsibilities:
+    </u>
+</b>
+<div>
+<p>
+     The Sr. Software Engineer performs the following functions, in addition to others, in the administration of their position:
+    </p>
+<p>
+     • Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code.
+    </p>
+<p>
+     • Prepares and installs solutions by determining and designing system specifications, standards, and programming.
+    </p>
+<p>
+     • Improves operations by conducting systems analysis, recommending changes in policies and procedures.
+    </p>
+<p>
+     • Encourages pair programming and collaborative design
+    </p>
+<p>
+     • Thinks out loud- Consistently communicates ideas to others
+    </p>
+<p>
+     • Provides development expertise to team members  through education and review
+    </p>
+<p>
+     • Always open to new ideas and encourages innovative practices amongst peers
+    </p>
+<p>
+     • Works collaboratively with QA professionals to encourage defect prevention over detection
+    </p>
+<p>
+     • May be required to handle technical support calls after hours about two times a year. If Client Services is working on a ticket and they are not able to solve an urgent issue, they will reach out to the level I developer to assist to get the issue resolved.
+    </p>
+<p>
+     In addition to the above responsibilities, the Senior Software Engineer is expected to display professionalism in the following ways:
+    </p>
+<p>
+     • Maintain an attitude of commitment through outward display of willingness
+    </p>
+<p>
+     • Practice positive interactions - lean on encouragement in place of judgment
+    </p>
+<p>
+     • Impress responsibility on others by displaying ownership in tasks
+    </p>
+<p>
+     • Act in the best interest of the overall team
+    </p>
+<b>
+<u>
+      Qualifications:
+     </u>
+</b>
+<div>
+<p>
+      • Bachelor’s Degree or equivalent in Computer Science or related disciplines
+      <br/>
+      • 7+ years of software development of commercial-grade systems and applications with a proven track record of building and leading successful engineering teams
+     </p>
+<b>
+<u>
+       About Us:
+      </u>
+</b>
+<div>
+<p>
+       Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+      </p>
+<p>
+<strong>
+        If you’re ready to grow with us, we’d love to hear from you.
+       </strong>
+</p>
+</div>
+</div>
+</div>
+</span>
+
+#title
+sr-software-engineer-27

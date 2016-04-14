@@ -1,0 +1,133 @@
+
+
+#position
+Sr. Software Engineer   Tools Engineer
+
+#company
+kCura
+
+#post
+<span class="nj-job-body">
+<b>
+<u>
+     Overview:
+    </u>
+</b>
+<div>
+<p>
+     kCura is a global company with team members who are driven by our customers to build exceptional software for them to use every day. Our product, called Relativity, handles large volumes of data and helps corporations, law firms, and government agencies solve their own unique data problems.
+    </p>
+<p>
+     The way we work together is centered on our core values of collaborating, communicating, pushing to exceed expectations (even our own), being humble, and having fun while we do it. We enjoy ourselves, give back, and work (and play) hard together. If this sounds like the place for you, check out the details of this position below.
+    </p>
+</div>
+   Improve and maintain the Product Development the infrastructure, tools, and scripts responsible for housing and building our code products. Innovate processes and set standards for quality among the team.
+   <div>
+<b>
+<br/>
+</b>
+</div>
+<div>
+<b>
+<u>
+      Responsibilities:
+     </u>
+</b>
+<div>
+<p>
+      · Build and maintain high-performance, scalable systems and tools to support kCura’s Agile development teams
+     </p>
+<p>
+      · Develop and deliver desktop engineering platforms that ensure new onboarders, experienced kCura engineers and managers are able to view, contribute, review, and run kCura source
+     </p>
+<p>
+      · Work closely with other engineers within your group and across the engineering organizations
+     </p>
+<p>
+      · Develop solutions to complex problems relating to engineering systems
+     </p>
+<p>
+      · Identify and drive opportunities to improve automation for the company; scope and create automation for deployment, management, and visibility of our services
+     </p>
+<p>
+      · Participate in code reviews for projects written by your team
+     </p>
+<p>
+      · Participate in design reviews for new and existing services and platforms
+     </p>
+<p>
+      · Influence the use of industry leading development platforms and process at kCura
+     </p>
+<b>
+<u>
+       Qualifications:
+      </u>
+</b>
+<div>
+<p>
+       · Experience with infrastructure and distributed systems
+      </p>
+<p>
+       · Code using Python, C#, Go
+      </p>
+<p>
+       · Experience with software engineering best practices: unit testing, code reviews, design documentation, excellent debugging, troubleshooting skills
+      </p>
+<p>
+       · Experience administering Git (BitBucket preferred)
+      </p>
+<p>
+       · Experience in Windows Server administration
+      </p>
+<p>
+       · Experience in PowerShell and other scripting languages
+      </p>
+<p>
+       · Experience with Visual Studio
+      </p>
+<p>
+       · Excellent communication &amp; enthusiasm
+      </p>
+<p>
+       · Experience working on an Agile development team
+      </p>
+<p>
+       · Experience coaching team members
+      </p>
+<p>
+       · Experience reviewing code
+      </p>
+<p>
+       · Bachelors in Computer Science, Engineering, or similar technical degree, or work experience
+      </p>
+<p>
+       · 5+ years of software development of commercial-grade systems and applications
+      </p>
+<p>
+       · 2+ years’ experience coaching team members (ex: reviewing code, design sessions)
+      </p>
+<p>
+       You may also be required to handle 2nd level technical support calls after hours about 1 week per month depending on the size of your team.  If Client Services is working on a ticket and they are not able to solve an urgent issue, they will reach out to the developer on-call to assist with resolving the issue.
+      </p>
+<b>
+<u>
+        About Us:
+       </u>
+</b>
+<div>
+<p>
+        Our software has more than 130,000 active users in more than 40 countries from organizations including the U.S. Department of Justice and more than 190 of the Am Law 200. We have grown significantly over the last several years and continue striving to build software that helps solve our customers’ toughest e-discovery and unstructured data challenges.
+       </p>
+<p>
+<strong>
+         If you’re ready to grow with us, we’d love to hear from you.
+        </strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</span>
+
+#title
+sr-software-engineer-tools-engineer

@@ -1,0 +1,81 @@
+
+
+#position
+Java Software Engineer
+
+#company
+Label Insight
+
+#post
+<span class="nj-job-body">
+<p>
+    What you will do
+   </p>
+<p>
+    You will be a key member of the software engineering team helping us shape, improve and scale our architecture and systems for all packaged goods, not only including food.  This role requires candidates who are innovative, iterative, and analytical with an outside the box mind set.
+   </p>
+<p>
+<span>
+     About you
+    </span>
+</p>
+<ul>
+<li>
+     You are excited and passionate about new and emerging technologies in web and software development.
+    </li>
+<li>
+     You take responsibility for code quality and use of best practices across the development team through code reviews
+    </li>
+<li>
+     You design and develop features with a focus on usability through a close relationship with business owners and a solid understanding of the end user needs
+    </li>
+<li>
+     You proactively seek out and help us minimize pain points within our infrastructure, code base and development process
+    </li>
+<li>
+     You stay abreast of the latest technologies
+    </li>
+<li>
+     You enjoy working with Big Data to create optimized digitization of data processes.
+    </li>
+<li>
+     Working closely with a development team is something you have done and enjoy
+    </li>
+<li>
+     You’re able to manage your own time, whether working on a team in a collaborative environment or working independently
+    </li>
+</ul>
+<p>
+<span>
+     Your Creds
+    </span>
+</p>
+<ul>
+<li>
+<span>
+      3+ years experience developing in multi-tier application environments including web service integration
+     </span>
+</li>
+<li>
+     Experience in object oriented development and familiarity with the following technologies: Java, JSON, XML, JSP and Servlet containers (e.g. Tomcat), RDBMS, Continuous Integration tools (e.g Jenkins)
+    </li>
+<li>
+     Experience with Java frameworks and tools for example: MVC, Spring and Hibernate
+    </li>
+<li>
+     Experience integrating with REST APIs is preferred
+    </li>
+<li>
+     Experience with source control is preferred
+    </li>
+<li>
+     Any experience with Big Data solutions is a plus
+    </li>
+<li>
+     Strong attention to detail, good communications skills and a positive attitude
+    </li>
+</ul>
+</span>
+
+#title
+java-software-engineer-4

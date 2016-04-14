@@ -1,0 +1,152 @@
+
+
+#position
+UI Engineer
+
+#company
+iLoan
+
+#post
+<span class="nj-job-body">
+<p>
+    We are looking for a UI Engineer to join our Digital team in Chicago. You'll work as part of a full-stack agile development team to design and implement web applications. The ideal candidate understands how to balance a desire for perfectionism with the need for pragmatism.
+   </p>
+<p>
+<strong>
+     What we will want you to do:
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      Learn new technologies
+     </span>
+</li>
+<li>
+<span>
+      Inform API design
+     </span>
+</li>
+<li>
+<span>
+      Review code
+     </span>
+</li>
+<li>
+<span>
+      Collaborate with marketing to optimize conversions
+     </span>
+</li>
+</ul>
+<p>
+<strong>
+     Minimum Skills or Experience we want you to have:
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      3 years of web design and development experience
+     </span>
+</li>
+<li>
+<span>
+      Proficient in JavaScript, jQuery, and Git
+     </span>
+</li>
+</ul>
+<p>
+<strong>
+     Preferred Skills or Experience we want you to have:
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      4 years of web design and development experience
+     </span>
+</li>
+<li>
+<span>
+      Experience as UI lead on a public-facing site with $1M+ revenue or 100k+ users
+     </span>
+</li>
+<li>
+<span>
+      Full-stack proficiency (HTTP, Ruby on Rails, PostgreSQL)
+     </span>
+</li>
+<li>
+<span>
+      Experience with linux/unix
+     </span>
+</li>
+</ul>
+<p>
+<strong>
+     We expect you to have opinions about:
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      Angular, Materialize, Backbone, Ember, React and their ilk
+     </span>
+</li>
+<li>
+<span>
+      Templating languages (haml, slim, liquid, HTMLBars)
+     </span>
+</li>
+<li>
+<span>
+      CSS frameworks like Bootstrap and Foundation
+     </span>
+</li>
+<li>
+<span>
+      CSS preprocessors (less, sass, stylus)
+     </span>
+</li>
+<li>
+<span>
+      Editors (vim, emacs, atom, sublime)
+     </span>
+</li>
+<li>
+<span>
+      Testing tools (Jasmine, Mocha, SauceLabs, QUnit)
+     </span>
+</li>
+<li>
+<span>
+      SMACSS
+     </span>
+</li>
+<li>
+<span>
+      Mobile first design strategy
+     </span>
+</li>
+<li>
+<span>
+      Optimal user experience and design
+     </span>
+</li>
+</ul>
+<p>
+<strong>
+     And want to attend a couple of conferences, such as:
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      Fluent, An Event Apart, or Velocity
+     </span>
+</li>
+</ul>
+</span>
+
+#title
+ui-engineer-7

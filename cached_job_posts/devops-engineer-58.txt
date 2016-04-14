@@ -1,0 +1,140 @@
+
+
+#position
+DevOps Engineer
+
+#company
+Persio
+
+#post
+<span class="nj-job-body">
+<p>
+<strong>
+     The Gig:
+    </strong>
+</p>
+<p>
+<span>
+     Persio’s offering and development environment are hosted on Amazon Web Services (AWS) because it’s cost effective, efficient and scalable. The DevOps Engineer will be integral to our ongoing success as we continue to enhance our platform and change the game for retail marketers. We seek candidates to guide the development of the tools used to deploy and optimize our applications; all while scaling a growing cloud infrastructure. This position reports directly to our CTO and will work with all members of the engineering team.
+    </span>
+</p>
+<p>
+<strong>
+     What you'll do right away:
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      Continued scaling and optimization of our cloud infrastructure: day-to-day management and development of new architecture to accommodate future growth
+     </span>
+</li>
+<li>
+<span>
+      Work with engineering team to determine how to best leverage tools and techniques involving infrastructure as code, configuration management and other DevOps-type techniques to improve delivery quality, speed and experience
+     </span>
+</li>
+<li>
+<span>
+      Develop and maintain tools for application deployment
+     </span>
+</li>
+<li>
+<span>
+      Develop and maintain automated tests to monitor and optimize platform
+     </span>
+</li>
+</ul>
+<p>
+<strong>
+     What you’ll always do :
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      Explore new technologies to keep ahead of the curve for effective systems deployment and monitoring. Create custom tools to build, test, deploy and monitor systems in production and development
+     </span>
+</li>
+<li>
+<span>
+      Continuously improve our infrastructure to be easy to deploy, scalable, secure, and fault-tolerant
+     </span>
+</li>
+<li>
+<span>
+      Infrastructure cost containment, forecasting and budgeting
+     </span>
+</li>
+<li>
+     Integration of software stacks and applicable components
+    </li>
+</ul>
+<p>
+<strong>
+     Some of your skills and experiences:
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      2+ years experience in a Ops/DevOps role managing scalable deployments within a cloud infrastructure, preferably based on AWS.
+     </span>
+</li>
+<li>
+<span>
+      Hands on experience with multiple AWS services such as EC2, auto scale groups, RDS, VPC, Cloudwatch.
+     </span>
+</li>
+<li>
+<span>
+      Experience with log management solutions such as Splunk, Loggly, etc.
+     </span>
+</li>
+<li>
+<span>
+      Proficiency in Linux, MySQL, Postgres
+     </span>
+</li>
+<li>
+<span>
+      Knowledge of multiple scripting languages: shell, perl, python, etc.
+     </span>
+</li>
+<li>
+<span>
+      Prior work in a growth stage organization a huge plus
+     </span>
+</li>
+<li>
+<span>
+      Good interpersonal skills and ability to communicate effectively
+     </span>
+</li>
+<li>
+<span>
+      Collaborative team player with ability to implement creative ideas
+     </span>
+</li>
+</ul>
+<p>
+<strong>
+     Really nice to haves:
+    </strong>
+</p>
+<ul>
+<li>
+<span>
+      AWS DevOps Engineer Certification
+     </span>
+</li>
+<li>
+<span>
+      Background in BOTH server administration and software development
+     </span>
+</li>
+</ul>
+</span>
+
+#title
+devops-engineer-58
