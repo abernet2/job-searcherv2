@@ -6,6 +6,9 @@ from django.db import models
 class Company(models.Model):
     name = models.CharField(max_length=200)
 
+    def __str__(self):
+        return self.name
+
 class JobPost(models.Model):
     url = models.CharField(max_length=200)
     position = models.CharField(max_length=150)

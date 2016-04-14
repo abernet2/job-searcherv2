@@ -3,13 +3,15 @@ import os
 from helpers.utils import write, gets, titleize
 from header_puller import header_puller as pull
 
-DIR = 'cached_job_posts/'
+BASE = os.path.dirname(__file__)
+DIR = '{}/cached_job_posts/'.format(BASE)
 class JobPost:
     def __init__(self, **kwargs):
         self.title = kwargs['title']
         self.company = kwargs['company']
         self.post = kwargs['post']
         self.position = kwargs['position']
+        self.content = pull(self.post)
         
     def save_cache(self, attrs={}):
         f = self.file_name()
@@ -23,10 +25,11 @@ class JobPost:
         return DIR + self.title + '.txt'
 
     def headers(self):
-        return pull(self.post).keys()
+        return self.content.keys()
 
     @classmethod
     def all(cls):
+        print(DIR)
         return [JobPost.load_cache(f) for f in os.listdir(DIR) if '.txt' in f]
 
     @classmethod
