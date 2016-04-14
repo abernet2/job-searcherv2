@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'job_parser.apps.JobParserConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
