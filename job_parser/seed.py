@@ -1,18 +1,19 @@
 import models as m
 
-from builtin_post import BuiltinPost
+from job_post import JobPost
 
 BASE = "http://www.builtinchicago.org/job/"
 url = lambda title: BASE + title
 
 def seed():
-    posts = BuiltinPost.all()
+    posts = JobPost.all()
     for post in posts:
         make_models(post)
 
 def make_models(post):
-    comp = m.Company(name=post.company)
-    comp.save()
+    comp = m.Company.objects.get_or_create(name=post.company)[0]
+    print(comp)
+    # comp.save()
     jp = m.JobPost(url=url(post.title),
                     position=post.position,
                     company=comp )

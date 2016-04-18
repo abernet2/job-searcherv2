@@ -3,15 +3,13 @@ from bs4 import BeautifulSoup
 from helpers.utils import gets, puts, find_span, write, titleize, is_url, clean_company, clean_position
 from job_post import JobPost
 
-class BuiltinPost(JobPost):
-    def __init__(self, html, title):
-        attrs = {'title': title}
-        attrs = extract(html, attrs)
-        JobPost.__init__(self, **attrs)
+def parse_built_in(url):
+    attrs = extract(gets(url))
+    attrs['title'] = titleize(url)
+    return JobPost(attrs)
 
-    @classmethod
-    def parse(cls, url):
-        return BuiltinPost(gets(url), titleize(url)) 
+def parse(url):
+    return BuiltinPost(gets(url), titleize(url)) 
 
 def extract(html, attrs={}):
     soup = BeautifulSoup(html, 'html.parser')
@@ -20,12 +18,6 @@ def extract(html, attrs={}):
     attrs['post'] = unicode(soup.find('span', {'class': 'nj-job-body'}))
     return attrs
 
-def checked_url(str):
-    cache = BuiltinPost.load_cache(titleize(str))
-    return False if cache else is_url(str)
-
-# def clean_company(company):
-
-
 if __name__ == '__main__':
-    print(clean_company('Raise.com'))
+    page = parse_built_in("http://www.builtinchicago.org/job/account-executive-getaways")
+    print(page)

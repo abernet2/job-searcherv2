@@ -6,7 +6,7 @@ from header_puller import header_puller as pull
 BASE = os.path.dirname(__file__)
 DIR = '{}/cached_job_posts/'.format(BASE)
 class JobPost:
-    def __init__(self, **kwargs):
+    def __init__(self, kwargs):
         self.title = kwargs['title']
         self.company = kwargs['company']
         self.post = kwargs['post']
@@ -29,7 +29,6 @@ class JobPost:
 
     @classmethod
     def all(cls):
-        print(DIR)
         return [JobPost.load_cache(f) for f in os.listdir(DIR) if '.txt' in f]
 
     @classmethod
@@ -54,6 +53,5 @@ def normalize(file, dire):
     return file
 
 if __name__ == '__main__':
-    # j = JobPost(company='c', post='p', position='pos', title='t')
     j = JobPost.load_cache(DIR + 'android-developer-26.txt')
     print(j.headers())

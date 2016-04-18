@@ -4,15 +4,18 @@ from django.db import models
 
 # Create your models here.
 class Company(models.Model):
-    name = models.CharField(max_length=200)
+    name = models.CharField(max_length=200, unique=True)
 
     def __str__(self):
         return self.name
 
 class JobPost(models.Model):
-    url = models.CharField(max_length=200)
+    url = models.CharField(max_length=200, unique=True)
     position = models.CharField(max_length=150)
     company = models.ForeignKey(Company, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.position
 
 # will eventually add a foreign key for headers
 class PostHeader(models.Model):
