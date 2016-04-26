@@ -20,7 +20,9 @@ class JobPost(models.Model):
 # will eventually add a foreign key for headers
 class PostHeader(models.Model):
     orig_header = models.CharField(max_length=200)
-    post = models.ForeignKey(JobPost, on_delete=models.CASCADE)
+    job_post = models.ForeignKey(JobPost)
+    def __str__(self):
+        return self.orig_header
 
 class Content(models.Model):
     text = models.CharField(max_length=1000)

@@ -43,7 +43,7 @@ class JobPost:
         attrs['position'] = match[1].strip()
         attrs['company'] = match[2].strip()
         attrs['post'] = match[3].strip()
-        return cls(**attrs) if construct else attrs
+        return cls(attrs) if construct else attrs
 
 def normalize(file, dire):
     if dire not in file:
