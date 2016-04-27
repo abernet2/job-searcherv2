@@ -1,0 +1,36 @@
+<head>
+  <script type='text/javascript' src='/static/js/models.js'></script>
+</head>
+<body>
+  <form action="" id='edit-job-post'>
+    <input type="text" value={{post.url}}><br>
+    <input type="text" value={{post.position}}><br>
+    <label for="">Headers<br></label>
+    {% for header in post.postheader_set.all %}
+      <p>{{header.orig_header}}</p>
+      <!-- <input type='text' value={{header.orig_header}}><br> -->
+      {% for content in header.content_set.all %}
+        <div class='content'>
+          <textarea name="{{content.id}}" id="" cols="30" rows="10">{{content.text}}</textarea>
+          <a class='delete-content' href='#'>X</a>
+        </div>
+      {% endfor %}
+    {% endfor %}
+    <input type="submit">
+  </form>
+</body>
+
+<script type='text/javascript'>
+  (function(){
+    var form = document.getElementById('edit-job-post');
+    form.addEventListener('click', function(e){
+      if(e.target.className === 'delete-content'){
+        e.preventDefault();
+        var text = e.target.previousElementSibling;
+        var id = text.name;
+        console.log(id);
+        // debugger;
+      }
+    });
+  }())
+</script>

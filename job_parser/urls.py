@@ -1,7 +1,8 @@
 from django.conf.urls import url
-from . import views
+from views import job_post
 
 urlpatterns = [
-    url(r'^$', views.index, name='index'),
-    url(r'^(?P<job_post_id>[0-9]+)/$', views.job_post.show, name='show'),
+    url(r'^$', job_post.index, name='index'),
+    url(r'^(?P<job_post_id>[0-9]+)/$', job_post.show, name='show'),
+    url(r'^(?P<job_post_id>[0-9]+)/edit$', job_post.edit, name='edit'),
 ]
