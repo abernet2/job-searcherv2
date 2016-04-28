@@ -1,5 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from django.views.decorators.csrf import csrf_exempt
+
 
 from ..models import job_post as models
 
@@ -11,6 +13,7 @@ def index(request):
     }
     return HttpResponse(render(request, 'job_post/index.html', context))
 
+@csrf_exempt
 def show(request, job_post_id):
     post = models.JobPost.objects.get(id=job_post_id)
     context = {

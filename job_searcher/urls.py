@@ -19,6 +19,6 @@ from django.conf import settings
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^job_parser/', include('job_parser.urls')),
+    url(r'^job_post/', include('job_parser.urls')),
 ] + static.static(settings.STATIC_URL,
 document_root=settings.STATIC_ROOT)

@@ -1,5 +1,7 @@
 <head>
   <script type='text/javascript' src='/static/js/models.js'></script>
+  <script type='text/javascript' src='/static/js/jquery-2.2.3.min.js'></script>
+  <script type='text/javascript' src='/static/js/ramda.min.js'></script>
 </head>
 <body>
   <form action="" id='edit-job-post'>
@@ -10,9 +12,10 @@
       <p>{{header.orig_header}}</p>
       <!-- <input type='text' value={{header.orig_header}}><br> -->
       {% for content in header.content_set.all %}
-        <div class='content'>
-          <textarea name="{{content.id}}" id="" cols="30" rows="10">{{content.text}}</textarea>
-          <a class='delete-content' href='#'>X</a>
+        <div class='content {{content.id}}'>
+          <p>{{content.text}}</p>
+          <a class='delete-content' href='content/{{content.id}}'>Delete</a>
+          <a class='edit-content' href='content/{{content.id}}'>Edit</a>
         </div>
       {% endfor %}
     {% endfor %}
@@ -22,15 +25,65 @@
 
 <script type='text/javascript'>
   (function(){
-    var form = document.getElementById('edit-job-post');
-    form.addEventListener('click', function(e){
-      if(e.target.className === 'delete-content'){
-        e.preventDefault();
-        var text = e.target.previousElementSibling;
-        var id = text.name;
-        console.log(id);
-        // debugger;
+    var $form = $('#edit-job-post');
+    var {JobPost, Content} = import_models();
+
+    function extractFromContent(e) {
+      e.preventDefault();
+      var parent = e.target.parentElement,
+          id = parent.classList[1];
+      return {id};
+    }
+
+    function _delete(data) {
+      var promise = JobPost.deleteContent(data);
+      // searching the DOM not ideal
+      promise.done(function(){
+        $('.content.'+data.id).toggle();
+      });
+    }
+
+    function _edit(data) {
+      var $content = $('.content.'+data.id),
+          text = $content.find('p').text(),
+          promise;
+
+
+      if ($content.find('textarea').length) {
+        $content.children().toggle();
       }
-    });
+      else {
+        $content.children().toggle();
+        Content.getEditable(data.id).done(function(textarea){
+          $content.append(textarea);
+        });
+      }
+    }
+
+    function _submit(data) {
+      var $content = $('.content.'+data.id),
+          text = $content.find('textarea').text(),
+          promise;
+
+      promise = Content.update(data.id, text);
+      promise.done(_edit.bind(null, data));
+    }
+
+    function _cancel(data) {
+      var $content = $('.content.'+data.id);
+      $content.children().toggle();
+    }
+
+    $form.on('click', '.delete-content', 
+        R.compose(_delete, extractFromContent));
+
+    $form.on('click', '.edit-content',
+        R.compose(_edit, extractFromContent));
+
+    $form.on('click', '.cancel-content',
+        R.compose(_cancel, extractFromContent));
+
+    $form.on('click', '.submit-content',
+        R.compose(_submit, extractFromContent));
   }())
 </script>
