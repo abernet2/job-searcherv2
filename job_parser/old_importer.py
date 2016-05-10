@@ -1,5 +1,5 @@
 import os
-from builtin_post import BuiltinPost
+import builtin_parser
 from helpers.utils import gets, titleize
 
 OLD_DIR = 'cached_pages/'

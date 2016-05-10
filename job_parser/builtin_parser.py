@@ -3,13 +3,10 @@ from bs4 import BeautifulSoup
 from helpers.utils import gets, puts, find_span, write, titleize, is_url, clean_company, clean_position
 from job_post import JobPost
 
-def parse_built_in(url):
+def parse(url):
     attrs = extract(gets(url))
     attrs['title'] = titleize(url)
     return JobPost(attrs)
-
-def parse(url):
-    return BuiltinPost(gets(url), titleize(url)) 
 
 def extract(html, attrs={}):
     soup = BeautifulSoup(html, 'html.parser')
@@ -19,5 +16,5 @@ def extract(html, attrs={}):
     return attrs
 
 if __name__ == '__main__':
-    page = parse_built_in("http://www.builtinchicago.org/job/account-executive-getaways")
-    print(page)
+    page = parse("http://www.builtinchicago.org/job/account-executive-getaways")
+    print(page.company)

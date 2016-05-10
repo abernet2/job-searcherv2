@@ -56,7 +56,7 @@ ROOT_URLCONF = 'job_searcher.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['job_searcher/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
