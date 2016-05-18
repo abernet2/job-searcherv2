@@ -13,6 +13,7 @@ $(document).ready(function(){
         })
         .then(formatPosts)
         .done(insertPosts)
+        .fail($button.children('input').attr.bind($button.children('input'), 'value'))
     }
 
     function formatPosts(posts) {
