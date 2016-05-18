@@ -1,0 +1,14 @@
+<h3>Fetching more jobs</h3>
+<a href="/job_post">Return To Job Posts</a>
+
+<ul>
+{% for post in pages %}
+  {% if post %}
+  <li>
+    <a href='{{post.id}}'>
+      {{post.position}}
+    </a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>

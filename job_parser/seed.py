@@ -11,16 +11,23 @@ url = lambda title: BASE + title
 def seed():
     posts = JobPost.all()
     for post in posts:
-        make_models(post)
+        try:
+            make_models(post)
+        except:
+            print "Oops theres an error at"
 
 def make_models(post):
     comp = m.Company.objects.get_or_create(name=post.company)[0]
     print(post)
     comp.save()
-    jp = m.JobPost.objects.get_or_create(url=url(post.title),
+    try:
+        jp = m.JobPost.objects.get_or_create(url=url(post.title),
                     position=post.position,
                     company=comp )[0]
-    jp.save()
+        jp.save()
+    except:
+        print "Oops theres an error at" + url(post.title)    
+        return
 
     for h in post.content:
         ph = m.PostHeader.objects.get_or_create(orig_header=h, job_post=jp)[0]
@@ -32,6 +39,8 @@ def make_models(post):
         else:
             cont = m.Content(text=post.content[h], post_header=ph)
             cont.save()
+
+    return jp
 
 
 

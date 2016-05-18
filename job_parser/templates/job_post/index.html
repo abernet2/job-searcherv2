@@ -1,3 +1,12 @@
+<head>
+  <script type='text/javascript' src='/static/js/models.js'></script>
+  <script type='text/javascript' src='/static/js/jquery-2.2.3.min.js'></script>
+  <script type='text/javascript' src='/static/js/ramda.min.js'></script>
+</head>
+<h1>Builtin Chicago Job Posts</h1>
+<form action="parse" method='post'>
+  <input type="submit" value='Get More Posts'>
+</form>
 <ul>
   {% for post in posts %}
     <li>
@@ -7,3 +16,4 @@
     </li>
   {% endfor %}
 </ul>
+<script src='../../static/js/job_post/app.js' type='text/javascript'></script>

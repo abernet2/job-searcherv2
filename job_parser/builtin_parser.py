@@ -1,12 +1,15 @@
 import os
 from bs4 import BeautifulSoup
 from helpers.utils import gets, puts, find_span, write, titleize, is_url, clean_company, clean_position
-from job_post import JobPost
+
+import seed
+from job_post import JobPost 
 
 def parse(url):
     attrs = extract(gets(url))
     attrs['title'] = titleize(url)
-    return JobPost(attrs)
+    post = JobPost(attrs)
+    return seed.make_models(post)
 
 def extract(html, attrs={}):
     soup = BeautifulSoup(html, 'html.parser')

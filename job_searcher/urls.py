@@ -20,7 +20,7 @@ from django.conf import settings
 from . import views
 
 urlpatterns = [
-    url(r'^/?$', views.index),
+    url(r'^$', views.index),
     url(r'^admin/', admin.site.urls),
     url(r'^job_post/', include('job_parser.urls')),
 ] + static.static(settings.STATIC_URL,

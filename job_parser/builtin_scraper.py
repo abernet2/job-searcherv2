@@ -20,4 +20,7 @@ def scrape():
     return pages
 
 if __name__ == '__main__':
-    print(scrape())
+    pages = scrape()
+    for page in pages:
+        page.save()
+        print(page)
